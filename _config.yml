@@ -1,0 +1,12 @@
+# Site settings
+title: DALI Meeting 2016
+email: andrea.odermatt@tuebingen.mpg.de
+description: > # this means to ignore newlines until "baseurl:"
+  This is the website of the annual DALI meeting. Data, Learning and Inference
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dalimeeting.org" # the base hostname & protocol for your site
+twitter_username: ""
+github_username: ""
+
+# Build settings
+markdown: kramdown
