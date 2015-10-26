@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+<article>
+	  
+  <p>The conference will be held at {{ site.conference.location }}. From {{ site.conference.dates[0] | date: "%A %B, %-d" }} to From {{ site.conference.dates.last | date: "%A %B, %-d" }}.
+
+   
+  {{ content }}
+
+</article>
+
+
