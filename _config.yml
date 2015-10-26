@@ -28,7 +28,7 @@ conference:
   - {date: 30, day: Friday, month: March, year: 2016}
   - {date: 31, day: Saturday, month: March, year: 2016}
   - {date: 1, day: Sunday, month: April, year: 2016}
-  draft: Y # set to Y if the programme is draft only.
+  draft: True # set to True if the programme is draft only.
   sponsors:
   - name: Max-Planck-ETH Center for Learning Systems
 baseurl: "" # the subpath of your site, e.g. /blog/

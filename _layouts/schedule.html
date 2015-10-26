@@ -4,7 +4,11 @@ title: Schedule
 ---
 	
 <article>
-	  
+
+  {% if site.draft %}
+  <h2>Draft Version</h2>
+  {% endif %}
+ 
   {{ content }}
   
   <p>We have lined up the following <strong>workshops</strong> (names of organisers in parentheses):</p>

@@ -10,7 +10,11 @@ layout: default
   </header>
   
   <article class="post-content">
-    
+
+    {% if site.draft %}
+    <h2>Draft Schedule</h2>
+    {% endif %}
+
     {{ content }}
 
     {% for post in site.posts %}
