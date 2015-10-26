@@ -25,9 +25,9 @@ conference:
   year: 2016
   month: March
   dates:
-  - {date: 30, day: Friday, month: March, year: 2016}
-  - {date: 31, day: Saturday, month: March, year: 2016}
-  - {date: 1, day: Sunday, month: April, year: 2016}
+  - 2016-03-30
+  - 2016-03-31
+  - 2016-04-01
   draft: True # set to True if the programme is draft only.
   sponsors:
   - name: Max-Planck-ETH Center for Learning Systems
