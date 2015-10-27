@@ -2,6 +2,8 @@
 title:  "Machine Learning Software"
 layout: workshop
 organizer_url: 
+categories:
+- dali2016
 organizers:
 - firstname: Joaquin 
   lastname: Quiñonero Candela
