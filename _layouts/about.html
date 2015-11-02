@@ -17,36 +17,39 @@ layout: page
   <br>{{ sponsor.name }}</br>
   {% endfor %}
   {% endif %}
-  {% if site.conference.organizers %}
 
   <p><strong>Organizers</strong></p>
 
+  {% if site.conference.local %}
   <p>Local Chair:</p>
   {% for person in site.conference.local %}
   <br>{% if person.url %}<a href="{{ person.url }}">{% endif %}{{ person.name }}{% if person.url %}</a>{% endif %} {{ person.institute }}</br>
   {% endfor %}
   {% endif %}
 
+  {% if site.conference.general %}
   <p>General Chair:</p>
   {% for person in site.conference.general %}
   <br>{% if person.url %}<a href="{{ person.url }}">{% endif %}{{ person.name }}{% if person.url %}</a>{% endif %} {{ person.institute }}</br>
   {% endfor %}
   {% endif %}
 
+  {% if site.conference.symposium %}
   <p>Symposium Chair:</p>
   {% for person in site.conference.symposium %}
   <br>{% if person.url %}<a href="{{ person.url }}">{% endif %}{{ person.name }}{% if person.url %}</a>{% endif %} {{ person.institute }}</br>
   {% endfor %}
   {% endif %}
 
+  {% if site.conference.workshop %}
   <p>Workshops Chair:</p>
-  {% for person in site.conference.symposium %}
+  {% for person in site.conference.workshop %}
   <br>{% if person.url %}<a href="{{ person.url }}">{% endif %}{{ person.name }}{% if person.url %}</a>{% endif %} {{ person.institute }}</br>
   {% endfor %}
   {% endif %}
 
+  {% if site.conference.steering %}
   <p><strong>DALI Steering Committee</strong></p>
-  <p>overall:</p>
   {% for person in site.conference.steering %}
   <br>{% if person.url %}<a href="{{ person.url }}">{% endif %}{{ person.name }}{% if person.url %}</a>{% endif %} {{ person.institute }}</br>
   {% endfor %}
