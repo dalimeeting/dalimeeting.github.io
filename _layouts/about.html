@@ -22,7 +22,7 @@ layout: page
 
   {% if site.conference.local %}
   {% assign lastone = site.conference.local | last %}
-  <p>Local Chair:</p>
+  <p>Local Chair:
   {% for person in site.conference.local %}
   {% include listperson.html %}
   {% endfor %}</p>
