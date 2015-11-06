@@ -17,21 +17,57 @@ layout: page
   <br>{{ sponsor.name }}</br>
   {% endfor %}
   {% endif %}
-  {% if site.conference.organizers %}
 
   <p><strong>Organizers</strong></p>
-  <p>overall:</p>
-  {% for person in site.conference.organizers %}
-  <br>{% if person.url %}<a href="{{ person.url }}">{% endif %}{{ person.name }}{% if person.url %}</a>{% endif %} {{ person.institute }}</br>
-  {% endfor %}
+
+  {% if site.conference.local %}
+  {% assign lastone = site.conference.local | last %}
+  <p>Local Chair:
+  {% for person in site.conference.local %}
+  {% include listperson.html %}
+  {% endfor %}</p>
+  {% endif %}
+
+  {% if site.conference.general %}
+  {% assign lastone = site.conference.general | last %}
+  <p>General Chair:
+  {% for person in site.conference.general %}
+  {% include listperson.html %}
+  {% endfor %}</p>
+  {% endif %}
+
+  {% if site.conference.symposium %}
+  {% assign lastone = site.conference.symposium | last %}
+  <p>Symposium Chair:
+  {% for person in site.conference.symposium %}
+  {% include listperson.html %}
+  {% endfor %}</p>
+  {% endif %}
+
+  {% if site.conference.workshop %}
+  {% assign lastone = site.conference.workshop | last %}
+  <p>Workshops Chair:
+  {% for person in site.conference.workshop %}
+  {% include listperson.html %}
+  {% endfor %}</p>
   {% endif %}
 
   {% if site.conference.fundraising %}
-  <p>fundraising:</p>
+  {% assign lastone = site.conference.fundraising | last %}
+  <p>Fundraising Chair:</p>
   {% for person in site.conference.fundraising %}
-  <br>{% if person.url %}<a href="{{ person.url }}">{% endif %}{{ person.name }}{% if person.url %}</a>{% endif %} {{ person.institute }}</br>
+  {% include listperson.html %}
   {% endfor %}
   {% endif %}
+
+  {% if site.conference.steering %}
+  {% assign lastone = site.conference.steering | last %}
+  <p><strong>DALI Steering Committee</strong></p>
+  {% for person in site.conference.steering %}
+  {% include listperson.html %}
+  {% endfor %}</p>
+  {% endif %}
+
 </article>
 
 
