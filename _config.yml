@@ -3,6 +3,7 @@ title: DALI 2016 - Data Learning and Inference
 venue: Sestri Levante, Italy
 permalink: "/:categories/:title.html"
 banner: sestri.jpeg
+previous_year_link: "http://isweb.is.tuebingen.mpg.de/dali/"
 conference:
   hosts:
   general:
@@ -45,6 +46,7 @@ conference:
   draft: True # set to True if the programme is draft only.
   sponsors:
   - name: Max-Planck-ETH Center for Learning Systems
+    url: "http://learning-systems.org/"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dalimeeting.github.io" # the base hostname & protocol for your site
 twitter_username: 
