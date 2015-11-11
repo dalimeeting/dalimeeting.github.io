@@ -18,8 +18,12 @@ title: Schedule
   {% endif %}
   {% endfor %}
   
+
+  <br>
+    
   {% for post in site.posts reversed %}
   {% if post.layout == "day" %}
+  <br>    
   <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%A, %B %-d" }}</a>  <i>{{ post.tagline }}</i> </p>
   
   {% for talk in post.talks %}

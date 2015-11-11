@@ -44,4 +44,11 @@ talks:
   end: "20:00"
 - title: ""
   start: "Dinner"
+speakers:
+- Francis Bach 
+- Matthias Hein 
+- Alessandro Lazaric 
+- Gilles Blanchard 
+- Haipeng Luo 
+- Shai Shalev-Shwartz 
 ---

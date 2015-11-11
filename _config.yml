@@ -3,7 +3,6 @@ title: DALI 2016 - Data Learning and Inference
 venue: Sestri Levante, Italy
 permalink: "/:categories/:title.html"
 banner: sestri.jpeg
-previous_year_link: "http://isweb.is.tuebingen.mpg.de/dali/"
 conference:
   hosts:
   general:
