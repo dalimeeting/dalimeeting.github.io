@@ -46,9 +46,10 @@ talks:
   start: "Dinner"
 speakers:
 - Francis Bach 
+- Gilles Blanchard 
 - Matthias Hein 
 - Alessandro Lazaric 
-- Gilles Blanchard 
 - Haipeng Luo 
+- Andreas Maurer 
 - Shai Shalev-Shwartz 
 ---
