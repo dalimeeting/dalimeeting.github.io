@@ -1,5 +1,5 @@
 ---
-title:  "Machine Learning Software"
+title:  "Machine Learning and Society"
 layout: workshop
 organizer_url: 
 categories:
