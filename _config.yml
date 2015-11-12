@@ -6,7 +6,7 @@ banner: sestri.jpeg
 conference:
   hosts:
   general:
-  - name: Thomas Hoffman
+  - name: Thomas Hofmann
     url: "http://www.da.inf.ethz.ch/people/ThomasHofmann/"
     institute: ETH Zurich
   workshop:
@@ -25,7 +25,7 @@ conference:
   - name: Zoubin Ghaharamani
     url: "http://mlg.eng.cam.ac.uk/zoubin/"
     institute: University of Cambridge
-  - name: Thomas Hoffman
+  - name: Thomas Hofmann
     url: "http://www.da.inf.ethz.ch/people/ThomasHofmann/"
     institute: ETH Zurich
   - name: Neil Lawrence
@@ -45,6 +45,7 @@ conference:
   draft: True # set to True if the programme is draft only.
   sponsors:
   - name: Max-Planck-ETH Center for Learning Systems
+    url: "http://learning-systems.org/"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dalimeeting.github.io" # the base hostname & protocol for your site
 twitter_username: 
