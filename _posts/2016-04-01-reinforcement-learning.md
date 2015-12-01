@@ -1,5 +1,5 @@
 ---
-title:  "Learning and Optimization"
+title:  "Reinforcement Learning"
 layout: workshop
 organizer_url: 
 categories:
@@ -11,7 +11,7 @@ organizers:
   institute: University of Alberta
 - firstname: Yasin 
   lastname: Abbasi-Yadkori
-  url: "http://imagine.enpc.fr/~obozinsg/"
+  url: "https://webdocs.cs.ualberta.ca/~abbasiya/"
   institute: Queensland University of Technology
 talks:
 - title: "Morning Session I - Talk 1"
