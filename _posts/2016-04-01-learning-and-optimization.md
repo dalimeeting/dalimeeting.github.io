@@ -5,14 +5,14 @@ organizer_url:
 categories:
 - dali2016
 organizers:
-- firstname: Csaba
-  lastname: Szepesvari
-  url: "http://www.ualberta.ca/~szepesva/"
-  institute: University of Alberta
-- firstname: Yasin 
-  lastname: Abbasi-Yadkori
+- firstname: Stefanie
+  lastname: Jegelka
+  url: "http://people.csail.mit.edu/stefje/"
+  institute: Massachusetts Institute of Technology
+- firstname: Guillaume
+  lastname: Obozinski
   url: "http://imagine.enpc.fr/~obozinsg/"
-  institute: Queensland University of Technology
+  institute: Ecole des Ponts - ParisTech
 talks:
 - title: "Morning Session I - Talk 1"
   start: "09:30"
