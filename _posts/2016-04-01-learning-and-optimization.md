@@ -14,41 +14,21 @@ organizers:
   url: "http://imagine.enpc.fr/~obozinsg/"
   institute: Ecole des Ponts - ParisTech
 talks:
-- title: "Morning Session I - Talk 1"
+- title: "Morning Session 1"
   start: "09:30"
-  end: "10:10"
-- title: "Morning Session I - Talk 2"
-  start: "10:10"
-  end: "10:50"
-- title: ""
-  start: "Coffee Break"
-- title: "Morning Session II - Talk 1"
+  end: "11:00"
+- title: "Coffee Break"
   start: "11:00"
-  end: "11:40"
-- title: "Morning Session II - Talk 2"
-  start: "11:40"
-  end: "12:20"
-- title: "Morning Session II - Talk 3"
-  start: "12:20"
+  end: "11:30"
+- title: "Morning Session 2"
+  start: "11:30"
   end: "13:00"
-- title: ""
-  start: "Lunch and Afternoon Activities"
-- title: "Afternoon Session - Talk 1"
+- title: "Activities"
+  start: "13:00"
+  end: "18:00"
+- title: "Afternoon Session"
   start: "18:00"
-  end: "18:40"
-- title: "Afternoon Session - Talk 2"
-  start: "18:40"
-  end: "19:20"
-- title: "Afternoon Session - Talk 3"
-  start: "19:20"
   end: "20:00"
-- title: ""
-  start: "Dinner"
-speakers:
-- Francis Bach 
-- Matthias Hein 
-- Alessandro Lazaric 
-- Gilles Blanchard 
-- Haipeng Luo 
-- Shai Shalev-Shwartz 
+- title: "Dinner"
+  start: "20:00"
 ---
