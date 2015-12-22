@@ -31,4 +31,13 @@ talks:
   end: "20:00"
 - title: "Dinner"
   start: "20:00"
+speakers:
+- Mohammad Ghavamzadeh
+- Gergely Neu
+- Gerhard Neumann
+- Tor Lattimore
+- Marek Petrik
+- Joelle Pineau
+- Doina Precup
+- Brian Ziebart
 ---
