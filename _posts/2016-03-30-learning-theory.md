@@ -52,4 +52,5 @@ speakers:
 - Haipeng Luo 
 - Andreas Maurer 
 - Ben-David Shai
+- Shai Shalev-Shwartz 
 ---
