@@ -51,6 +51,6 @@ speakers:
 - Alessandro Lazaric 
 - Haipeng Luo 
 - Andreas Maurer 
-- Ben-David Shai
+- Shai Ben-David
 - Shai Shalev-Shwartz 
 ---
