@@ -9,6 +9,10 @@ organizers:
   lastname: Hochreiter
   url: http://www.bioinf.jku.at/people/hochreiter/
   institute: "Institute of Bioinformatics, Johannes Kepler University Linz"
+- firstname: Alex
+  lastname: Graves
+  url: http://www.cs.toronto.edu/~graves/
+  institute: "Google DeepMind"
 talks:
 - title: "Morning Session 1"
   start: "09:30"
