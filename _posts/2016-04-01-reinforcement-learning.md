@@ -39,5 +39,6 @@ speakers:
 - Marek Petrik
 - Joelle Pineau
 - Doina Precup
+- Martin Riedmiller
 - Brian Ziebart
 ---
