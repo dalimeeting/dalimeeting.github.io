@@ -31,4 +31,13 @@ talks:
   end: "20:00"
 - title: "Dinner"
   start: "20:00"
+speakers:
+- Mikhail Bilenko
+- Michael Berthold
+- Yangqing Jia
+- Gasthaus Jan
+- Soumith Chintala
+- Aish Fenton
+- Gary Lam
+- Jack Guo
 ---

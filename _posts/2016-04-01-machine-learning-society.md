@@ -7,7 +7,7 @@ categories:
 organizers:
 - firstname: Michael 
   lastname: Osborne
-  url: "www.robots.ox.ac.uk/~mosb/"
+  url: "http://www.robots.ox.ac.uk/~mosb/"
   institute: University of Oxford
 - firstname: Adrian
   lastname: Weller
