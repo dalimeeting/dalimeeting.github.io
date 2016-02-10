@@ -34,10 +34,11 @@ talks:
 speakers:
 - Mikhail Bilenko
 - Michael Berthold
-- Yangqing Jia
-- Gasthaus Jan
 - Soumith Chintala
 - Aish Fenton
-- Gary Lam
 - Jack Guo
+- Yangqing Jia
+- Gasthaus Jan
+- Gary Lam
+- Matthias Seeger
 ---

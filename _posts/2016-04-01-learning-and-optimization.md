@@ -31,4 +31,10 @@ talks:
   end: "20:00"
 - title: "Dinner"
   start: "20:00"
+speakers:
+- Francis Bach
+- Martin Jaggi
+- Andreas Krause
+- Shalev-Shwartz Shai
+- Silvia Villa
 ---

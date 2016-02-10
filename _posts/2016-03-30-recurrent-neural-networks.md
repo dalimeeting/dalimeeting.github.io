@@ -31,4 +31,14 @@ talks:
   end: "20:00"
 - title: "Dinner"
   start: "20:00"
+speakers:
+- Pierre Baldi
+- Samy Bengio
+- Li Deng
+- Paolo Frasconi
+- Marco Gori
+- Nal Kalchbrenner
+- Andrew Senior
+- Jürgen Schmidhuber
+- Oriol	Vinyals
 ---
