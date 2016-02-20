@@ -75,6 +75,16 @@ layout: page
   {% endfor %}
   {% endif %}
 
+  {% if site.conference.assistants %}
+  {% assign lastone = site.conference.assistants | last %}
+  <p><strong>Organization Assistants</strong></p>
+  {% for person in site.conference.assistants %}
+  {% include listperson.html %}<br>
+  {% endfor %}</p>
+  {% endif %}
+
+
+
   {% if site.conference.steering %}
   {% assign lastone = site.conference.steering | last %}
   <p><strong>DALI Steering Committee</strong></p>

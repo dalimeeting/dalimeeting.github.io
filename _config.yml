@@ -21,6 +21,13 @@ conference:
   - name: Lorenzo Rosasco
     url: "http://web.mit.edu/lrosasco/www/"
     institute: University of Genova and MIT
+  assistants:
+  - name: Carlo Ciliberto
+    url: "https://it.linkedin.com/in/carlo-ciliberto-174a98105"
+    institute: IIT and MIT
+  - name: Sabrina Nepozitek
+    url: "http://www.da.inf.ethz.ch/people/SabrinaNepozitek/"
+    institute: ETH Zurich
   steering:
   - name: Zoubin Ghaharamani
     url: "http://mlg.eng.cam.ac.uk/zoubin/"

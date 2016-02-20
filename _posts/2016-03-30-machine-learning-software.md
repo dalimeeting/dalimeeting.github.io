@@ -13,6 +13,10 @@ organizers:
   lastname: Herbrich
   url: "http://herbrich.me/wp/"
   institute: Amazon
+- firstname: Hussein
+  lastname: Mehanna
+  url: "https://www.linkedin.com/in/hussein-mehanna-79219b1"
+  institute: Facebook
 talks:
 - title: "Morning Session 1"
   start: "09:30"
