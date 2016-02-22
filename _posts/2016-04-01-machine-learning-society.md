@@ -75,8 +75,8 @@ talks:
   end: "19:15"
 - title: "Panel Discussion"
   speaker: "Noel Sharkey, Jonathan Price, Richard Mallah, Conrad McDonnell, Adrian Weller"
-  start: "18:50"
-  end: "19:15"
+  start: "19:15"
+  end: "20:00"
 - title: "Dinner"
   start: "20:00"
 ---
