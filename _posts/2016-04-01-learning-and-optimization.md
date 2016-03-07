@@ -35,6 +35,7 @@ speakers:
 - Francis Bach
 - Martin Jaggi
 - Andreas Krause
+- Wouter M. Koolen
 - Shai Shalev-Shwartz
 - Silvia Villa
 ---

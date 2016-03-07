@@ -75,4 +75,11 @@ talks:
   end: "20:00"
 - title: "Dinner"
   start: "20:00"
+speakers:
+- Daniel Susskind
+- Katie Gorman
+- John Quinn
+- Conrad McDonnell
+- Noel Sharkey
+- Jonathan Price
 ---
