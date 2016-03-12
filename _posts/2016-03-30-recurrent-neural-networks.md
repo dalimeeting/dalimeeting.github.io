@@ -18,7 +18,7 @@ talks:
   start: "09:30"
   end: "11:00"
 - title: ""
-  start: "Coffee Break (11:15 - 11:45)"
+  start: "Coffee Break"
 - title: "Morning Session 2"
   start: "11:45"
   end: "13:00"
