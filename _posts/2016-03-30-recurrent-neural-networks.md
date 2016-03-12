@@ -23,7 +23,7 @@ talks:
   start: "11:45"
   end: "13:00"
 - title: ""
-  start: "Lunch and Afternoon Activities (13:00 - 18:00)
+  start: "Lunch and Afternoon Activities"
 - title: "Afternoon Session"
   start: "18:00"
   end: "20:00"

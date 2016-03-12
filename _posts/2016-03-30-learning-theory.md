@@ -47,10 +47,10 @@ talks:
 speakers:
 - Francis Bach 
 - Gilles Blanchard 
+- Remi Gribonval
 - Matthias Hein 
 - Alessandro Lazaric 
 - Haipeng Luo 
 - Andreas Maurer 
-- Shai Ben-David
-- Shai Shalev-Shwartz 
+- Shai Ben-David 
 ---
