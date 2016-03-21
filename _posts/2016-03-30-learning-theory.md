@@ -14,7 +14,8 @@ organizers:
   url: "http://web.mit.edu/lrosasco/www/"
   institute: University of Genova and MIT
 talks:
-- title: "Shai Ben-David"
+- title: "How far are we from having a satisfactory theory of clustering?"
+  speaker: "Shai Ben-David"
   start: "09:30"
   end: "10:05"
 - title: "Alessandro Lazaric "
