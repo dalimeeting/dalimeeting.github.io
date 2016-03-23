@@ -58,6 +58,7 @@ talks:
   speaker: "Zoubin Ghahramani, University of Cambridge"
   start: "18:30"
   end: "19:00"
+  abstract: "I will describe the 'Automatic Statistician' (http://www.automaticstatistician.com/index/),  a project which aims to automate the exploratory analysis and modelling of data. Our approach starts by defining a large space of related probabilistic models via a grammar over models, and then uses Bayesian marginal likelihood computations to search over this space  for one or a few good models of the data. The aim is to find models which have both good predictive performance, and are somewhat interpretable. The Automatic Statistician generates a natural language summary of the analysis, producing a 10-15 page report with plots and tables describing the analysis.  I will also link this to recent work we have been doing in the area of Probabilistic Programming (including an new system in Julia) to automate inference, and on the rational allocation of computational resources (and our entry in the AutoML conference). The theme is: automate, automate, automate!"
 - title: "Panel Discussion"
   start: "19:00"
   end: "20:00"
