@@ -26,7 +26,7 @@ layout: default
     {% endfor %}
 
     {% for talk in page.talks %}
-    <br>{{ talk.start }} {% if talk.end %}- {{ talk.end }}{% endif %} <b>{{ talk.title }}</b> {{ talk.speaker }}</br>
+    <br>{{ talk.start }} {% if talk.end %}- {{ talk.end }}{% endif %}  <b>{% if talk.abstract and page.show_abstracts%}<a class='talk' href='#{{talk.speaker}}'>{{ talk.title }}</a>{% else %}{{talk.title}}{% endif %}</b> {{ talk.speaker }}</br>
     {% endfor %}
     
     
@@ -40,7 +40,7 @@ layout: default
         {% if talk.abstract %}
 
         <br>
-<h4 style='margin-bottom:0'><b>{{ talk.title }}</b></h4>
+<h4 id='{{talk.speaker}}' style='margin-bottom:0'><b>{{ talk.title }}</b></h4>
             {{ talk.speaker }}
 
 

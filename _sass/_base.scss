@@ -100,8 +100,25 @@ a {
         color: $text-color;
         text-decoration: underline;
     }
+    
 }
 
+
+a.talk {
+
+    color: $text-color;
+    text-decoration: none;
+
+    &:visited {
+        color: $text-color;
+    }
+
+    &:hover {
+        color: $brand-color;
+        text-decoration: underline;
+    }
+
+}
 
 
 /**
