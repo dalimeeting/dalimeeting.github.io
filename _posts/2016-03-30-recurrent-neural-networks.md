@@ -80,9 +80,11 @@ talks:
 speakers:
 - Pierre Baldi
 - Samy Bengio
-- Li Deng
+- Ali Eslami
 - Paolo Frasconi
 - Marco	Gori
+- Alex Graves
+- Sepp Hochreiter
 - Nal Kalchbrenner
 - Jürgen Schmidhuber
 - Andrew Senior
