@@ -21,7 +21,7 @@ talks:
 - title: "Morning Session 1"
   start: "09:30"
   end: "11:00"
-- title: "TBA"
+- title: "The Future of the Professions and the 'AI Fallacy'"
   speaker:  "Daniel Susskind"
   start: "9:30"
   end: "10:55"
