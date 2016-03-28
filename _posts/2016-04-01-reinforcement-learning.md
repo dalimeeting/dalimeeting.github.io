@@ -13,6 +13,7 @@ organizers:
   lastname: Abbasi-Yadkori
   url: "https://webdocs.cs.ualberta.ca/~abbasiya/"
   institute: Queensland University of Technology
+show_abstracts: true
 talks:
 - title: "TBA"
   speaker: "Gerhard Neumann"
