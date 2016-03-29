@@ -32,10 +32,12 @@ talks:
   abstract: "We argue that in some situations, minimizing the maximal loss over the training set is essential for achieving good performance on unseen examples. We present a stochastic algorithm for solving the resulted optimization problem."
 - title: ""
   start: "Coffee Break"
-- title: ""
+- title: "Variational Inference in Probabilistic Submodular Models"
   speaker: "Andreas Krause"
   start: "11:45"
   end: "12:20"
+  abstract: "As a discrete analogue of convexity, submodularity has profound implications for optimization. In recent years, submodular optimization has found many new applications, such as in machine learning and related fields. In this talk, I will present our recent work on quantifying uncertainty in submodular optimization. In particular, we carry out the first systematic investigation of inference and learning in probabilistic submodular models (PSMs). These are probabilistic models defined through submodular functions -- log-sub/supermodular distributions -- generalizing regular binary Markov Random Fields and Determinantal Point Processes. They express natural notions such as attractiveness and repulsion and allow to capture long-range, high-order dependencies among the variables.  I will present our recently discovered variational approach towards inference in general PSMs based on sub- and supergradients. We obtain both lower and upper bounds on the log-partition function, which enables computing probability intervals for marginals,
+conditionals and marginal likelihoods. We also obtain fully factorized approximate posteriors, at essentially the same computational cost as ordinary submodular optimization. Our framework results in convex problems for optimizing over differentials of submodular functions, which we show how to optimally solve. Our approximation is exact at the mode (for log-supermodular distributions), and we provide bounds on the approximation quality of the log-partition function with respect to the curvature of the function. We further establish natural relations between our variational approach and the classical mean-field method from statistical physics. Exploiting additive structure in the objective leads to highly scalable, parallelizable message passing algorithms. We empirically demonstrate the accuracy of our inference scheme on several PSMs arising in computer vision and network analysis."
 - title: "On the Global Linear Convergence of Frank-Wolfe Optimization Variants"
   speaker: "Simon Lacoste-Julien"
   start: "12:20"
