@@ -62,13 +62,18 @@ Research"
   speaker: "Richard Mallah"
   start: "18:50"
   end: "19:15"
+- title: ""
+  speaker: "Chloe-Agathe Azencott"
+  start: "19:15"
+  end: "19:40"
 - title: "Panel Discussion"
   speaker: "Noel Sharkey, Jonathan Price, Richard Mallah, Conrad McDonnell, Adrian Weller"
-  start: "19:15"
+  start: "19:40"
   end: "20:00"
 - title: "Dinner"
   start: "20:00"
 speakers:
+- Chloe-Agathe Azencott
 - Katie Gorman
 - Richard Mallah
 - Conrad McDonnell
