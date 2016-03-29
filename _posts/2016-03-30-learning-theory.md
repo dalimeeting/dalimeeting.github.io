@@ -44,7 +44,7 @@ talks:
   abstract: "We propose Sketched Online Newton (SON), an online second order learning algorithm that enjoys substantially improved regret guarantees for ill-conditioned data. SON is an enhanced version of the Online Newton Step, which, via sketching techniques enjoys a linear running time. We further improve the computational complexity to linear in the number of nonzero entries by creating sparse forms of the sketching methods (such as Oja's rule) for top eigenvector extraction. Together, these algorithms eliminate all computational obstacles in previous second order online learning approaches. This is joint work with Alekh Agarwal, Nicolo Cesa-Bianchi and John Langford."
 - title: ""
   start: "Lunch and Afternoon Activities"
-- title: ""
+- title: "Spectral convergence of the graph Laplacian"
   speaker: "Matthias Hein, Saarland University"
   start: "18:00"
   end: "18:40"
