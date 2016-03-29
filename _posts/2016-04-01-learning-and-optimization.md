@@ -14,6 +14,7 @@ organizers:
   url: "http://imagine.enpc.fr/~obozinsg/"
   institute: Ecole des Ponts - ParisTech
 show_abstracts: true
+room: "Sala Ginestra"
 talks:
 - title: "Primal-Dual Rates and Certificates"
   speaker: "Martin Jaggi"

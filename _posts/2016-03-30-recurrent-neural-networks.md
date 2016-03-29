@@ -13,6 +13,7 @@ organizers:
   lastname: Graves
   url: http://www.cs.toronto.edu/~graves/
   institute: "Google DeepMind"
+room: "Sala Oleandro"
 talks:
 - title: "Introduction"
   speaker: "Sepp Hochreiter, Alex Graves"

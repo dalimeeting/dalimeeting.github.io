@@ -11,6 +11,11 @@ layout: default
   <article class="post-content">
     <p>{% if page.organizer_url %}<a href="{{ page.organizer_url }}">Organizer's workshop page</a>{% endif %}</p>
 
+    <h3>
+        Room: {{ page.room }}
+    </h3>
+    <br>
+      
     {% if page.speakers %}
     <p>
         Speakers:

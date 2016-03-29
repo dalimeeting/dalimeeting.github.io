@@ -14,6 +14,7 @@ organizers:
   url: "http://web.mit.edu/lrosasco/www/"
   institute: University of Genova and MIT
 show_abstracts: true
+room: "Sala Ginestra"
 talks:
 - title: "How far are we from having a satisfactory theory of clustering?"
   speaker: "Shai Ben-David, Universitys of Waterloo"

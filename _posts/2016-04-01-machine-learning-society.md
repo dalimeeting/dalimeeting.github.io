@@ -17,6 +17,7 @@ organizers:
   lastname: Lawrence
   url: "http://inverseprobability.com"
   institute: University of Sheffield
+room: "Sala Ginepro"
 talks:
 - title: "The Future of the Professions and the 'AI Fallacy'"
   speaker:  "Daniel Susskind"

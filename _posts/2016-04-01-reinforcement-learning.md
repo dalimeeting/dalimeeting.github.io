@@ -14,6 +14,7 @@ organizers:
   url: "https://webdocs.cs.ualberta.ca/~abbasiya/"
   institute: Queensland University of Technology
 show_abstracts: true
+room: "Sala Agave"
 talks:
 - title: "TBA"
   speaker: "Gerhard Neumann"

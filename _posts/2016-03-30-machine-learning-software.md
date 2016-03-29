@@ -17,6 +17,7 @@ organizers:
   lastname: Mehanna
   url: "https://www.linkedin.com/in/hussein-mehanna-79219b1"
   institute: Facebook
+room: Sala Ginepro
 talks:
 - title: "Introduction"
   speaker: "Ralf Herbrich & Joaquin Candela"

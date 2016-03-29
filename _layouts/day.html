@@ -24,6 +24,13 @@ layout: default
     {% endif %}
     {% endunless %}
     {% endfor %}
+    
+    {% if page.room %}
+    <h3>
+        Room: {{ page.room }}
+    </h3>
+    <br>
+    {% endif %}
 
     {% for talk in page.talks %}
     <br>{{ talk.start }} {% if talk.end %}- {{ talk.end }}{% endif %}  <b>{% if talk.abstract and page.show_abstracts%}<a class='talk' href='#{{talk.speaker}}'>{{ talk.title }}</a>{% else %}{{talk.title}}{% endif %}</b> {{ talk.speaker }}</br>
