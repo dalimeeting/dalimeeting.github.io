@@ -43,6 +43,7 @@ conditionals and marginal likelihoods. We also obtain fully factorized approxima
   speaker: "Simon Lacoste-Julien"
   start: "12:20"
   end: "12:55"
+  abstract: "The Frank-Wolfe (FW) optimization algorithm has lately re-gained popularity thanks in particular to its ability to nicely handle the structured constraints appearing in machine learning applications. However, its convergence rate is known to be slow (sublinear) when the solution lies at the boundary. In this talk, I will present some less well-known variants of the FW algorithm for which we proved their global linear convergence rate recently for the first time, highlighting at the same time an interesting geometric notion of 'condition number' for the constraint set appearing in the constant."
 - title: ""
   start: "Lunch and Afternoon Activities"
 - title: "Submodular Functions: from Discrete to Continous Domains"
