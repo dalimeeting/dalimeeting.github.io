@@ -41,7 +41,7 @@ talks:
   speaker: "Gergely Neu"
   start: "12:20"
   end: "12:55"
-  abstract: "In stochastic bandit problems, the principle of "optimism in the face of uncertainty" has proven to be an essential tool for designing efficient exploration policies. Despite this success, the notion of optimism has been relatively unexplored in the world of non-stochastic (or adversarial) bandits. In this talk, I describe an optimistic exploration technique called "implicit exploration" for non-stochastic multi-armed bandits that leads to a family of learning algorithms with improved empirical performance and theoretical guarantees. For the first time, these results suggest that a certain degree of optimism can be very useful even in adversarial domains."
+  abstract: "In stochastic bandit problems, the principle of 'optimism in the face of uncertainty' has proven to be an essential tool for designing efficient exploration policies. Despite this success, the notion of optimism has been relatively unexplored in the world of non-stochastic (or adversarial) bandits. In this talk, I describe an optimistic exploration technique called 'implicit exploration' for non-stochastic multi-armed bandits that leads to a family of learning algorithms with improved empirical performance and theoretical guarantees. For the first time, these results suggest that a certain degree of optimism can be very useful even in adversarial domains."
 - title: ""
   start: "Lunch and Afternoon Activities"
 - title: "Optimising the Confidence Level for Multi-Armed Bandit Algorithms"
