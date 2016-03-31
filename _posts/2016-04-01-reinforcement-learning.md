@@ -61,13 +61,11 @@ talks:
 - title: ""
   start: "Dinner"
 speakers:
-- Mohammad Ghavamzadeh
 - Gergely Neu
 - Gerhard Neumann
 - Tor Lattimore
 - Marek Petrik
 - Joelle Pineau
 - Doina Precup
-- Martin Riedmiller
 - Brian Ziebart
 ---
