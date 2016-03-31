@@ -23,7 +23,7 @@ talks:
   speaker:  "Daniel Susskind"
   start: "9:30"
   end: "10:00"
-- title: ""
+- title: "Why Autonomous Warfare is a Bad Idea"
   speaker: "Noel Sharkey"
   start: "10:00"
   end: "10:25"
