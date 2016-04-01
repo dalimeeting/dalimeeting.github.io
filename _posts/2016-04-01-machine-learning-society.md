@@ -18,6 +18,7 @@ organizers:
   url: "http://inverseprobability.com"
   institute: University of Sheffield
 room: "Sala Ginepro"
+show_abstracts: true
 talks:
 - title: "The Future of the Professions and the 'AI Fallacy'"
   speaker:  "Daniel Susskind"
@@ -32,10 +33,11 @@ Research"
   speaker: "Richard Mallah"
   start: "10:25"
   end: "10:50"
-- title: ""
+- title: "How to Squash the Hype: Practical strategies for bringing the reality of research into the public conversation"
   speaker: "Katie Gorman"
   start: "10:50"
   end: "11:15"
+  abstract: "Almost all of the media coverage surrounding ML and AI research shares one characteristic: hyperbole. Positive or negative, hyperbole hurts the field by raising hopes and entrenching fears. This creates unrealistic expectations for the tools being developed. We'll explore some basic strategies for how to engage with journalists and help preserve the reality of your research and the field when that story is retold." 
 - title: ""
   start: "Coffee Break"
 - title: ""
