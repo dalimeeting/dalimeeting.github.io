@@ -51,6 +51,18 @@ layout: default
             <p style='margin-top:1em'>
                 {{ talk.abstract }}
             </p>
+
+            {% if talk.abstract2 %}
+                <p style='margin-top:1em'>
+                    {{ talk.abstract2 }}
+                </p>
+            {% endif %}
+            {% if talk.abstract3 %}
+                <p style='margin-top:1em'>
+                    {{ talk.abstract3 }}
+                </p>
+            {% endif %}
+
         </br>
         {% endif %}
     {% endfor %}
