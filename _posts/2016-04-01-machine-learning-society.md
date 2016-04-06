@@ -49,6 +49,7 @@ Her work focuses on the human stories at the heart of complex subjects. After al
   start: "11:45" 
   end: "12:10"
   abstract: "Technological and social changes across the developing world have led to a proliferation of new digital data sources, and with them opportunities for machine learning to be applied in new ways. At an individual scale, it can be useful to automate the judgement of scarce experts (e.g. by automating laboratory diagnostics or diagnosing diseases in crops); at a population scale, the information gaps that hamper effective planning can be addressed (e.g. by using satellite imagery to provide timely and detailed assessments of poverty, or using telecoms-based data on population mobility to improve epidemiological predictions). I will describe some of the opportunities and obstacles for such applications, using examples of systems developed in Uganda."
+  bio: "John Quinn is a Data Scientist in the United Nations Global Pulse lab in Kampala, and part of the Artificial Intelligence group at Makerere University, Uganda. His research interests are in the application of artificial intelligence and data science techniques to practical problems in health, agriculture and other domains. <a href='http://air.ug/~jquinn'>http://air.ug/~jquinn</a>"
   youtube: "NNM4Z6n5_XQ"
 - title: ""
   speaker: "Bernhard Schölkopf"
