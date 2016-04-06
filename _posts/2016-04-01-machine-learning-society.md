@@ -22,6 +22,7 @@ show_abstracts: true
 talks:
 - title: "The Future of the Professions and the 'AI Fallacy'"
   speaker:  "Daniel Susskind"
+  youtube: "3vV5O5m9rx0"
   start: "9:30"
   end: "10:00"
 - title: "Why Autonomous Warfare is a Bad Idea"
