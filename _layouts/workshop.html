@@ -29,7 +29,9 @@ layout: default
       
 <!--    talks list-->
     {% for talk in page.talks %}
-    <br>{{ talk.start }}{% if talk.end %}- {{ talk.end }}{% endif %} <b>{% if talk.abstract and page.show_abstracts%}<a class='talk' href='#{{talk.speaker}}'>{{ talk.title }}</a>{% else %}{{talk.title}}{% endif %}</b> {{ talk.speaker }}</br>
+    <br>{{ talk.start }}{% if talk.end %}- {{ talk.end }}{% endif %} <b>{% if talk.abstract and page.show_abstracts%}<a class='talk' href='#{{talk.speaker}}'>{{ talk.title }}</a>{% else %}{{talk.title}}{% endif %}</b> {{ talk.speaker }}</br> {% if talk.slides %} [<a href='{{ talk.slides }}>slides</a>]{% endif %}
+    {% if talk.youtube %} <iframe width="{{ site.youtube.width }}" height="{{ site.youtube.height }}" src="https://www.youtube.com/embed/{{ talk.youtube }}" frameborder="0" allowfullscreen></iframe>
+    {% endif %}
     {% endfor %}
 
 

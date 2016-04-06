@@ -55,6 +55,9 @@ conference:
     url: "http://learning-systems.org/"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dalimeeting.github.io" # the base hostname & protocol for your site
+youtube:
+  height: 315
+  width: 560
 twitter_username: 
 github_username:  dalimeeting
 future: true
