@@ -43,16 +43,17 @@ layout: default
     <h1 style='font-size:2em'>Abstracts</h1>
 <!--    abstracts-->
     {% for talk in page.talks %}
-        {% if talk.abstract %}
+        {% if talk.abstract or talk.bio %}
 
         <br>
 <h4 id='{{talk.speaker}}' style='margin-bottom:0'><b>{{ talk.title }}</b></h4>
             {{ talk.speaker }}
 
-
+            {% if talk.abstract %}
             <p style='margin-top:1em'>
                 {{ talk.abstract }}
             </p>
+	    {% endif %}
 
             {% if talk.abstract2 %}
                 <p style='margin-top:1em'>
@@ -64,7 +65,12 @@ layout: default
                     {{ talk.abstract3 }}
                 </p>
             {% endif %}
-
+	    {% if talk.bio %}
+		<h4>Speaker Bio</h4>
+                  <p style='margin-top:1em'>
+                    {{ talk.bio }}
+		  </p>
+            {% endif %}
         </br>
         {% endif %}
     {% endfor %}

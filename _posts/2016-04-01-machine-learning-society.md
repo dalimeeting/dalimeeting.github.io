@@ -38,7 +38,10 @@ Research"
   speaker: "Katy Gorman"
   start: "10:50"
   end: "11:15"
-  abstract: "Almost all of the media coverage surrounding ML and AI research shares one characteristic: hyperbole. Positive or negative, hyperbole hurts the field by raising hopes and entrenching fears. This creates unrealistic expectations for the tools being developed. We'll explore some basic strategies for how to engage with journalists and help preserve the reality of your research and the field when that story is retold." 
+  abstract: "Almost all of the media coverage surrounding ML and AI research shares one characteristic: hyperbole. Positive or negative, hyperbole hurts the field by raising hopes and entrenching fears. This creates unrealistic expectations for the tools being developed. We'll explore some basic strategies for how to engage with journalists and help preserve the reality of your research and the field when that story is retold."
+  bio: "Katherine Gorman is a Boston-based podcast producer. In partnership with Ryan Adams (Harvard, Twitter) she created and produces the podcast Talking Machines which she produces and Adams hosts. With new episodes every other Thursday, Talking Machines focuses on telling the real story of current research happening in the machine learning and artificial intelligence fields.
+
+Her work focuses on the human stories at the heart of complex subjects. After almost a decade in public radio, Gorman left NPR and WBUR's daily news show Here and Now to exclusively create original podcasts. She was once bitten by a guest she was interviewing (yes, it was a human, no they don't do ML research)."
 - title: ""
   start: "Coffee Break"
 - title: "Machine Learning in the Developing World"
