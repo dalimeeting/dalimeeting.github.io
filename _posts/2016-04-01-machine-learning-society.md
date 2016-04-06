@@ -32,6 +32,7 @@ talks:
 - title: "The Landscape of AI Safety/Beneficence
 Research"
   speaker: "Richard Mallah"
+  slides: "RichardMallah.pdf"
   start: "10:25"
   end: "10:50"
 - title: "How to Squash the Hype: Practical strategies for bringing the reality of research into the public conversation"
