@@ -54,7 +54,7 @@ conference:
   - name: Max-Planck-ETH Center for Learning Systems
     url: "http://learning-systems.org/"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://dalimeeting.github.io" # the base hostname & protocol for your site
+url: "http://dalimeeting.org" # the base hostname & protocol for your site
 youtube:
   height: 315
   width: 560
