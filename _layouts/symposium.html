@@ -12,8 +12,9 @@ layout: default
     <p>{% if page.organizer_url %}<a href="{{ page.organizer_url }}">Organizer's workshop page</a>{% endif %}</p>
 
     {% for talk in page.talks %}
-    <br>{{ talk.start }} {% if talk.end %}- {{ talk.end }}{% endif %} <b>{{ talk.title }}</b> {{ talk.speaker }}</br>
+    {% include talk.html %}
     {% endfor %}
+
     {{ content }}
   </article>
 
