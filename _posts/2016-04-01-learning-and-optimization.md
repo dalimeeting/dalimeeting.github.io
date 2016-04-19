@@ -1,6 +1,6 @@
 ---
 title:  "Learning and Optimization"
-layout: workshop
+layout: multitrack
 organizer_url: 
 categories:
 - dali2016

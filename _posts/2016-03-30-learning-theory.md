@@ -1,6 +1,6 @@
 ---
 title:  "Learning Theory"
-layout: workshop
+layout: multitrack
 organizer_url: 
 categories:
 - dali2016

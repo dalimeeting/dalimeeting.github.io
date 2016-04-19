@@ -1,6 +1,6 @@
 ---
 title:  "Machine Learning and Society"
-layout: workshop
+layout: multitrack
 organizer_url: 
 categories:
 - dali2016
