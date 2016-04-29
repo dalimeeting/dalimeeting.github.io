@@ -29,6 +29,7 @@ talks:
   speaker: "Noel Sharkey"
   start: "10:00"
   end: "10:25"
+  slides: NoelSharkey.pdf
 - title: "The Landscape of AI Safety/Beneficence
 Research"
   speaker: "Richard Mallah"
