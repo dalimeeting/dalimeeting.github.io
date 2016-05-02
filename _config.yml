@@ -49,7 +49,7 @@ conference:
   - 2016-03-30
   - 2016-03-31
   - 2016-04-01
-  draft: True # set to True if the programme is draft only.
+  draft: False # set to True if the programme is draft only.
   sponsors:
   - name: Max-Planck-ETH Center for Learning Systems
     url: "http://learning-systems.org/"
