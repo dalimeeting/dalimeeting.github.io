@@ -18,9 +18,9 @@ layout: default
     {{ content }}
 
     {% for post in site.posts reversed %}
-    {% unless post.layout == "session" %}
+    {% unless post.layout == "singletrack" %}
     {% if post.date == page.date %}
-    <p><a href="/{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></p>
+    <p><a href="{{ site.url }}/{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></p>
     {% endif %}
     {% endunless %}
     {% endfor %}
