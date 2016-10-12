@@ -1,8 +1,8 @@
 # Site settings
-title: DALI 2016 - Data Learning and Inference
-venue: Sestri Levante, Italy
+title: DALI 2017 - Data Learning and Inference
+venue: H10 Costa Adeje Palace, Tenerife, Canary Islands
 permalink: "/:categories/:title.html"
-banner: sestri.jpeg
+banner: # banner to appear here.
 conference:
   hosts:
   general:
@@ -22,9 +22,9 @@ conference:
     url: "http://web.mit.edu/lrosasco/www/"
     institute: University of Genova and MIT
   assistants:
-  - name: Carlo Ciliberto
-    url: "https://it.linkedin.com/in/carlo-ciliberto-174a98105"
-    institute: IIT and MIT
+  - name: Pablo Olmos
+    url: "http://www.tsc.uc3m.es/~olmos/"
+    institute: " Universidad Carlos III de Madrid"
   - name: Sabrina Nepozitek
     url: "http://www.da.inf.ethz.ch/people/SabrinaNepozitek/"
     institute: ETH Zurich
@@ -37,18 +37,18 @@ conference:
     institute: ETH Zurich
   - name: Neil Lawrence
     url: "http://inverseprobability.com"
-    institute: University of Sheffield
+    institute: Amazon and University of Sheffield
   - name: Bernhard Schölkopf (chair)
     url: "http://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI Tübingen
-  name: DALI 2016 - Data Learning and Inference
-  location: Sestri Levante, Italy
-  year: 2016
-  month: March
+  name: DALI 2017 - Data Learning and Inference
+  location: H10 Costa Adeje Palace, Tenerife, Canary Islands
+  year: 2017
+  month: April
   dates:
-  - 2016-03-30
-  - 2016-03-31
-  - 2016-04-01
+  - 2017-04-18
+  - 2017-04-19
+  - 2017-04-20
   draft: False # set to True if the programme is draft only.
   sponsors:
   - name: Max-Planck-ETH Center for Learning Systems
