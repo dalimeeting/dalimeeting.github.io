@@ -20,7 +20,7 @@
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
-        <a class="page-link" href="http://dalimeeting.org/dali2015/">DALI 2015</a> 
+        <a class="page-link" href="{{ site.previous_meeting.url }}">{{ site.previous_meeting.name }}</a> 
       </div>
     </nav>
 

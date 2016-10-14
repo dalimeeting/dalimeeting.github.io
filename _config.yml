@@ -1,7 +1,8 @@
 # Site settings
 title: DALI 2017 - Data Learning and Inference
 permalink: "/:categories/:title.html"
-banner: # banner to appear here.
+# Include image banner file name below
+banner: 
 conference:
   hosts:
   general:
@@ -53,6 +54,9 @@ conference:
   sponsors:
   - name: Max-Planck-ETH Center for Learning Systems
     url: "http://learning-systems.org/"
+previous_meeting:
+  - name: DALI 2016
+    url: "http://dalimeeting.org/dali2016/"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dalimeeting.org" # the base hostname & protocol for your site
 youtube:
