@@ -1,5 +1,5 @@
 ---
-title:  "Learning Theory"
+title:  "Example Nme"
 layout: multitrack
 organizer_url: 
 categories:
