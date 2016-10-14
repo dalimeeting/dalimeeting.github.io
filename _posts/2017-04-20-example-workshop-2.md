@@ -1,9 +1,9 @@
 ---
-title:  "Machine Learning and Society"
+title:  "Example Workshop 2"
 layout: multitrack
 organizer_url: 
 categories:
-- dali2016
+- dali2017
 organizers:
 - firstname: Michael 
   lastname: Osborne

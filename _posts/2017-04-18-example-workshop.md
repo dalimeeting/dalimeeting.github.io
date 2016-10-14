@@ -3,7 +3,7 @@ title:  "Example Nme"
 layout: multitrack
 organizer_url: 
 categories:
-- dali2016
+- dali2017
 organizers:
 - firstname: Nicolò 
   lastname: Cesa-Bianchi
