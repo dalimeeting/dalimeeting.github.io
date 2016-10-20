@@ -2,7 +2,7 @@
 title: DALI 2017 - Data Learning and Inference
 permalink: "/:categories/:title.html"
 # Include image banner file name below
-banner: 
+banner: costa-adeje.jpg 
 conference:
   hosts:
   general:
@@ -18,7 +18,7 @@ conference:
     url: "http://mlg.eng.cam.ac.uk/zoubin/"
     institute: University of Cambridge
   local:
-  - name: Pablo Olmos
+  - name: Pablo M. Olmos
     url: "http://www.tsc.uc3m.es/~olmos/"
     institute: "Universidad Carlos III de Madrid"
   - name: Isabel Valera
