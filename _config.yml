@@ -10,13 +10,13 @@ conference:
     url: "http://www.da.inf.ethz.ch/people/ThomasHofmann/"
     institute: ETH Zurich
   workshop:
+  - name: Thomas Hofmann
+    url: "http://www.da.inf.ethz.ch/people/ThomasHofmann/"
+    institute: ETH Zurich
+  symposium:
   - name: Neil Lawrence
     url: "http://inverseprobability.com"
-    institute: University of Sheffield
-  symposium:
-  - name: Zoubin Ghaharamani
-    url: "http://mlg.eng.cam.ac.uk/zoubin/"
-    institute: University of Cambridge
+    institute: Amazon and University of Sheffield
   local:
   - name: Pablo M. Olmos
     url: "http://www.tsc.uc3m.es/~olmos/"
