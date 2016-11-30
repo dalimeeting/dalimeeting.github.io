@@ -11,7 +11,7 @@ conference:
     institute: University of Cambridge
   - name: Bernhard Schölkopf
     url: "http://ei.is.tuebingen.mpg.de/person/bs"
-    institute: MPI Tübingen
+    institute: MPI for Intelligent Systems Tübingen
   workshop:
   - name: Thomas Hofmann
     url: "http://www.da.inf.ethz.ch/people/ThomasHofmann/"
