@@ -13,7 +13,7 @@ organizers:
   lastname: de Balle Pigem
   url: "http://www.lancaster.ac.uk/~deballep/"
   institute: University of Lancaster
-room: 
+room: Adeje
 show_abstracts: false
 talks:
 - title: TBA
