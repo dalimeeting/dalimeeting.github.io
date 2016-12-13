@@ -5,10 +5,10 @@ organizer_url:
 categories:
 - dali2017
 organizers:
-- firstname: TBA
-  lastname: 
-  url: 
-  institute: 
+- firstname: Peter
+  lastname: Gehler
+  url: http://files.is.tue.mpg.de/pgehler/
+  institute: University of Tübingen
 room: 
 show_abstracts: false
 talks:
