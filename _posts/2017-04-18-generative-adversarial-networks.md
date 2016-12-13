@@ -20,7 +20,8 @@ talks:
   speaker:
   youtube: 
   start: 
-  end: 
+  end:
+  abstract:
 speakers:
 - TBA 
 ---
