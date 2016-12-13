@@ -67,6 +67,8 @@ youtube:
   width: 560
 twitter_username: 
 github_username:  dalimeeting
+github:
+  edit: true
 future: true
 
 # Build settings
