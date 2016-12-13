@@ -5,6 +5,7 @@ permalink: "/:categories/:title.html"
 banner: costa-adeje.jpg 
 conference:
   draft: true
+  hide_tentative: true
   hosts:
   general:
   - name: Zoubin Ghaharamani
