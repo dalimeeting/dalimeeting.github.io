@@ -8,7 +8,7 @@ organizers:
 - firstname: Tom
   lastname: Griffiths
   url: http://cocosci.berkeley.edu/tom/index.php
-  institute: 
+  institute: University of California, Berkeley
   tentative: True
 - firstname: Tom 
   lastname: Stafford
