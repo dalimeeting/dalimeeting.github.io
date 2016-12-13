@@ -69,6 +69,7 @@ twitter_username:
 github_username:  dalimeeting
 github:
   edit: true
+  repository: dalimeeting.github.io
 future: true
 
 # Build settings
