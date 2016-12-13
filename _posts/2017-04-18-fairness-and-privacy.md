@@ -8,7 +8,7 @@ organizers:
 - firstname: Isabel 
   lastname: Valera
   url: "https://people.mpi-sws.org/~ivalera/"
-  institute: Max Planck Institute
+  institute: Max Planck Institute for Software Systems
 - firstname: Borja 
   lastname: de Balle Pigem
   url: "http://www.lancaster.ac.uk/~deballep/"
