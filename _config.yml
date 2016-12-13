@@ -4,6 +4,7 @@ permalink: "/:categories/:title.html"
 # Include image banner file name below
 banner: costa-adeje.jpg 
 conference:
+  draft: true
   hosts:
   general:
   - name: Zoubin Ghaharamani
