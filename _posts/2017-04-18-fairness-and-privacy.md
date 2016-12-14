@@ -10,9 +10,9 @@ organizers:
   url: "https://people.mpi-sws.org/~ivalera/"
   institute: Max Planck Institute for Software Systems
 - firstname: Borja 
-  lastname: de Balle Pigem
+  lastname: Balle
   url: "http://www.lancaster.ac.uk/~deballep/"
-  institute: University of Lancaster
+  institute: Lancaster University
 room: 
 show_abstracts: false
 talks:
