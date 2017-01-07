@@ -7,9 +7,8 @@ categories:
 organizers:
 - firstname: Peter
   lastname: Gehler
-  url: http://files.is.tue.mpg.de/pgehler/
+  url: "http://files.is.tue.mpg.de/pgehler/"
   institute: University of Tübingen
-  tentative: true
 room: 
 show_abstracts: false
 talks:
