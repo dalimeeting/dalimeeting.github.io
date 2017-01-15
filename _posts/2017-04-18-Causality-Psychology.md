@@ -8,7 +8,7 @@ organizers:
 - firstname: Kun
   lastname:  Zhang
   url: https://is.tuebingen.mpg.de/person/kzhang
-  institute: Max Planck Institute for Intelligent Systems
+  institute: Carnegie Mellon University & Max Planck Institute for Intelligent Systems 
 - firstname: David 
   lastname:  Danks
   url: http://www.andrew.cmu.edu/user/ddanks/pubs.html
