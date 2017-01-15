@@ -14,7 +14,6 @@ organizers:
   lastname: Heinze-Deml
   url: http://stat.ethz.ch/~heinzec/
   institute: ETH Zurich
-  tentative: True
 room: 
 show_abstracts: false
 talks:
