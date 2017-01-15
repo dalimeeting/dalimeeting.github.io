@@ -12,7 +12,7 @@ organizers:
 - firstname: David 
   lastname:  Danks
   url: http://www.andrew.cmu.edu/user/ddanks/pubs.html
-  institute: Carnegie Mellon
+  institute: Carnegie Mellon University
 - firstname: Felix 
   lastname:  Wichmann
   url: http://www.nip.uni-tuebingen.de/people/members/felix-wichmann-cv.html
