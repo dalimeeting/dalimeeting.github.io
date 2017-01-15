@@ -9,7 +9,6 @@ organizers:
   lastname: Besserve
   url: https://ei.is.tuebingen.mpg.de/person/besserve
   institute: Max Planck Institute for Intelligent Systems
-  tentative: True
 - firstname: Christina 
   lastname: Heinze-Deml
   url: http://stat.ethz.ch/~heinzec/
