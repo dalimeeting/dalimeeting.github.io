@@ -3,6 +3,7 @@ title: DALI 2017 - Data Learning and Inference
 permalink: "/:categories/:title.html"
 # Include image banner file name below
 banner: costa-adeje.jpg 
+
 conference:
   draft: true
   hide_tentative: true

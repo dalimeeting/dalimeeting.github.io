@@ -14,8 +14,8 @@ title: Participants
   
 
   <p><strong>List of participants for DALI 2017:</strong></p>
-  {% for partecipant in site.data.participants %}
-    <p>{{partecipant}}</p>
+  {% for person in site.data.participants %}
+    <p>{{ person.given | capitalize }} {{ person.family | capitalize }}</p>
   {% endfor %}
     
   
