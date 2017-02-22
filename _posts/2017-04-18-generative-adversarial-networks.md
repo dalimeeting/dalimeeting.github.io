@@ -5,12 +5,12 @@ organizer_url:
 categories:
 - dali2017
 organizers:
-- firstname: Sebastian 
-  lastname: Nowozin
+- given: Sebastian 
+  family: Nowozin
   url: http://www.nowozin.net/sebastian/
   institute: Microsoft Research
-- firstname: David
-  lastname: Lopez Paz
+- given: David
+  family: Lopez Paz
   url: http://lopezpaz.org/
   institute: Facebook AI Research
 room: 
