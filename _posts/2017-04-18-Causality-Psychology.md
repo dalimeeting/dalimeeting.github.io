@@ -5,16 +5,16 @@ organizer_url:
 categories:
 - dali2017
 organizers:
-- firstname: Kun
-  lastname:  Zhang
+- given: Kun
+  family:  Zhang
   url: https://is.tuebingen.mpg.de/person/kzhang
   institute: Carnegie Mellon University & Max Planck Institute for Intelligent Systems 
-- firstname: David 
-  lastname:  Danks
+- given: David 
+  family:  Danks
   url: http://www.andrew.cmu.edu/user/ddanks/pubs.html
   institute: Carnegie Mellon University
-- firstname: Felix 
-  lastname:  Wichmann
+- given: Felix 
+  family:  Wichmann
   url: http://www.nip.uni-tuebingen.de/people/members/felix-wichmann-cv.html
   institute: Eberhard Karls Universität Tübingen
 room: 
