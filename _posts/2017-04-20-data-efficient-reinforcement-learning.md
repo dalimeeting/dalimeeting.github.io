@@ -5,12 +5,12 @@ organizer_url:
 categories:
 - dali2017
 organizers:
-- firstname: Carl 
-  lastname: Rasmussen
+- given: Carl 
+  family: Rasmussen
   url: "http://learning.eng.cam.ac.uk/carl/"
   institute: University of Cambridge
-- firstname: Marc 
-  lastname: Deisenroth
+- given: Marc 
+  family: Deisenroth
   url: "http://wp.doc.ic.ac.uk/sml/person/marc-deisenroth/"
   institute: Imperial College London  
 room: 
