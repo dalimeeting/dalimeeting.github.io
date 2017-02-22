@@ -5,12 +5,12 @@ organizer_url:
 categories:
 - dali2017
 organizers:
-- firstname: Isabel 
-  lastname: Valera
+- given: Isabel 
+  family: Valera
   url: "https://people.mpi-sws.org/~ivalera/"
   institute: Max Planck Institute for Software Systems
-- firstname: Borja 
-  lastname: Balle
+- given: Borja 
+  family: Balle
   url: "http://www.lancaster.ac.uk/~deballep/"
   institute: Lancaster University
 room: 
