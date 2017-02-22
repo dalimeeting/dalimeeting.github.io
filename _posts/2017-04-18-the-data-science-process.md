@@ -5,12 +5,12 @@ organizer_url:
 categories:
 - dali2017
 organizers:
-- firstname: Joaquin 
-  lastname:  Vanschoren
+- given: Joaquin 
+  family:  Vanschoren
   url: http://www.win.tue.nl/~jvanscho/
   institute: Eindhoven University of Technology
-- firstname: Alessya
-  lastname:  Labzhinova
+- given: Alessya
+  family:  Labzhinova
   url: https://www.linkedin.com/in/alessya/
   institute: Amazon
 room: 
