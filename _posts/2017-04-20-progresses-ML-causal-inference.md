@@ -25,5 +25,13 @@ talks:
   start:
   end: 
 speakers:
-- TBA 
+- Jakob Runge, Imperial College, London
+- Joris Mooij, University of Amsterdam
+- Manuel Gomez Rodriguez, MPI for Software Systems, Saarbruecken
+- David Lopez-Paz, Facebook AI, Paris
+- Kun Zhang, Carnegie Mellon University, Pittsburgh
+- Alain Hauser, Google
+- Alex Peysakhovich, Facebook AI
+- Ioannis Tsamardinos, University of Crete
+- Antti Hyttinen, University of Helsinki
 ---
