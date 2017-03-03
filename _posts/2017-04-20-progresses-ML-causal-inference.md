@@ -14,12 +14,15 @@ organizers:
   url: http://stat.ethz.ch/~heinzec/
   institute: ETH Zurich
 room: 
-show_abstracts: false
+show_abstracts: true
 talks:
-- title: TBA
+- title: 
   speaker:
   youtube: 
-  start: 
+  start:
+  abstract: "Inferring a system’s underlying mechanisms is a primary goal in many areas of science. For instance, understanding cause-effect relationships is necessary if one wants to intervene on the system in order to improve its performance. In this context, scientists often need to be able to draw causal interpretations from complex, real-world data.
+Causal inference and structural equation models provide a rigorous framework to address these questions. However, the validity of these approaches may be challenged by complex structures involving non-stationarity, non-linearity or high-dimensionality. In particular, these properties frequently occur in natural or artificial systems resulting from interactions between many interdependent parts, such as biological or social networks.
+This workshop will discuss recent progresses in causal inference and related approaches to deal with data of increasing complexity. It aims at bringing together researchers from various fields to discuss the current challenges in estimating mechanisms from real-world data." 
   end: 
 speakers:
 - TBA 
