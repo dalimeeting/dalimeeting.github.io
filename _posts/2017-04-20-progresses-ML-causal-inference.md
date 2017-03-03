@@ -17,7 +17,7 @@ organizers:
   url: http://stat.ethz.ch/~heinzec/
   institute: ETH Zurich
 room: 
-show_abstracts: true
+show_abstracts: false
 talks:
 - title: 
   speaker:
