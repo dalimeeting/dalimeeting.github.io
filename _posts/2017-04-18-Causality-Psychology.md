@@ -20,11 +20,18 @@ organizers:
 room: 
 show_abstracts: false
 talks:
-- title: TBA
+- title: 
   speaker:
   youtube: 
   start: 
   end: 
 speakers:
-- TBA 
+- Bernhard Schölkopf 
+- David Danks
+- Tom Claassen
+- Michel Besserve
+- Fei Sha
+- Chris Lucas  
+- Moritz Grosse-Wentrup 
+- Bjorn Meder
 ---
