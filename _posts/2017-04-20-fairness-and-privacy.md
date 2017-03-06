@@ -16,7 +16,7 @@ organizers:
 room: 
 show_abstracts: false
 talks:
-- title: TBA
+- title: 
   speaker:
   youtube: 
   start: 
