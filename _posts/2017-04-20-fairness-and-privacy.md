@@ -22,5 +22,12 @@ talks:
   start: 
   end: 
 speakers:
-- TBA 
+- Richard Zemel
+- Abhradeep Guha Thakurta
+- Aurelien Bellet
+- Manuel Gomez-Rodriguez
+- Marco Giobardi
+- Sara Hajian
+- Marco Gaboardi
+- Toniann Pitassi 
 ---
