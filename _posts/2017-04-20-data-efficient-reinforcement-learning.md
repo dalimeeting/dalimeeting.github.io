@@ -16,11 +16,17 @@ organizers:
 room: 
 show_abstracts: false
 talks:
-- title: TBA
+- title: 
   speaker:
   youtube: 
   start: 
   end: 
 speakers:
-- TBA 
+- Aldo Faisal
+- Koray Kavukcuoglu
+- Melanie Zeilinger
+- Roberto Calandra
+- Thomas Schön
+- Chris Watkins
+- Pierre-Luc Bacon
 ---
