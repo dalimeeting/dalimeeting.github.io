@@ -23,5 +23,11 @@ talks:
   end:
   abstract:
 speakers:
-- TBA 
+- Dougal Sutherland  
+- Ferenc Huszár 
+- Emily Denton
+- David Pfau 
+- Olivier Bousquet 
+- David Duvenaud
+- Arthur Szlam
 ---
