@@ -8,12 +8,12 @@ organizer_url:
 categories:
 - dali2017
 organizers:
-- family: Michel 
-  given: Besserve
+- family: Besserve
+  given: Michel 
   url: https://ei.is.tuebingen.mpg.de/person/besserve
   institute: Max Planck Institute for Intelligent Systems
-- family: Christina 
-  given: Heinze-Deml
+- family: Heinze-Deml
+  given: Christina 
   url: http://stat.ethz.ch/~heinzec/
   institute: ETH Zurich
 room: 
