@@ -22,12 +22,11 @@ talks:
   start: 
   end: 
 speakers:
-- Richard Zemel
-- Abhradeep Guha Thakurta
-- Aurelien Bellet
-- Manuel Gomez-Rodriguez
-- Marco Giobardi
-- Sara Hajian
-- Marco Gaboardi
-- Toniann Pitassi 
+- Richard Zemel (University of Toronto)
+- Abhradeep Guha Thakurta (University of California Santa Cruz)
+- Aurelien Bellet (INRIA Lille)
+- Manuel Gomez-Rodriguez (Max Planck Institute for Software Systems)
+- Marco Gaboardi (University at Buffalo)
+- Sara Hajian (Eurecat Technology Center)
+- Toniann Pitassi (University of Toronto)
 ---
