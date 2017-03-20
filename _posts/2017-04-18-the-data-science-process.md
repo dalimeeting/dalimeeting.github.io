@@ -6,9 +6,6 @@ abstract:  "This workshop aims to cover the following main topics related to the
 2) Collaboration: how do you collaborate on building Machine Learning Models/Systems?
  </br>
 3) Automation of Data Science: Current efforts that the ML community is doing to address these challenges. Tools that are being developed to ease the data science process including among others probabilistic programming, automating model selection, automating pipeline construction.
- </br>
-
-
 layout: multitrack
 organizer_url: 
 categories:
