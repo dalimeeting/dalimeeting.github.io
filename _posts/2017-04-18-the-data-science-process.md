@@ -8,14 +8,14 @@ organizer_url:
 categories:
 - dali2017
 organizers:
-- given: Joaquin 
-  family:  Vanschoren
+- given: "Joaquin" 
+  family:  "Vanschoren"
   url: http://www.win.tue.nl/~jvanscho/
-  institute: Eindhoven University of Technology
-- given: Alessya
-  family:  Labzhinova
+  institute: "Eindhoven University of Technology"
+- given: "Alessya"
+  family:  "Labzhinova"
   url: https://www.linkedin.com/in/alessya/
-  institute: Amazon
+  institute: "Amazon"
 room: 
 show_abstracts: true
 talks:
