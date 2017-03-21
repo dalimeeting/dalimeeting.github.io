@@ -37,7 +37,7 @@ talks:
   start: "11:30"
   end: "12:15"
   abstract: In this talk we will focus on challenges in facilitating the data science pipeline. Drawing on experience from projects in computational biology, the developing world and Amazon I’ll propose different ideas for facilitating the data science process including analogies that help software engineers understand the challenges for data science and formalizations, such as data readiness levels, which allow management to reason about the obstacles in the process.
-- title: OpenML: towards democratizing and automating machine learning
+- title: "OpenML: towards democratizing and automating machine learning"
   speaker: Joaquin Vanschoren
   youtube: 
   start: "12:15"
@@ -55,7 +55,7 @@ talks:
   start: "18:30"
   end: "19:00"
   abstract: A common practice in statistics and machine learning is to assume that the statistical data types (e.g., ordinal, categorical or real-valued) of variables, and usually also the likelihood model, is known. However, as the availability of real-world data increases, this assumption becomes too restrictive. Data are often heterogeneous, complex, and improperly or incompletely documented. Surprisingly, despite their practical importance, there is still a lack of tools to automatically discover the statistical types of, as well as appropriate likelihood (noise) models for,  the variables in a dataset. In this work, we fill this gap by proposing a Bayesian method, which accurately discovers the statistical data types in both synthetic and real  data. 
-- title: Causal Impact: estimating the effect of an intervention without user interaction
+- title: "Causal Impact: estimating the effect of an intervention without user interaction"
   speaker: Alain Hauser
   youtube: 
   start: "19:00"
