@@ -17,7 +17,7 @@ organizers:
   url: https://www.linkedin.com/in/alessya/
   institute: Amazon
 room: 
-show_abstracts: false
+show_abstracts: true
 talks:
 - title: "Data challenges with modularization and code submission"
   speaker: "Balazs Kegl"
