@@ -55,7 +55,8 @@ talks:
   speaker: "Bjoern Meder"
   youtube: 
   start: "18:00"
-  end: "18:30"  
+  end: "18:30"
+
 speakers:
 - Bernhard Schölkopf 
 - David Danks
