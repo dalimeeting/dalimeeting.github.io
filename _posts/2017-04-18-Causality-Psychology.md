@@ -19,13 +19,43 @@ organizers:
   url: http://www.nip.uni-tuebingen.de/people/members/felix-wichmann-cv.html
   institute: Eberhard Karls Universität Tübingen
 room: 
-show_abstracts: false
+show_abstracts: flase
 talks:
-- title: 
-  speaker:
+- title: "Causal discovery in psychometric data sets: the search for aggression and conduct disorders"
+  speaker: "Tom Claassen"
   youtube: 
-  start: 
-  end: 
+  start: "09:30"
+  end: "10:00"
+- title: "The principle of independent mechanisms"
+  speaker: "Bernhard Schoelkopf"
+  youtube: 
+  start: "10:00"
+  end: "10:30" 
+- title: "Human causal learning via local inferences"
+  speaker: "David Danks"
+  youtube: 
+  start: "10:30"
+  end: "11:00"  
+- title: "Discovering and exploiting structure in the face of changing tasks"
+  speaker: "Chris Lucas"
+  youtube: 
+  start: "11:30"
+  end: "12:00"   
+- title: "Do we really have a shot at solving zero-shot learning for object recognition?"
+  speaker: "Fei Sha"
+  youtube: 
+  start: "12:00"
+  end: "12:30" 
+- title: "Distinguishing between the neural correlates and the neural basis of cognition"
+  speaker: "Moritz Grosse-Wentrup"
+  youtube: 
+  start: "12:30"
+  end: "13:00"
+- title: "Diagnostic causal reasoning with verbal uncertainty terms”
+  speaker: "Bjoern Meder"
+  youtube: 
+  start: "18:00"
+  end: "18:30"  
 speakers:
 - Bernhard Schölkopf 
 - David Danks
