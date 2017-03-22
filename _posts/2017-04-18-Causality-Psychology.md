@@ -26,6 +26,16 @@ talks:
   youtube: 
   start: "09:30"
   end: "10:00" 
+- title: "The principle of independent mechanisms"
+  speaker: "Bernhard Schoelkopf"
+  youtube: 
+  start: "10:00"
+  end: "10:30" 
+- title: "Human causal learning via local inferences"
+  speaker: "David Danks"
+  youtube: 
+  start: "10:30"
+  end: "11:00"  
 speakers:
 - Bernhard Schölkopf 
 - David Danks
