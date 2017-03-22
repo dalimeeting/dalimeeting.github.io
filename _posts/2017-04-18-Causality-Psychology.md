@@ -41,21 +41,6 @@ talks:
   youtube: 
   start: "11:30"
   end: "12:00"   
-- title: "Do we really have a shot at solving zero-shot learning for object recognition?"
-  speaker: "Fei Sha"
-  youtube: 
-  start: "12:00"
-  end: "12:30" 
-- title: "Distinguishing between the neural correlates and the neural basis of cognition"
-  speaker: "Moritz Grosse-Wentrup"
-  youtube: 
-  start: "12:30"
-  end: "13:00"
-- title: "Diagnostic causal reasoning with verbal uncertainty terms”
-  speaker: "Bjoern Meder"
-  youtube: 
-  start: "18:00"
-  end: "18:30"   
 speakers:
 - Bernhard Schölkopf 
 - David Danks
