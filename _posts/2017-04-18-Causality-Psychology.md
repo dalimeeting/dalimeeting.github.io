@@ -56,7 +56,16 @@ talks:
   youtube: 
   start: "18:00"
   end: "18:30"
-
+- title: "Causal inference from a group invariance perspective"
+  speaker: "Michel Beserve"
+  youtube: 
+  start: "18:30"
+  end: "19:00"
+- title: "Seeing the arrow of time"
+  speaker: "Felix Wichmann"
+  youtube: 
+  start: "19:00"
+  end: "19:30"  
 speakers:
 - Bernhard Schölkopf 
 - David Danks
