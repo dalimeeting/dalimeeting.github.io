@@ -50,7 +50,12 @@ talks:
   speaker: "Moritz Grosse-Wentrup"
   youtube: 
   start: "12:30"
-  end: "13:00"     
+  end: "13:00"
+- title: "Diagnostic causal reasoning with verbal uncertainty terms”
+  speaker: "Bjoern Meder"
+  youtube: 
+  start: "18:00"
+  end: "18:30"  
 speakers:
 - Bernhard Schölkopf 
 - David Danks
