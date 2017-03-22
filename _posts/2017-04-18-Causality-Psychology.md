@@ -1,6 +1,7 @@
 ---
 title:  "Causality: Dialogues between Machine Learning and Psychology"
 layout: multitrack
+abstract: "The past decades have seen a series of cross-disciplinary advances in causal discovery and causal inference. In particular, recently a number of long-standing problems, such as how to learn causal information from observations and how causal modeling and transfer learning benefit each other, have received much attention in philosophy, machine learning, and psychology. However, researchers may not be aware of the methodologies used and developments achieved in other fields. This workshop aims to provide a platform for people who study causality in machine learning, psychology, and neuroscience to share the state-of-the-art and perspectives in their respective disciplines, get inspiration from others, and foster interdisciplinary collaboration in the study of fundamental problems in causality."
 organizer_url: 
 categories:
 - dali2017
