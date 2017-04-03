@@ -17,7 +17,7 @@ organizers:
   family: Balle
   url: "http://www.lancaster.ac.uk/~deballep/"
   institute: Lancaster University
-room: 
+room: El Veril
 show_abstracts: false
 talks:
 - title: 
