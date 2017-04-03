@@ -13,13 +13,16 @@ title: Program
   {{ content }}
   
   <ul>
+	  
+    Workshops:
+	  
     {% for post in site.posts reversed %}
     {% if post.layout == "multitrack"%}
     {% include listmulti.html %}
     {% endif %}
     {% endfor %}
 
-    
+    Program:
     {% for post in site.posts reversed %}
     {% if post.layout == "singletrack" %}
     {% include listsingle.html %}
