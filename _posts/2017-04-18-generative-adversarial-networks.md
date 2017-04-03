@@ -16,7 +16,7 @@ organizers:
   family: Lopez Paz
   url: http://lopezpaz.org/
   institute: Facebook AI Research
-room: 
+room: Adeje
 show_abstracts: false
 talks:
 - title: 
