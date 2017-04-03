@@ -5,7 +5,7 @@ permalink: "/:categories/:title.html"
 banner: costa-adeje.jpg 
 
 conference:
-  draft: true
+  draft: false
   hide_tentative: true
   hosts:
   general:
