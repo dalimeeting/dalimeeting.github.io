@@ -83,9 +83,7 @@
 - family: De Balle Pigem
   given: Borja 
 - family: Ghahramani
-  given: Zoubin 
-- family: Zemel
-  given: Richard 
+  given: Zoubin  
 - family: Santos Rodriguez
   given: Raul 
 - family: Obozinski
@@ -128,8 +126,6 @@
   given: David 
 - family: Danks
   given: David 
-- family: Pitassi
-  given: Toni 
 - family: Bacon
   given: Pierre-Luc 
 - family: Runge
@@ -182,4 +178,7 @@
   given: Fernando
 - family: Hajian
   given: Sara  
-  
+- family: Bodenstein
+  given: Sebasian
+- family: Beynon
+  given: Taliesin
