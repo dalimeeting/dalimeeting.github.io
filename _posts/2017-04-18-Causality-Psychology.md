@@ -18,7 +18,7 @@ organizers:
   family:  Wichmann
   url: http://www.nip.uni-tuebingen.de/people/members/felix-wichmann-cv.html
   institute: Eberhard Karls Universität Tübingen
-room: 
+room: El Veril
 show_abstracts: false
 talks:
 - title: "Causal discovery in psychometric data sets: the search for aggression and conduct disorders"
