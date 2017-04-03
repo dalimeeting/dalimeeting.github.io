@@ -13,7 +13,7 @@ organizers:
   family: Deisenroth
   url: "http://wp.doc.ic.ac.uk/sml/person/marc-deisenroth/"
   institute: Imperial College London  
-room: 
+room: Adeje
 show_abstracts: false
 talks:
 - title: 
