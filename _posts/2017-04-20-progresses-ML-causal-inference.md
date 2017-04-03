@@ -34,4 +34,5 @@ speakers:
 - Alex Peysakhovich, Facebook AI
 - Ioannis Tsamardinos, University of Crete
 - Antti Hyttinen, University of Helsinki
+- Suchi Saria, Johns Hopkins University
 ---
