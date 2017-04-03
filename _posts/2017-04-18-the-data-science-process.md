@@ -16,7 +16,7 @@ organizers:
   family:  "Labzhinova"
   url: https://www.linkedin.com/in/alessya/
   institute: "Amazon"
-room: 
+room: Caleta
 show_abstracts: true
 talks:
 - title: "Data challenges with modularization and code submission"
