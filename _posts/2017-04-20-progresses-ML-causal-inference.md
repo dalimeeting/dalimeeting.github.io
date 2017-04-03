@@ -16,7 +16,7 @@ organizers:
   given: Christina 
   url: http://stat.ethz.ch/~heinzec/
   institute: ETH Zurich
-room: 
+room: Caleta
 show_abstracts: false
 talks:
 - title: 
