@@ -10,9 +10,7 @@ layout: default
     <p class="post-meta">({% if page.organizers %}{% assign lastone = page.organizers | last %}{% for person in page.organizers %}{% include listperson.html %}{% endfor %}{% endif %} {{ page.date | date: "%b %-d" }})</p>
   </header>
 	
-  {% if page.abstract %}
-	{{page.abstract}}
-  {% endif %}	
+	
 
   <article class="post-content">
     <p>{% if page.organizer_url %}<a href="{{ page.organizer_url }}">Organizer's workshop page</a>{% endif %}</p>
@@ -22,7 +20,11 @@ layout: default
     {% elsif site.conference.room %}
     <h3>Room: {{ site.conference.room }}</h3>
     {% endif %}
-      
+    
+    {% if page.abstract %}
+	{{page.abstract}}
+    {% endif %}	  
+	  
     {% if page.speakers %}
     <p>
         Speakers:
