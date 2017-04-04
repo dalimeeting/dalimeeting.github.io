@@ -21,13 +21,13 @@ organizers:
 room: El Veril
 show_abstracts: false
 talks:
-- title: "Causal discovery in psychometric data sets: the search for aggression and conduct disorders"
-  speaker: "Tom Claassen"
+- title: "The principle of independent mechanisms"
+  speaker: "Bernhard Schoelkopf"
   youtube: 
   start: "09:30"
   end: "10:00" 
-- title: "The principle of independent mechanisms"
-  speaker: "Bernhard Schoelkopf"
+- title: "Causal discovery in psychometric data sets: the search for aggression and conduct disorders"
+  speaker: "Tom Claassen"
   youtube: 
   start: "10:00"
   end: "10:30" 
