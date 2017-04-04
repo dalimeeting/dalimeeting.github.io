@@ -33,4 +33,5 @@ speakers:
 - Olivier Bousquet 
 - David Duvenaud
 - Arthur Szlam
+- Fernando Perez-Cruz
 ---
