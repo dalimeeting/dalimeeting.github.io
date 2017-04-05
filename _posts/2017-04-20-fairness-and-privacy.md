@@ -18,13 +18,15 @@ organizers:
   url: "http://www.lancaster.ac.uk/~deballep/"
   institute: Lancaster University
 room: El Veril
-show_abstracts: false
+show_abstracts: true
 talks:
-- title: 
-  speaker:
+- title: “Is Interaction Necessary for Distributed Private Learning?”
+  speaker: "Abhradeep Guha Thakurta"
   youtube: 
-  start: 
-  end: 
+  start: "09:30"
+  end: "10:15"
+  abstract: "Recent large-scale deployments of differentially private algorithms employ the local model for privacy (sometimes called the randomized response), where data are randomized on individual's devices before being sent to a server that computes approximate, aggregate statistics. The server need not be trusted for privacy, leaving data control in users' hands. For an important class of convex optimization problems (including logistic regression, support vector machines, and the Euclidean median), the best known locally differentially private algorithm are highly interactive. With n users in the protocol, they use n rounds of back and forth communication. The server exchanges messages with each user only once, but must do so in sequence."
+  
 speakers:
 - Richard Zemel (University of Toronto)
 - Abhradeep Guha Thakurta (University of California Santa Cruz)
