@@ -33,6 +33,12 @@ talks:
   start: "10:15"
   end: "11:00"
   abstract: "We propose a decentralized protocol for a large set of users to privately compute averages over their joint data, which can be used to learn more complex machine learning models. Our protocol can find a solution of arbitrary accuracy, does not rely on a trusted third party and preserves the privacy of users throughout the execution in both the honest-but-curious and malicious adversary models. Furthermore, we design a verification procedure which offers protection against malicious users joining the service with the goal of manipulating the outcome of the algorithm."
+- title: “Data mining approaches for discrimination discovery”
+  speaker: "Sara Haijan"
+  youtube: 
+  start: "11:30"
+  end: "12:15"
+  abstract: "Algorithms and decision making based on Big Data have become pervasive in all aspects of our daily (offline and online) lives. They determine the media we consume, the stories we read, the people we meet, the places we visit, but also whether we get a job, or whether our loan or insurance request is approved. It is therefore of societal and ethical importance to ask whether these algorithms can be discriminative on grounds, such as gender, ethnicity, marital or health status. In this talk, I will present different examples of racial and gender bias in different online and offline services and explain how algorithmic bias occurs even when there is no discrimination intention in the developer of the learning algorithms. Finally, I will introduce the recent data mining approaches for discrimination discovery from the database of historical decision records."  
 
    
 
