@@ -45,12 +45,6 @@ talks:
   start: "12:15"
   end: "13:00"
   abstract: "Algorithmic decision making is ubiquitous across a wide variety of online as well as offline services. However, there is a growing concern that these automated decisions can lead, even in the absence of intent, to a lack of fairness, i.e., their outcomes can disproportionately hurt (or, benefit) particular groups of people sharing one or more sensitive attributes (e.g., race, sex). In this talk, I will introduce a flexible mechanism to design fair classifiers by leveraging  a novel intuitive measure of decision boundary (un)fairness. I will then show that this mechanism can be easily incorporated into the formulation of several well-known margin based classifiers, without increasing their complexity, and it allows for a fine-grained control on the degree of fairness, often at a small cost in terms of accuracy."
-- title: “Differentially Private Chi-Squared Hypothesis Testing: Goodness of Fit and Independence Testing”
-  speaker: "Marco Gaboardi"
-  youtube: 
-  start: "18:00"
-  end: "18:45"
-  abstract: "Hypothesis testing is a useful statistical tool in determining whether a given model should be rejected based on a sample from the population. Sample data may contain sensitive information about individuals, such as medical information. Thus it is important to design statistical tests that guarantee the privacy of subjects in the data. We present some results about hypothesis testing subject to differential privacy, specifically about chi-squared tests for goodness of fit for multinomial data and independence between two categorical variables. We propose new tests that like the classical versions can be used to determine whether a given model should be rejected or not, and that additionally can ensure differential privacy. We give both Monte Carlo based hypothesis tests as well as hypothesis tests that more closely follow the classical chi-squared goodness of fit test and independence test. Crucially, our tests account for the distribution of the noise that is injected to ensure privacy in determining significance. We will comment on our results and we will compare our approach with other recent proposals in the same direction."
 
    
 
