@@ -54,8 +54,96 @@ used to approximate MAP inference in the SR problem, and then show how a
 simple stochastic extension of existing methods can be shown to perform
 variational inference. In the second half of the talk I'm going to talk about
 a generalisation of this idea: using implicit models in variational inference."
-
-
+- title: "Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks"
+  speaker: "Emily Denton (NYU)"
+  youtube: 
+  start: 
+  end:
+  abstract: "The main focus of this talk will be on a simple semi-supervised learning
+approach for images based on in-painting using an adversarial loss. Images with
+random patches removed are presented to a generator whose task is to fill in
+the hole, based on the surrounding pixels. The in-painted images are then
+presented to a discriminator network that judges if they are real (unaltered
+training images) or not. This task acts as a regularizer for standard
+supervised training of the discriminator. Using our approach we are able to
+directly train large VGG-style discriminator networks in a semi-supervised
+fashion, obtaining competitive results on STL-10 and PASCAL datasets."
+- title: "Connecting GANs, Actor-Critic Methods and Multilevel Optimization"
+  speaker: "David Pfau (Deepmind)"
+  youtube: 
+  start: 
+  end:
+  abstract: "Generative Adversarial Networks pose a challenging optimization problem due to
+the multiple loss functions which must be optimized simultaneously. The GAN
+game can be framed as a bilevel optimization problem, like many other problems
+currently of interest to the deep learning community. We show that there is a
+close connection between GANs and actor-critic methods for continuous control
+such as deep deterministic policy gradients, and suggest that generic
+optimization tricks may help stabilize both classes of models. Towards this
+goal, we introduce unrolled GANs, an algorithm for GAN training which
+approximates gradients with respect to the optimal discriminator by
+backpropagating through several steps of SGD."
+- title: "AdaGAN: Boosting Generative Models"
+  speaker: "Olivier Bousquet (Google)"
+  youtube: 
+  start: 
+  end:
+  abstract: "Generative Adversarial Networks (GAN) (Goodfellow et al., 2014) are an
+effective method for training generative models of complex data such as
+natural images. However, they are notoriously hard to train and can suffer
+from the problem of missing modes where the model is not able to produce
+examples in certain regions of the space. We propose an iterative procedure,
+called AdaGAN, where at every step we add a new component into a mixture model
+by running a GAN algorithm on a reweighted sample. This is inspired by
+boosting algorithms, where many potentially weak individual predictors are
+greedily aggregated to form a strong composite predictor. We prove that such
+an incremental procedure leads to convergence to the true distribution in a
+finite number of steps if each step is optimal, and convergence at an
+exponential rate otherwise. We also illustrate experimentally that this
+procedure addresses the problem of missing modes."
+- title: "David Duvenaud (Toronto)"
+  speaker: "Generator-Aware Discriminators for Stable GAN Training"
+  youtube: 
+  start: 
+  end:
+  abstract: "The alternating optimization of generator and discriminator produces sometimes
+unfavorable training dynamics.  In particular, as the generator changes, the
+discriminator forgets how to discriminate against previously-seen generators.
+We examine the idea of training a single universal discriminator, who takes as
+an extra argument the weights of the generator network.  We also explore a
+similar idea for training variational recognition networks when integrating
+over the generator weights."
+- title: "Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play"
+  speaker: "Arthur Szlam (Facebook)"
+  youtube: 
+  start: 
+  end:
+  abstract: "I will discuss how an agent can learn to manipulate its environment by
+proposing itself tasks to complete.   In tabular, in Markovian environments
+that are reversible or resetable, with an appropriate choice of reward
+function, the agent learns to transition from any state to any other as
+efficiently as possible.  I will further discuss our experiments showing that
+in more complex environments that this unsupervised training can reduce the
+number of episodes needed to learn extrinsic tasks.  Joint work with Sainbayar
+Sukhbaatar, Ilya Kostrikov, and Rob Fergus."
+- title: "On Generative Adversarial Networks and Density Estimation"
+  speaker: "Fernando Perez-Cruz (Stevens Institute of Technology)"
+  youtube: 
+  start: 
+  end:
+  abstract: "Generative adversarial networks (GANs) propose an alternative approach for
+density estimation that relies on a discriminative network's output to lead
+a generativenetwork's density model. They seem to be able to tackle density
+estimation in high dimensional spaces with limited number of training samples.
+In this paper, we analyze the accuracy of GANs in estimating the underlying
+density of the training samples. We focus on both the asymptotically analysis
+and an empirical study with a state-of-the-art GAN implementation. For the
+former, we show a limitation in the proof of convergence in (Goodfellow et
+al., 2014) that might prevent the GAN density estimation from converging to
+the true density as the number of samples increases. For the latter, we
+advocate for a two-sample test as the proper test for measuring GANs
+performance, since it is a simple test would tell us if two set of samples
+come from the same distribution."
 
 speakers:
 - Dougal Sutherland  
