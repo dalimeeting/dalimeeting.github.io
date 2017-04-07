@@ -17,14 +17,46 @@ organizers:
   url: http://lopezpaz.org/
   institute: Facebook AI Research
 room: Adeje
-show_abstracts: false
+show_abstracts: true
 talks:
-- title: 
-  speaker:
+- title: "Two-Sample Tests, Integral Probability Metrics, and GAN Objective"
+  speaker: "Dougal J. Sutherland (Gatsby unit, UCL)"
   youtube: 
   start: 
   end:
-  abstract:
+  abstract: "One of the major failure patterns of typical GAN models is when the generator
+collapses to a single point considered highly realistic by the current
+discriminator, after which the learning problem becomes stuck. To help avoid
+this issue, we can replace the discriminator with a function that looks at an
+entire sample set at a time, so that no single point becomes attractive to the
+generator. Doing so brings us into the well-studied realm of two-sample
+testing. This talk will discuss several different techniques for two-sample
+testing and their application in GAN settings, including classifier-based two
+sample tests which correspond to the traditional GAN, the maximum mean
+discrepancy, and Wasserstein distances. We will also discuss the use of these
+types of distances as tools to diagnose convergence of generative models and
+discover ways in which their samples differ from the reference distribution."
+- title: "Image Superresolution: from mean squared error to variational inference with GANs"
+  speaker: "Ferenc Huszar (Twitter Cortex)"
+  youtube: 
+  start: 
+  end:
+  abstract: "Like many other problems, convolutional neural networks have achieved state of
+the art performance in photo-realistic image superresolution. The main
+limitation of early methods was that they minimise mean square reconstruction
+error, which is known to be a poor proxy to perceptual quality. Newer methods,
+based on generative adversarial networks produce significantly more
+perceptually accurate results.
+
+This talk is about understanding why GANs work so well for image
+superresolution and what they really do. I will first show how GANs can be
+used to approximate MAP inference in the SR problem, and then show how a
+simple stochastic extension of existing methods can be shown to perform
+variational inference. In the second half of the talk I'm going to talk about
+a generalisation of this idea: using implicit models in variational inference."
+
+
+
 speakers:
 - Dougal Sutherland  
 - Ferenc Huszár 
