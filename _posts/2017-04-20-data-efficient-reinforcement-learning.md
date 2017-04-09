@@ -49,6 +49,21 @@ talks:
   youtube: 
   start: "12:00"
   end: "12:30"
+- title: "Unsupervised Learning for RL"
+  speaker: "Koray Kavukcuoglu"
+  youtube: 
+  start: "12:30"
+  end: "13:00"
+- title: "Innate Knowledge"
+  speaker: "Chris Watkins"
+  youtube: 
+  start: "18:00"
+  end: "18:30"
+- title: "Panel discussion"
+  speaker: 
+  youtube: 
+  start: "18:30"
+  end: "20:00"
 speakers:
 - Aldo Faisal
 - Koray Kavukcuoglu
