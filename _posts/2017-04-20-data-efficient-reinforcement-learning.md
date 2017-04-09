@@ -22,7 +22,7 @@ organizers:
   url: "http://wp.doc.ic.ac.uk/sml/person/marc-deisenroth/"
   institute: Imperial College London  
 room: Adeje
-show_abstracts: true
+show_abstracts: false
 talks:
 - title: "Learning flexible models of nonlinear dynamical systems"
   speaker: "Thomas Schön"
