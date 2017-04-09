@@ -101,8 +101,8 @@ an incremental procedure leads to convergence to the true distribution in a
 finite number of steps if each step is optimal, and convergence at an
 exponential rate otherwise. We also illustrate experimentally that this
 procedure addresses the problem of missing modes."
-- title: "David Duvenaud (Toronto)"
-  speaker: "Generator-Aware Discriminators for Stable GAN Training"
+- title: "Generator-Aware Discriminators for Stable GAN Training"
+  speaker: "David Duvenaud (Toronto)"
   youtube: 
   start: 
   end:
