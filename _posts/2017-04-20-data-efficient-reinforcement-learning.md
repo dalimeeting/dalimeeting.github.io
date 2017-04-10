@@ -29,7 +29,7 @@ talks:
   youtube: 
   start: "09:30"
   end: "10:00"
-- title: "TBA"
+- title: "Towards Safe Learning during Closed-loop Control"
   speaker: "Melanie Zeilinger"
   youtube: 
   start: "10:00"
