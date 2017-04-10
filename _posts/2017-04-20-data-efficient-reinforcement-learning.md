@@ -28,6 +28,8 @@ talks:
   author:
   - given: Thomas
     family: Schön
+    url: http://user.it.uu.se/~thosc112/
+    institute: Uppsala University
   youtube: 
   start: "09:30"
   end: "10:00"
@@ -42,6 +44,8 @@ talks:
   author:
   - given: Roberto
     family: Calandra
+    url: http://www.ausy.tu-darmstadt.de/Team/RobertoCalandra
+    institute: TU Darmstadt
   youtube: 
   start: "10:30"
   end: "11:00"
