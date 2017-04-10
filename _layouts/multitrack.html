@@ -53,7 +53,7 @@ layout: default
         {% if talk.abstract or talk.bio %}
 
         <br>
-<h4 id='{{talk.speaker}}' style='margin-bottom:0'><b>{{ talk.title }}</b></h4>
+<h4 id='{{talk.title  | remove: ' ' | remove: ':' }}' style='margin-bottom:0'><b>{{ talk.title }}</b></h4>
             {{ talk.speaker }}
 
             {% if talk.abstract %}
