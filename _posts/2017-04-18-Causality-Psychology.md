@@ -64,17 +64,23 @@ talks:
   start: "12:30"
   end: "13:00"
 - title: "Diagnostic causal reasoning with verbal uncertainty terms"
-  speaker: "Bjoern Meder"
+  author:
+  - given: Björn
+    family: Meder
   youtube: 
   start: "18:00"
   end: "18:30"
 - title: "Causal inference from a group invariance perspective"
-  speaker: "Michel Beserve"
+  author:
+  - given: Michel
+    family: Beserve
   youtube: 
   start: "18:30"
   end: "19:00"
 - title: "Seeing the arrow of time"
-  speaker: "Felix Wichmann"
+  author:
+  - given: Felix
+    family: Wichmann
   youtube: 
   start: "19:00"
   end: "19:30"  
@@ -86,5 +92,5 @@ speakers:
 - Fei Sha
 - Chris Lucas  
 - Moritz Grosse-Wentrup 
-- Bjorn Meder
+- Björn Meder
 ---
