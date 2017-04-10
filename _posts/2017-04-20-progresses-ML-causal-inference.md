@@ -20,7 +20,10 @@ room: Caleta
 show_abstracts: false
 talks:
 - title: 
-  speaker:
+  author:
+  - given:
+    family:
+    institute:
   youtube: 
   start:
   end: 

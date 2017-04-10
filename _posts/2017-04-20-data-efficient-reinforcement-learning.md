@@ -25,37 +25,50 @@ room: Adeje
 show_abstracts: false
 talks:
 - title: "Learning flexible models of nonlinear dynamical systems"
-  speaker: "Thomas Schön"
+  author:
+  - given: Thomas
+    family: Schön
   youtube: 
   start: "09:30"
   end: "10:00"
 - title: "Towards Safe Learning during Closed-loop Control"
-  speaker: "Melanie Zeilinger"
+  author:
+  - given: Melanie
+    family: Zeilinger
   youtube: 
   start: "10:00"
   end: "10:30"
 - title: "Goal-Driven Dynamics Learning for Model-Based RL"
-  speaker: "Roberto Calandra"
+  author:
+  - given: Roberto
+    family: Calandra
   youtube: 
   start: "10:30"
   end: "11:00"
 - title: "When the patient in front of you is the data source: (Machine) learning to adapt in real-time to acute clinical settings"
-  speaker: "Aldo Faisal"
+  author:
+  - given: Aldo Faisal"
   youtube: 
   start: "11:30"
   end: "12:00"
 - title: "Unifying Multi-Step Reinforcement Learning Methods through Matrix Splittings"
-  speaker: "Pierre-Luc Bacon"
+  author:
+  - given: Pierre-Luc
+    family: Bacon
   youtube: 
   start: "12:00"
   end: "12:30"
 - title: "Unsupervised Learning for RL"
-  speaker: "Koray Kavukcuoglu"
+  author:
+  - given: Koray
+    family: Kavukcuoglu
   youtube: 
   start: "12:30"
   end: "13:00"
 - title: "Innate Knowledge"
-  speaker: "Chris Watkins"
+  author:
+  - given: Chris
+    family: Watkins
   youtube: 
   start: "18:00"
   end: "18:30"
