@@ -20,7 +20,7 @@ organizers:
 room: El Veril
 show_abstracts: true
 talks:
-- title: “Is Interaction Necessary for Distributed Private Learning?”
+- title: Is Interaction Necessary for Distributed Private Learning?
   author:
   - given: Abhradeep
     family: Guha Thakurta
@@ -28,8 +28,8 @@ talks:
   start: "09:30"
   end: "10:15"
   abstract: "Recent large-scale deployments of differentially private algorithms employ the local model for privacy (sometimes called the randomized response), where data are randomized on individual's devices before being sent to a server that computes approximate, aggregate statistics. The server need not be trusted for privacy, leaving data control in users' hands. For an important class of convex optimization problems (including logistic regression, support vector machines, and the Euclidean median), the best known locally differentially private algorithm are highly interactive. With n users in the protocol, they use n rounds of back and forth communication. The server exchanges messages with each user only once, but must do so in sequence. 
-  We ask: how much interaction is necessary to optimize convex functions in the local DP model? We give a new noninteractive algorithm for local, differentially private convex optimization. For 1-dimensional problems, its error matches the error of the interactive solutions, which are optimal. As the dimension grows, however, our algorithm's required sample size grows exponentially with the dimension.  We show that this dependency is necessary for a large family of algorithms (including those in the literature). Finally, we study algorithms that use interaction sparingly. We show that several natural locally DP algorithms-- analogues of gradient descent and the cutting plane method---obtain low error using relatively few rounds."
-- title: “A Decentralized and Robust Protocol for Private Averaging over Highly Distributed Data”
+  We ask: how much interaction is necessary to optimize convex functions in the local DP model? We give a new noninteractive algorithm for local, differentially private convex optimization. For 1-dimensional problems, its error matches the error of the interactive solutions, which are optimal. As the dimension grows, however, our algorithm's required sample size grows exponentially with the dimension.  We show that this dependency is necessary for a large family of algorithms (including those in the literature). Finally, we study algorithms that use interaction sparingly. We show that several natural locally DP algorithms---analogues of gradient descent and the cutting plane method---obtain low error using relatively few rounds."
+- title: A Decentralized and Robust Protocol for Private Averaging over Highly Distributed Data
   author:
   - given: Aurelien
     family: Bellet
@@ -37,7 +37,7 @@ talks:
   start: "10:15"
   end: "11:00"
   abstract: "We propose a decentralized protocol for a large set of users to privately compute averages over their joint data, which can be used to learn more complex machine learning models. Our protocol can find a solution of arbitrary accuracy, does not rely on a trusted third party and preserves the privacy of users throughout the execution in both the honest-but-curious and malicious adversary models. Furthermore, we design a verification procedure which offers protection against malicious users joining the service with the goal of manipulating the outcome of the algorithm."
-- title: “Data mining approaches for discrimination discovery”
+- title: Data mining approaches for discrimination discovery
   author:
   - given: Sara
     family: Haijan
