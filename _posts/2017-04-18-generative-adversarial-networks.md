@@ -20,7 +20,10 @@ room: Adeje
 show_abstracts: true
 talks:
 - title: "Two-Sample Tests, Integral Probability Metrics, and GAN Objective"
-  speaker: "Dougal J. Sutherland (Gatsby unit, UCL)"
+  author:
+  - given: Dougal J.
+    family: Sutherland
+    institute: Gatsby unit, UCL
   youtube: 
   start: 
   end:
@@ -37,7 +40,10 @@ discrepancy, and Wasserstein distances. We will also discuss the use of these
 types of distances as tools to diagnose convergence of generative models and
 discover ways in which their samples differ from the reference distribution."
 - title: "Image Superresolution: from mean squared error to variational inference with GANs"
-  speaker: "Ferenc Huszar (Twitter Cortex)"
+  author:
+  - given: Ferenc
+    family: Huszár
+    institute: Twitter Cortex
   youtube: 
   start: 
   end:
@@ -55,7 +61,10 @@ simple stochastic extension of existing methods can be shown to perform
 variational inference. In the second half of the talk I'm going to talk about
 a generalisation of this idea: using implicit models in variational inference."
 - title: "Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks"
-  speaker: "Emily Denton (NYU)"
+  author:
+  - given: Emily
+    family: Denton
+    institute: NYU
   youtube: 
   start: 
   end:
@@ -69,7 +78,10 @@ supervised training of the discriminator. Using our approach we are able to
 directly train large VGG-style discriminator networks in a semi-supervised
 fashion, obtaining competitive results on STL-10 and PASCAL datasets."
 - title: "Connecting GANs, Actor-Critic Methods and Multilevel Optimization"
-  speaker: "David Pfau (Deepmind)"
+  author:
+  - given: David
+    family: Pfau
+    institute: Deepmind
   youtube: 
   start: 
   end:
@@ -84,7 +96,10 @@ goal, we introduce unrolled GANs, an algorithm for GAN training which
 approximates gradients with respect to the optimal discriminator by
 backpropagating through several steps of SGD."
 - title: "AdaGAN: Boosting Generative Models"
-  speaker: "Olivier Bousquet (Google)"
+  author:
+  - given: Olivier
+    family: Bousquet
+    institute: Google
   youtube: 
   start: 
   end:
@@ -102,7 +117,10 @@ finite number of steps if each step is optimal, and convergence at an
 exponential rate otherwise. We also illustrate experimentally that this
 procedure addresses the problem of missing modes."
 - title: "Generator-Aware Discriminators for Stable GAN Training"
-  speaker: "David Duvenaud (Toronto)"
+  author: 
+  - given: David
+    family: Duvenaud
+    institute: Toronto
   youtube: 
   start: 
   end:
@@ -114,7 +132,10 @@ an extra argument the weights of the generator network.  We also explore a
 similar idea for training variational recognition networks when integrating
 over the generator weights."
 - title: "Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play"
-  speaker: "Arthur Szlam (Facebook)"
+  author: 
+  - given: Arthur 
+    family: Szlam
+    institute: Facebook
   youtube: 
   start: 
   end:
@@ -127,7 +148,10 @@ in more complex environments that this unsupervised training can reduce the
 number of episodes needed to learn extrinsic tasks.  Joint work with Sainbayar
 Sukhbaatar, Ilya Kostrikov, and Rob Fergus."
 - title: "On Generative Adversarial Networks and Density Estimation"
-  speaker: "Fernando Perez-Cruz (Stevens Institute of Technology)"
+  author:
+  - given: Fernando
+    family: Perez-Cruz
+    institute: Stevens Institute of Technology
   youtube: 
   start: 
   end:
