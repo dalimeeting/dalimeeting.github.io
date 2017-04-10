@@ -16,7 +16,7 @@ organizers:
 - given: Borja 
   family: Balle
   url: "http://www.lancaster.ac.uk/~deballep/"
-  institute: Lancaster University
+  institute: Amazon Research Cambridge and Lancaster University
 room: El Veril
 show_abstracts: true
 talks:
