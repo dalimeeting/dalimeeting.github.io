@@ -47,7 +47,8 @@ talks:
   end: "11:00"
 - title: "When the patient in front of you is the data source: (Machine) learning to adapt in real-time to acute clinical settings"
   author:
-  - given: Aldo Faisal"
+  - given: Aldo
+    family: Faisal
   youtube: 
   start: "11:30"
   end: "12:00"
