@@ -22,32 +22,44 @@ room: El Veril
 show_abstracts: false
 talks:
 - title: "The principle of independent mechanisms"
-  speaker: "Bernhard Schoelkopf"
+  author:
+  - family: Schölkopf
+    given: Bernhard
   youtube: 
   start: "09:30"
   end: "10:00" 
 - title: "Causal discovery in psychometric data sets: the search for aggression and conduct disorders"
-  speaker: "Tom Claassen"
+  author:
+  - given: Tom
+    family: Claassen
   youtube: 
   start: "10:00"
   end: "10:30" 
 - title: "Human causal learning via local inferences"
-  speaker: "David Danks"
+  author: 
+  - given: David
+    family: Danks
   youtube: 
   start: "10:30"
   end: "11:00"
 - title: "Discovering and exploiting structure in the face of changing tasks"
-  speaker: "Chris Lucas"
+  author: 
+  - given: Chris 
+    family: Lucas
   youtube: 
   start: "11:30"
   end: "12:00" 
 - title: "Do we really have a shot at solving zero-shot learning for object recognition?"
-  speaker: "Fei Sha"
+  author: 
+  - given: Fei
+    family: Sha
   youtube: 
   start: "12:00"
   end: "12:30" 
 - title: "Distinguishing between the neural correlates and the neural basis of cognition"
-  speaker: "Moritz Grosse-Wentrup"
+  author: 
+  - given: Moritz 
+    family: Grosse-Wentrup
   youtube: 
   start: "12:30"
   end: "13:00"
