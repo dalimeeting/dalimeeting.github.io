@@ -37,6 +37,8 @@ talks:
   author:
   - given: Melanie
     family: Zeilinger
+    url: http://www.idsc.ethz.ch/the-institute/people/person-detail.html?persid=142737
+    institute: ETH Zurich
   youtube: 
   start: "10:00"
   end: "10:30"
@@ -53,6 +55,8 @@ talks:
   author:
   - given: Aldo
     family: Faisal
+    url: https://www.imperial.ac.uk/people/a.faisal
+    institute: Imperial College
   youtube: 
   start: "11:30"
   end: "12:00"
@@ -60,6 +64,8 @@ talks:
   author:
   - given: Pierre-Luc
     family: Bacon
+    url: http://pierrelucbacon.com/
+    institute: McGill University
   youtube: 
   start: "12:00"
   end: "12:30"
@@ -67,6 +73,8 @@ talks:
   author:
   - given: Max
     family: Jaderberg
+    url: http://www.maxjaderberg.com/#/
+    institute: DeepMind
   youtube: 
   start: "12:30"
   end: "13:00"
@@ -74,6 +82,8 @@ talks:
   author:
   - given: Chris
     family: Watkins
+    url: http://www.cs.rhul.ac.uk/~chrisw/
+    institute: Royal Holloway
   youtube: 
   start: "18:00"
   end: "18:30"
