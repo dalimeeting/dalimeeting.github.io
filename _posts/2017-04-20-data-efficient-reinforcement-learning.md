@@ -61,8 +61,8 @@ talks:
   end: "12:30"
 - title: "Unsupervised Learning for RL"
   author:
-  - given: Koray
-    family: Kavukcuoglu
+  - given: Max
+    family: Jaderberg
   youtube: 
   start: "12:30"
   end: "13:00"
