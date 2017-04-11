@@ -17,7 +17,7 @@ organizers:
   url: http://stat.ethz.ch/~heinzec/
   institute: ETH Zurich
 room: Caleta
-show_abstracts: false
+show_abstracts: true
 talks:
 - title: "Exact Constraint-based Causal Discovery"
   author:
@@ -38,7 +38,28 @@ talks:
   youtube: 
   start: "10:00"
   end: "10:30"
-  abstract:  
+  abstract: 
+- title: "Causal discovery and prediction in nonstationary environments"
+  author:
+  - given: Kun
+    family: Zhang
+    url: http://is.tuebingen.mpg.de/person/kzhang
+    institute: Carnegie Mellon University & Max Planck Institute for Intelligent Systems
+  youtube: 
+  start: "10:30"
+  end: "11:00"
+  abstract: "Time series data and data collected across different conditions often exhibit a distribution shift phenomenon, which poses challenges for both causal discovery and prediction -- the underlying causal model may change with the distribution shift, and traditional supervised learning assumes that the training set and test set were drawn from the same distribution, which is not the case when the data distribution changes. In this talk, we emphasize and exploit the coupling relationship between causal modeling and distribution shift: causal models imply how the data-generating processes or different modules of the joint distribution may change, and distribution shift actually exhibits such changes. Accordingly, we show how causal discovery could benefit from distribution shift, and how a causal perspective helps understand and solve the problem of domain adaptation or transfer learning."
+- title: "Causal Inference from Single Cell, Mass Cytometry Data: an Integrative Approach"
+  author:
+  - given: Ioannis
+    family: Tsamardinos
+    url: http://mensxmachina.org/en/people/ioannis-tsamardinos/
+    institute: University of Crete
+  youtube: 
+  start: "11:30"
+  end: "12:00"
+  abstract: "Single Cell biological data, and particularly Mass Cytometry Data present significant opportunities not only for discovering novel biological data, but also for serving as a testbed of Causal Discovery algorithms. Such data seem ideal for Causal Discovery as they typically contain thousands of even millions of sample points, under several experimental conditions, and often measured at several time points. On the other hand, initial attempts at Causal Discovery demonstrate the challenges of learning causality in the microworld where confounding factors and feedback cycles are abundant. In this talk, we present approaches developed and applied on mass cytometry data that are based on Causal Probabilistic Graphical Models as well as novel approaches based on Ordinary Differential Equation Models. The results and the lesson's learnt will be discussed, as well as their influence in inventing new methods that can robustly discover causality in single cell biological data."
+
 speakers:
 - Jakob Runge, Imperial College, London
 - Joris Mooij, University of Amsterdam
