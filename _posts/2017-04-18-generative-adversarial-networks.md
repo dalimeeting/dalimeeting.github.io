@@ -19,14 +19,18 @@ organizers:
 room: Adeje
 show_abstracts: true
 talks:
+- title: "Introduction"
+  youtube: 
+  start: "09:20"
+  end: "09:30"
 - title: "Two-Sample Tests, Integral Probability Metrics, and GAN Objective"
   author:
   - given: Dougal J.
     family: Sutherland
     institute: Gatsby unit, UCL
   youtube: 
-  start: 
-  end:
+  start: "09:30"
+  end: "10:00"
   abstract: "One of the major failure patterns of typical GAN models is when the generator
 collapses to a single point considered highly realistic by the current
 discriminator, after which the learning problem becomes stuck. To help avoid
@@ -39,52 +43,14 @@ sample tests which correspond to the traditional GAN, the maximum mean
 discrepancy, and Wasserstein distances. We will also discuss the use of these
 types of distances as tools to diagnose convergence of generative models and
 discover ways in which their samples differ from the reference distribution."
-- title: "Image Superresolution: from mean squared error to variational inference with GANs"
-  author:
-  - given: Ferenc
-    family: Huszár
-    institute: Twitter Cortex
-  youtube: 
-  start: 
-  end:
-  abstract: "Like many other problems, convolutional neural networks have achieved state of
-the art performance in photo-realistic image superresolution. The main
-limitation of early methods was that they minimise mean square reconstruction
-error, which is known to be a poor proxy to perceptual quality. Newer methods,
-based on generative adversarial networks produce significantly more
-perceptually accurate results.
-
-This talk is about understanding why GANs work so well for image
-superresolution and what they really do. I will first show how GANs can be
-used to approximate MAP inference in the SR problem, and then show how a
-simple stochastic extension of existing methods can be shown to perform
-variational inference. In the second half of the talk I'm going to talk about
-a generalisation of this idea: using implicit models in variational inference."
-- title: "Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks"
-  author:
-  - given: Emily
-    family: Denton
-    institute: NYU
-  youtube: 
-  start: 
-  end:
-  abstract: "The main focus of this talk will be on a simple semi-supervised learning
-approach for images based on in-painting using an adversarial loss. Images with
-random patches removed are presented to a generator whose task is to fill in
-the hole, based on the surrounding pixels. The in-painted images are then
-presented to a discriminator network that judges if they are real (unaltered
-training images) or not. This task acts as a regularizer for standard
-supervised training of the discriminator. Using our approach we are able to
-directly train large VGG-style discriminator networks in a semi-supervised
-fashion, obtaining competitive results on STL-10 and PASCAL datasets."
 - title: "Connecting GANs, Actor-Critic Methods and Multilevel Optimization"
   author:
   - given: David
     family: Pfau
     institute: Deepmind
   youtube: 
-  start: 
-  end:
+  start: "10:00"
+  end: "10:30"
   abstract: "Generative Adversarial Networks pose a challenging optimization problem due to
 the multiple loss functions which must be optimized simultaneously. The GAN
 game can be framed as a bilevel optimization problem, like many other problems
@@ -101,8 +67,8 @@ backpropagating through several steps of SGD."
     family: Bousquet
     institute: Google
   youtube: 
-  start: 
-  end:
+  start: "10:30"
+  end: "11:00"
   abstract: "Generative Adversarial Networks (GAN) (Goodfellow et al., 2014) are an
 effective method for training generative models of complex data such as
 natural images. However, they are notoriously hard to train and can suffer
@@ -116,14 +82,35 @@ an incremental procedure leads to convergence to the true distribution in a
 finite number of steps if each step is optimal, and convergence at an
 exponential rate otherwise. We also illustrate experimentally that this
 procedure addresses the problem of missing modes."
+- title: "Image Superresolution: from mean squared error to variational inference with GANs"
+  author:
+  - given: Ferenc
+    family: Huszár
+    institute: Twitter Cortex
+  youtube: 
+  start: "11:30"
+  end: "12:00"
+  abstract: "Like many other problems, convolutional neural networks have achieved state of
+the art performance in photo-realistic image superresolution. The main
+limitation of early methods was that they minimise mean square reconstruction
+error, which is known to be a poor proxy to perceptual quality. Newer methods,
+based on generative adversarial networks produce significantly more
+perceptually accurate results.
+
+This talk is about understanding why GANs work so well for image
+superresolution and what they really do. I will first show how GANs can be
+used to approximate MAP inference in the SR problem, and then show how a
+simple stochastic extension of existing methods can be shown to perform
+variational inference. In the second half of the talk I'm going to talk about
+a generalisation of this idea: using implicit models in variational inference."
 - title: "Generator-Aware Discriminators for Stable GAN Training"
   author: 
   - given: David
     family: Duvenaud
     institute: Toronto
   youtube: 
-  start: 
-  end:
+  start: "12:00"
+  end: "12:30"
   abstract: "The alternating optimization of generator and discriminator produces sometimes
 unfavorable training dynamics.  In particular, as the generator changes, the
 discriminator forgets how to discriminate against previously-seen generators.
@@ -131,14 +118,31 @@ We examine the idea of training a single universal discriminator, who takes as
 an extra argument the weights of the generator network.  We also explore a
 similar idea for training variational recognition networks when integrating
 over the generator weights."
+- title: "Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks"
+  author:
+  - given: Emily
+    family: Denton
+    institute: NYU
+  youtube: 
+  start: "12:30"
+  end: "13:00"
+  abstract: "The main focus of this talk will be on a simple semi-supervised learning
+approach for images based on in-painting using an adversarial loss. Images with
+random patches removed are presented to a generator whose task is to fill in
+the hole, based on the surrounding pixels. The in-painted images are then
+presented to a discriminator network that judges if they are real (unaltered
+training images) or not. This task acts as a regularizer for standard
+supervised training of the discriminator. Using our approach we are able to
+directly train large VGG-style discriminator networks in a semi-supervised
+fashion, obtaining competitive results on STL-10 and PASCAL datasets."
 - title: "Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play"
   author: 
   - given: Arthur 
     family: Szlam
     institute: Facebook
   youtube: 
-  start: 
-  end:
+  start: "18:00"
+  end: "18:30"
   abstract: "I will discuss how an agent can learn to manipulate its environment by
 proposing itself tasks to complete.   In tabular, in Markovian environments
 that are reversible or resetable, with an appropriate choice of reward
@@ -153,8 +157,8 @@ Sukhbaatar, Ilya Kostrikov, and Rob Fergus."
     family: Perez-Cruz
     institute: Stevens Institute of Technology
   youtube: 
-  start: 
-  end:
+  start: "18:30"
+  end: "19:00"
   abstract: "Generative adversarial networks (GANs) propose an alternative approach for
 density estimation that relies on a discriminative network's output to lead
 a generativenetwork's density model. They seem to be able to tackle density
@@ -168,7 +172,10 @@ the true density as the number of samples increases. For the latter, we
 advocate for a two-sample test as the proper test for measuring GANs
 performance, since it is a simple test would tell us if two set of samples
 come from the same distribution."
-
+- title: "Brainstorming and discussion"
+  youtube: 
+  start: "19:00"
+  end: "20:00"
 speakers:
 - Dougal Sutherland  
 - Ferenc Huszár 
