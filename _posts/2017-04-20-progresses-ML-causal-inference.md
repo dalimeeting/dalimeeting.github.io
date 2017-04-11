@@ -38,7 +38,6 @@ talks:
   youtube: 
   start: "10:00"
   end: "10:30"
-  abstract: 
 - title: "Causal discovery and prediction in nonstationary environments"
   author:
   - given: Kun
@@ -68,7 +67,6 @@ talks:
   youtube: 
   start: "12:00"
   end: "12:30"
-  abstract: ""
 - title: "Large-scale causal discovery from nonlinear time series datasets"
   author:
   - given: Jacob  
@@ -106,6 +104,26 @@ answers with high knowledge value are rare, newbies and experts tend
 to acquire less knowledge than users in the middle range and prolific
 learners tend to be also proficient contributors that post answers
 with high knowledge value." 
+- title: "Uncovering the Dynamics of Crowdlearning and the Value of Knowledge"
+  author:
+  - given: Alex  
+    family: Peysakhovich  
+    url: http://alexpeys.github.io/
+    institute: Facebook
+  youtube: 
+  start: "18:30"
+  end: "19:00"
+  abstract: "Scientific and business practices are increasingly resulting in large collections of randomized experiments. Analyzed together, these collections can tell us things that individual experiments in the collection cannot. We study how to learn causal relationships between variables from such collections when the number experiments is large, many experiments have very small effects, and the analyst lacks metadata (e.g., descriptions of the interventions). Here we use experimental groups as instrumental variables (IV) and show that a standard method (two-stage least squares) is biased even when the number of experiments is infinite. We show how a sparsity-inducing $l_0$ regularization can --- in a reversal of the standard bias--variance tradeoff in regularization --- reduce bias and MSE of interventional predictions. We propose a cross-validation procedure (IVCV) to feasibly select the regularization parameter. Using a trick from Monte Carlo sampling, IVCV can be done using summary statistics instead of raw data, thus making it simple to use in many real-world applications."
+- title: "Discovering causation in data"
+  author:
+  - given: David 
+    family: Lopez-Paz   
+    url: https://lopezpaz.org/
+    institute: Facebook
+  youtube: 
+  start: "18:30"
+  end: "19:00"
+  abstract: "The aim of machine learning is to discover dependencies between variables, and use these dependencies to provide predictions. This is in stark contrast to other sciences, which aim at discovering causal relations between variables, and using these causal relations to provide with explanations. Since machine learning ignores the differences between dependence and causation, current machine learning algorithms excel at prediction by exploiting indirect dependencies, are unable to explain their outcomes, need large amounts of data to solve the task at hand, and fail when facing distributional shifts --- such as adversarial perturbations. In this talk, we ask the question: Can machine learning evolve and address these problems by discovering and leveraging causation? We will conjecture that this is the case, by 1) developing a novel and theoretically sustained framework to uncover causal relations between pairs of variables, 2) exemplifying the preliminary use of these methods in computer vision and natural language understanding tasks, and 3) moving towards the multivariate case thanks to the use of Generative Adversarial Networks."
 
   
 speakers:
