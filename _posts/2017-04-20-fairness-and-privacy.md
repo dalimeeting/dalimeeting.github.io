@@ -44,7 +44,7 @@ talks:
   youtube: 
   start: "11:30"
   end: "12:15"
-  abstract: "Algorithms and decision making based on Big Data have become pervasive in all aspects of our daily (offline and online) lives. They determine the media we consume, the stories we read, the people we meet, the places we visit, but also whether we get a job, or whether our loan or insurance request is approved. It is therefore of societal and ethical importance to ask whether these algorithms can be discriminative on grounds, such as gender, ethnicity, marital or health status. In this talk, I will present different examples of racial and gender bias in different online and offline services and explain how algorithmic bias occurs even when there is no discrimination intention in the developer of the learning algorithms. Finally, I will introduce the recent data mining approaches for discrimination discovery from the database of historical decision records."  
+  abstract: 
 - title: "Fairness constraints: a mechanism to design fair classifiers"
   author:
   - given: Manuel
