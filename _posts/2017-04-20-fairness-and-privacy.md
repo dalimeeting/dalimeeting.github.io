@@ -60,6 +60,7 @@ talks:
   youtube: 
   start: "18:00"
   end: "18:35"
+  abstract: "Algorithmic."
 - title: "Differentially Private Chi-Squared Hypothesis Testing: Goodness of Fit and Independence Testing"
   author:
   - given: Marco
