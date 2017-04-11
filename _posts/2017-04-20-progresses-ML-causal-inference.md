@@ -59,7 +59,27 @@ talks:
   start: "11:30"
   end: "12:00"
   abstract: "Single Cell biological data, and particularly Mass Cytometry Data present significant opportunities not only for discovering novel biological data, but also for serving as a testbed of Causal Discovery algorithms. Such data seem ideal for Causal Discovery as they typically contain thousands of even millions of sample points, under several experimental conditions, and often measured at several time points. On the other hand, initial attempts at Causal Discovery demonstrate the challenges of learning causality in the microworld where confounding factors and feedback cycles are abundant. In this talk, we present approaches developed and applied on mass cytometry data that are based on Causal Probabilistic Graphical Models as well as novel approaches based on Ordinary Differential Equation Models. The results and the lesson's learnt will be discussed, as well as their influence in inventing new methods that can robustly discover causality in single cell biological data."
-
+- title: "TBA"
+  author:
+  - given: Joris 
+    family: Mooji
+    url: https://ei.is.tuebingen.mpg.de/~jorism
+    institute: Max Planck Institute for Intelligent Systems
+  youtube: 
+  start: "12:00"
+  end: "12:30"
+  abstract: ""
+- title: "Large-scale causal discovery from nonlinear time series datasets"
+  author:
+  - given: Jacob  
+    family: Runge
+    url: http://www.imperial.ac.uk/people/j.runge
+    institute: Imperial Collegue
+  youtube: 
+  start: "12:30"
+  end: "13:00"
+  abstract: "Detecting causal associations in observational time series datasets is a key challenge for novel insights into complex dynamical systems such as the Earth system. Dependencies in such a high-dimensional dynamical system may involve time-delays, nonlinearity, and strong autocorrelations, which present major challenges for causal discovery techniques. Here we are interested in time-lagged causal discovery using conditional independence testing and address two major problems: (1) Low power due to high-dimensionality and (2) detection `biases'. The latter refers to the problem that the detection power for individual links may depend not only on their causal strength, but also on autocorrelation and other dependencies. Here we introduce a method for large-scale, linear and nonlinear, time-delayed causal discovery. In extensive numerical experiments we find that our method yields more power than common methods and largely overcomes detection biases allowing to more accurately rank associations in large-scale analyses by their causal strength. We demonstrate the method on a large-scale climate time series dataset."
+  
 speakers:
 - Jakob Runge, Imperial College, London
 - Joris Mooij, University of Amsterdam
