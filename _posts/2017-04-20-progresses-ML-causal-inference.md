@@ -58,7 +58,7 @@ talks:
   start: "11:30"
   end: "12:00"
   abstract: "Single Cell biological data, and particularly Mass Cytometry Data present significant opportunities not only for discovering novel biological data, but also for serving as a testbed of Causal Discovery algorithms. Such data seem ideal for Causal Discovery as they typically contain thousands of even millions of sample points, under several experimental conditions, and often measured at several time points. On the other hand, initial attempts at Causal Discovery demonstrate the challenges of learning causality in the microworld where confounding factors and feedback cycles are abundant. In this talk, we present approaches developed and applied on mass cytometry data that are based on Causal Probabilistic Graphical Models as well as novel approaches based on Ordinary Differential Equation Models. The results and the lesson's learnt will be discussed, as well as their influence in inventing new methods that can robustly discover causality in single cell biological data."
-- title: "TBA"
+- title: "Joint Causal Inference"
   author:
   - given: Joris 
     family: Mooji
@@ -67,6 +67,7 @@ talks:
   youtube: 
   start: "12:00"
   end: "12:30"
+  abstract: "The standard method to discover causal relations is by using experimentation. Over the last decades, alternative methods have been proposed: constraint-based causal discovery methods can sometimes infer causal relations from certain statistical patterns in purely observational data. We introduce Joint Causal Inference (JCI), a novel constraint-based approach to causal discovery from multiple data sets that elegantly unifies both approaches. Compared with existing constraint-based approaches for causal discovery from multiple data sets, JCI offers several advantages: it deals with several different types of interventions in a unified fashion, it can learn intervention targets, it systematically pools data across different datasets which improves the statistical power of independence tests, and most importantly, it improves on the accuracy and identifiability of the predicted causal relations."
 - title: "Large-scale causal discovery from nonlinear time series datasets"
   author:
   - given: Jacob  
