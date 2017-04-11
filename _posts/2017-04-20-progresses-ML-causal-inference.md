@@ -19,14 +19,26 @@ organizers:
 room: Caleta
 show_abstracts: false
 talks:
-- title: 
+- title: "Exact Constraint-based Causal Discovery"
   author:
-  - given:
-    family:
-    institute:
+  - given: Antti
+    family: Hyttinen
+    url: https://sites.google.com/site/ajhyttin/
+    institute: Helsinki Institute for Information Technology
   youtube: 
-  start:
-  end: 
+  start: "09:30"
+  end: "10:00"
+  abstract: "Causal graphical model structure discovery is a challenging part of causal inference, graphical model research and machine learning. If absence of latent confounders can be assumed, the tool of choice are exact score-based methods, as they provably find the globally optimal equivalence class of structures. Constraint-based methods on the other hand are able to handle more general model spaces with cycles and latent confounders, but offer seriously poorer accuracy. We present research that bridges this gap between constraint-based and score-based methods to some extent. We use a combination of score-based and constraint-based ideas together with Boolean (maximum) satisfiability solving, to obtain an approach that retains exactness and the generality of the model space."
+- title: "TBA"
+  author:
+  - given: Suchi
+    family: Saria
+    url: https://www.cs.jhu.edu/faculty/suchi-saria/
+    institute: Johns Hopkins
+  youtube: 
+  start: "10:00"
+  end: "10:30"
+  abstract:  
 speakers:
 - Jakob Runge, Imperial College, London
 - Joris Mooij, University of Amsterdam
