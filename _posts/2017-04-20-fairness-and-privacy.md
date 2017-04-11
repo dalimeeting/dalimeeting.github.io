@@ -53,14 +53,6 @@ talks:
   start: "12:15"
   end: "13:00"
   abstract: "Algorithmic decision making is ubiquitous across a wide variety of online as well as offline services. However, there is a growing concern that these automated decisions can lead, even in the absence of intent, to a lack of fairness, i.e., their outcomes can disproportionately hurt (or, benefit) particular groups of people sharing one or more sensitive attributes (e.g., race, sex). In this talk, I will introduce a flexible mechanism to design fair classifiers by leveraging  a novel intuitive measure of decision boundary (un)fairness. I will then show that this mechanism can be easily incorporated into the formulation of several well-known margin based classifiers, without increasing their complexity, and it allows for a fine-grained control on the degree of fairness, often at a small cost in terms of accuracy."
-- title: "Preserving Differential Privacy Between Features in Distributed Estimation"
-  author:
-  - given: Christina
-    family: Heinze-Deml
-  youtube: 
-  start: "18:00"
-  end: "18:35"
-  abstract: "Privacy is crucial in many applications of machine learning. Legal, ethical and societal issues restrict the sharing of sensitive data making it difficult to learn from datasets that are partitioned between many parties. One important instance of such a distributed setting arises when information about each record in the dataset is held by different data owners (the design matrix is "vertically-partitioned"). In this setting few approaches exist for private data sharing for the purposes of statistical estimation and the classical setup of differential privacy with a "trusted curator" preparing the data does not apply. We introduce S-differential privacy which extends single-party differential privacy to the distributed, vertically-partitioned case. We then propose a scalable framework for distributed estimation where each party communicates perturbed sketches of their locally held features ensuring S-differential privacy is preserved. For L2-penalized supervised learning problems our proposed method has bounded estimation error compared with the optimal estimates obtained without privacy constraints in the non-distributed setting. We confirm this empirically on real world and synthetic datasets."
 - title: "Differentially Private Chi-Squared Hypothesis Testing: Goodness of Fit and Independence Testing"
   author:
   - given: Marco
