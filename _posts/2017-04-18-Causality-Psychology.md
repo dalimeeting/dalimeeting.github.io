@@ -25,6 +25,8 @@ talks:
   author:
   - family: Schölkopf
     given: Bernhard
+    url: http://is.tuebingen.mpg.de/person/bs
+    institute: Max Planck Institute for Intelligent Systems
   youtube: 
   start: "09:30"
   end: "10:00" 
@@ -32,6 +34,8 @@ talks:
   author:
   - given: Tom
     family: Claassen
+    url: http://www.cs.ru.nl/~tomc/
+    institute: Radboud University Nijmegen
   youtube: 
   start: "10:00"
   end: "10:30" 
