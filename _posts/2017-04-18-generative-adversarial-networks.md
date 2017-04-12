@@ -16,7 +16,7 @@ organizers:
   family: Lopez Paz
   url: http://lopezpaz.org/
   institute: Facebook AI Research
-room: Adeje
+room: Drago-Adeje
 show_abstracts: true
 talks:
 - title: "Introduction"
