@@ -24,6 +24,8 @@ talks:
   author:
   - given: Abhradeep
     family: Guha Thakurta
+    url: https://sites.google.com/site/guhathakurtaabhradeep/
+    institute: University of California Santa Cruz
   youtube: 
   start: "09:30"
   end: "10:15"
@@ -33,6 +35,8 @@ talks:
   author:
   - given: Aurelien
     family: Bellet
+    url: http://researchers.lille.inria.fr/abellet/
+    institute: INRIA
   youtube: 
   start: "10:15"
   end: "11:00"
@@ -41,6 +45,8 @@ talks:
   author:
   - given: Sara
     family: Haijan
+    url:
+    institute: Eurecat Technology Center
   youtube: 
   start: "11:30"
   end: "12:15"
@@ -49,6 +55,8 @@ talks:
   author:
   - given: Manuel
     family: Gomez-Rodriguez
+    url: https://people.mpi-sws.org/~manuelgr/
+    institute: Max Planck Institute for Software Systems
   youtube: 
   start: "12:15"
   end: "13:00"
@@ -57,6 +65,8 @@ talks:
   author:
   - given: Christina
     family: Heinze-Deml
+    url: http://stat.ethz.ch/~heinzec/
+    institute: ETH Zurich
   youtube: 
   start: "18:00"
   end: "18:35"
@@ -65,6 +75,8 @@ talks:
   author:
   - given: Marco
     family: Gaboardi
+    url: http://www.acsu.buffalo.edu/~gaboardi/
+    institute: SUNY
   youtube: 
   start: "18:35"
   end: "19:10"
