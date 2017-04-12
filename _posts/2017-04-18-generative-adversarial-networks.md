@@ -163,7 +163,7 @@ Sukhbaatar, Ilya Kostrikov, and Rob Fergus."
   - given: Fernando
     family: Perez-Cruz
     institute: Stevens Institute of Technology
-    url: www.tsc.uc3m.es/~fernando/
+    url: http://www.tsc.uc3m.es/~fernando/
   youtube: 
   start: "18:30"
   end: "19:00"
