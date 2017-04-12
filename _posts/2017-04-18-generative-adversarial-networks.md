@@ -28,6 +28,7 @@ talks:
   - given: Dougal J.
     family: Sutherland
     institute: Gatsby unit, UCL
+    url: http://www.gatsby.ucl.ac.uk/~dougals/
   youtube: 
   start: "09:30"
   end: "10:00"
@@ -48,6 +49,7 @@ discover ways in which their samples differ from the reference distribution."
   - given: David
     family: Pfau
     institute: Deepmind
+    url: http://davidpfau.com/
   youtube: 
   start: "10:00"
   end: "10:30"
@@ -66,6 +68,7 @@ backpropagating through several steps of SGD."
   - given: Olivier
     family: Bousquet
     institute: Google
+    url: https://research.google.com/pubs/OlivierBousquet.html
   youtube: 
   start: "10:30"
   end: "11:00"
@@ -87,6 +90,7 @@ procedure addresses the problem of missing modes."
   - given: Ferenc
     family: Huszár
     institute: Twitter Cortex
+    url: http://www.inference.vc/about/
   youtube: 
   start: "11:30"
   end: "12:00"
@@ -108,6 +112,7 @@ a generalisation of this idea: using implicit models in variational inference."
   - given: David
     family: Duvenaud
     institute: Toronto
+    url: https://www.cs.toronto.edu/~duvenaud/
   youtube: 
   start: "12:00"
   end: "12:30"
@@ -123,6 +128,7 @@ over the generator weights."
   - given: Emily
     family: Denton
     institute: NYU
+    url: http://www.cs.nyu.edu/~denton/
   youtube: 
   start: "12:30"
   end: "13:00"
@@ -140,6 +146,7 @@ fashion, obtaining competitive results on STL-10 and PASCAL datasets."
   - given: Arthur 
     family: Szlam
     institute: Facebook
+    url: https://research.fb.com/people/szlam-arthur/
   youtube: 
   start: "18:00"
   end: "18:30"
@@ -156,6 +163,7 @@ Sukhbaatar, Ilya Kostrikov, and Rob Fergus."
   - given: Fernando
     family: Perez-Cruz
     institute: Stevens Institute of Technology
+    url: www.tsc.uc3m.es/~fernando/
   youtube: 
   start: "18:30"
   end: "19:00"
