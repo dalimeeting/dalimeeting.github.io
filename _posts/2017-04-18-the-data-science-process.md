@@ -24,6 +24,7 @@ talks:
   - given: Balazs
     family: Kegl
     institute: CNRS - Centre national de la recherche scientifique, Paris-Saclay
+    url: https://users.lal.in2p3.fr/kegl/
   youtube: 
   start: "09:30"
   end: "10:15"
@@ -33,6 +34,7 @@ talks:
   - given: Jason 
     family: Gauci
     institute: Facebook
+    url: http://thegaucifamily.com/personal/
   youtube: 
   start: "10:15"
   end: "11:00"
@@ -42,6 +44,7 @@ talks:
   - given: Neil
     family: Lawrence
     institute: Amazon Research Cambridge and University of Sheffield
+    url: http://inverseprobability.com/
   youtube: 
   start: "11:30"
   end: "12:15"
@@ -65,6 +68,7 @@ talks:
   - given: Chris
     family: Williams
     institute: University of Edinburgh
+    url: http://homepages.inf.ed.ac.uk/ckiw/
   youtube: 
   start: "18:00"
   end: "18:30"
@@ -74,6 +78,7 @@ talks:
   - given: Isabel
     family: Valera
     institute: University of Cambridge
+    url: https://people.mpi-sws.org/~ivalera/publications.php
   youtube: 
   start: "18:30"
   end: "19:00"
@@ -83,6 +88,7 @@ talks:
   - given: Alain
     family: Hauser
     institute: Bern University of Applied Sciences
+    url: https://web.ti.bfh.ch/?id=hsa2&L=2
   youtube: 
   start: "19:00"
   end: "19:30"
@@ -92,6 +98,7 @@ talks:
   - given: Vikash
     family: Mansinghka
     institute: Massachusetts Institute of Technology
+    url: http://probcomp.csail.mit.edu/people/vkm.html
   youtube: 
   start: "19:30"
   end: "20:00"
