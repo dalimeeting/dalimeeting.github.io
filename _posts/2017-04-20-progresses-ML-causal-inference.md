@@ -29,7 +29,7 @@ talks:
   start: "09:30"
   end: "10:00"
   abstract: "Causal graphical model structure discovery is a challenging part of causal inference, graphical model research and machine learning. If absence of latent confounders can be assumed, the tool of choice are exact score-based methods, as they provably find the globally optimal equivalence class of structures. Constraint-based methods on the other hand are able to handle more general model spaces with cycles and latent confounders, but offer seriously poorer accuracy. We present research that bridges this gap between constraint-based and score-based methods to some extent. We use a combination of score-based and constraint-based ideas together with Boolean (maximum) satisfiability solving, to obtain an approach that retains exactness and the generality of the model space."
-- title: "TBA"
+- title: "Bayesian Estimation of Individualized Treatment Response Curves from Longitudinal data"
   author:
   - given: Suchi
     family: Saria
@@ -133,7 +133,6 @@ speakers:
 - Manuel Gomez Rodriguez, MPI for Software Systems, Saarbruecken
 - David Lopez-Paz, Facebook AI, Paris
 - Kun Zhang, Carnegie Mellon University, Pittsburgh
-- Alain Hauser, Google
 - Alex Peysakhovich, Facebook AI
 - Ioannis Tsamardinos, University of Crete
 - Antti Hyttinen, University of Helsinki
