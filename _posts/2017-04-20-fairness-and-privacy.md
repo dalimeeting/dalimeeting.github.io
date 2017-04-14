@@ -77,7 +77,8 @@ talks:
     url: https://sites.google.com/site/guhathakurtaabhradeep/
     institute: University of California Santa Cruz
   youtube: 
-  abstract: 
+  abstract: "Recent large-scale deployments of differentially private algorithms employ the local model for privacy (sometimes called the randomized response), where data are randomized on individual's devices before being sent to a server that computes approximate, aggregate statistics. The server need not be trusted for privacy, leaving data control in users' hands. For an important class of convex optimization problems (including logistic regression, support vector machines, and the Euclidean median), the best known locally differentially private algorithm are highly interactive. With n users in the protocol, they use n rounds of back and forth communication. The server exchanges messages with each user only once, but must do so in sequence. 
+  We ask: how much interaction is necessary to optimize convex functions in the local DP model? We give a new noninteractive algorithm for local, differentially private convex optimization. For 1-dimensional problems, its error matches the error of the interactive solutions, which are optimal. As the dimension grows, however, our algorithm's required sample size grows exponentially with the dimension.  We show that this dependency is necessary for a large family of algorithms (including those in the literature). Finally, we study algorithms that use interaction sparingly. We show that several natural locally DP algorithms---analogues of gradient descent and the cutting plane method---obtain low error using relatively few rounds."
   start: "18:35"
   end: "19:10"
 - title: "Discussion Panel"
