@@ -27,6 +27,7 @@ talks:
     url: http://www.acsu.buffalo.edu/~gaboardi/
     institute: SUNY
   youtube: 
+  abstract: 
   start: "09:30"
   end: "10:15"
 - title: A Decentralized and Robust Protocol for Private Averaging over Highly Distributed Data
@@ -43,7 +44,7 @@ talks:
   author:
   - given: Sara
     family: Hajian
-    url:https://scholar.google.com/citations?user=rXY4178AAAAJ
+    url: https://scholar.google.com/citations?user=rXY4178AAAAJ
     institute: Eurecat Technology Center
   youtube: 
   start: "11:30"
@@ -76,6 +77,7 @@ talks:
     url: https://sites.google.com/site/guhathakurtaabhradeep/
     institute: University of California Santa Cruz
   youtube: 
+  abstract: 
   start: "18:35"
   end: "19:10"
 - title: "Discussion Panel"
