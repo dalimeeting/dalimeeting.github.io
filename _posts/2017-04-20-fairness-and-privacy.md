@@ -29,7 +29,6 @@ talks:
   youtube: 
   start: "09:30"
   end: "10:15"
-  abstract: "Hypothesis testing is a useful statistical tool in determining whether a given model should be rejected based on a sample from the population. Sample data may contain sensitive information about individuals, such as medical information. Thus it is important to design statistical tests that guarantee the privacy of subjects in the data. We present some results about hypothesis testing subject to differential privacy, specifically about chi-squared tests for goodness of fit for multinomial data and independence between two categorical variables. We propose new tests that like the classical versions can be used to determine whether a given model should be rejected or not, and that additionally can ensure differential privacy. We give both Monte Carlo based hypothesis tests as well as hypothesis tests that more closely follow the classical chi-squared goodness of fit test and independence test. Crucially, our tests account for the distribution of the noise that is injected to ensure privacy in determining significance. We will comment on our results and we will compare our approach with other recent proposals in the same direction."
 - title: A Decentralized and Robust Protocol for Private Averaging over Highly Distributed Data
   author:
   - given: Aurelien
