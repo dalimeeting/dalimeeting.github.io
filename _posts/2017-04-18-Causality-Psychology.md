@@ -93,15 +93,6 @@ talks:
   youtube: 
   start: "18:30"
   end: "19:00"
-- title: "Seeing the arrow of time"
-  author:
-  - given: Felix
-    family: Wichmann
-    url: https://ei.is.tuebingen.mpg.de/person/felix
-    institute: Max Planck Institute for Intelligent Systems
-  youtube: 
-  start: "19:00"
-  end: "19:30"  
 speakers:
 - Bernhard Schölkopf 
 - David Danks
