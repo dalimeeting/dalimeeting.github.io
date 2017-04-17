@@ -61,9 +61,9 @@ talks:
 - title: "Joint Causal Inference"
   author:
   - given: Joris 
-    family: Mooji
-    url: https://ei.is.tuebingen.mpg.de/~jorism
-    institute: Max Planck Institute for Intelligent Systems
+    family: Mooij
+    url: https://staff.fnwi.uva.nl/j.m.mooij/
+    institute: University of Amsterdam
   youtube: 
   start: "12:00"
   end: "12:30"
@@ -73,7 +73,7 @@ talks:
   - given: Jacob  
     family: Runge
     url: http://www.imperial.ac.uk/people/j.runge
-    institute: Imperial Collegue
+    institute: Imperial College
   youtube: 
   start: "12:30"
   end: "13:00"
