@@ -21,13 +21,15 @@ organizers:
   family: Deisenroth
   url: "http://wp.doc.ic.ac.uk/sml/person/marc-deisenroth/"
   institute: Imperial College London  
-room: Adeje
+room: Drago-Adeje
 show_abstracts: false
 talks:
 - title: "Learning flexible models of nonlinear dynamical systems"
   author:
   - given: Thomas
     family: Schön
+    url: http://user.it.uu.se/~thosc112/
+    institute: Uppsala University
   youtube: 
   start: "09:30"
   end: "10:00"
@@ -35,6 +37,8 @@ talks:
   author:
   - given: Melanie
     family: Zeilinger
+    url: http://www.idsc.ethz.ch/the-institute/people/person-detail.html?persid=142737
+    institute: ETH Zurich
   youtube: 
   start: "10:00"
   end: "10:30"
@@ -42,6 +46,8 @@ talks:
   author:
   - given: Roberto
     family: Calandra
+    url: http://www.ausy.tu-darmstadt.de/Team/RobertoCalandra
+    institute: TU Darmstadt
   youtube: 
   start: "10:30"
   end: "11:00"
@@ -49,6 +55,8 @@ talks:
   author:
   - given: Aldo
     family: Faisal
+    url: https://www.imperial.ac.uk/people/a.faisal
+    institute: Imperial College
   youtube: 
   start: "11:30"
   end: "12:00"
@@ -56,13 +64,17 @@ talks:
   author:
   - given: Pierre-Luc
     family: Bacon
+    url: http://pierrelucbacon.com/
+    institute: McGill University
   youtube: 
   start: "12:00"
   end: "12:30"
 - title: "Unsupervised Learning for RL"
   author:
-  - given: Koray
-    family: Kavukcuoglu
+  - given: Max
+    family: Jaderberg
+    url: http://www.maxjaderberg.com/#/
+    institute: DeepMind
   youtube: 
   start: "12:30"
   end: "13:00"
@@ -70,6 +82,8 @@ talks:
   author:
   - given: Chris
     family: Watkins
+    url: http://www.cs.rhul.ac.uk/~chrisw/
+    institute: Royal Holloway
   youtube: 
   start: "18:00"
   end: "18:30"
@@ -80,7 +94,7 @@ talks:
   end: "20:00"
 speakers:
 - Aldo Faisal
-- Koray Kavukcuoglu
+- Max Jaderberg
 - Melanie Zeilinger
 - Roberto Calandra
 - Thomas Schön

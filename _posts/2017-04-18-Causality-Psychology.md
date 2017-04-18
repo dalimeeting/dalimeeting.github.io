@@ -25,6 +25,8 @@ talks:
   author:
   - family: Schölkopf
     given: Bernhard
+    url: http://is.tuebingen.mpg.de/person/bs
+    institute: Max Planck Institute for Intelligent Systems
   youtube: 
   start: "09:30"
   end: "10:00" 
@@ -32,6 +34,8 @@ talks:
   author:
   - given: Tom
     family: Claassen
+    url: http://www.cs.ru.nl/~tomc/
+    institute: Radboud University Nijmegen
   youtube: 
   start: "10:00"
   end: "10:30" 
@@ -39,6 +43,8 @@ talks:
   author: 
   - given: David
     family: Danks
+    url: http://www.andrew.cmu.edu/user/ddanks/pubs.html
+    institute: Carnegie Mellon University
   youtube: 
   start: "10:30"
   end: "11:00"
@@ -46,6 +52,8 @@ talks:
   author: 
   - given: Chris 
     family: Lucas
+    url: http://homepages.inf.ed.ac.uk/clucas2/
+    institute: University of Edinburgh
   youtube: 
   start: "11:30"
   end: "12:00" 
@@ -53,6 +61,8 @@ talks:
   author: 
   - given: Fei
     family: Sha
+    url: http://www-bcf.usc.edu/~feisha/
+    institute: University of Southern California
   youtube: 
   start: "12:00"
   end: "12:30" 
@@ -60,6 +70,8 @@ talks:
   author: 
   - given: Moritz 
     family: Grosse-Wentrup
+    url: https://ei.is.tuebingen.mpg.de/person/moritzgw
+    institute: Max Planck Institute for Intelligent Systems
   youtube: 
   start: "12:30"
   end: "13:00"
@@ -67,6 +79,8 @@ talks:
   author:
   - given: Björn
     family: Meder
+    url: https://www.mpib-berlin.mpg.de/de/mitarbeiter/bjoern-meder
+    institute: Max Plank Institute for Human Development
   youtube: 
   start: "18:00"
   end: "18:30"
@@ -74,16 +88,11 @@ talks:
   author:
   - given: Michel
     family: Beserve
+    url: https://ei.is.tuebingen.mpg.de/person/besserve
+    institute: Max Planck Institute for Intelligent Systems
   youtube: 
   start: "18:30"
   end: "19:00"
-- title: "Seeing the arrow of time"
-  author:
-  - given: Felix
-    family: Wichmann
-  youtube: 
-  start: "19:00"
-  end: "19:30"  
 speakers:
 - Bernhard Schölkopf 
 - David Danks
