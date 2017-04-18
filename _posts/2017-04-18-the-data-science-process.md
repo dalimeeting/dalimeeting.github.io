@@ -38,6 +38,7 @@ talks:
   end: "11:00"
   abstract: "In this talk I will walk through a brief history of recommender system implementations in YouTube, iOS Proactive Assistant, and Facebook Newsfeed.  One key challenge in all of these products is that models are learning from a dataset and updating the same dataset simultaneously. I'll discuss a set of issues that arise from these dynamics and ways to address these issues, including an introduction to deep reinforcement learning."
 - title: "The Data Science Process"
+  slides: http://inverseprobability.com/talks/slides/2017-04-18-the-data-science-process.slides.html
   author:
   - given: Neil
     family: Lawrence
