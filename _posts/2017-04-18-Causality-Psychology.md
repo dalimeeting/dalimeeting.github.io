@@ -87,7 +87,7 @@ talks:
 - title: "Causal inference from a group invariance perspective"
   author:
   - given: Michel
-    family: Beserve
+    family: Besserve
     url: https://ei.is.tuebingen.mpg.de/person/besserve
     institute: Max Planck Institute for Intelligent Systems
   youtube: 
