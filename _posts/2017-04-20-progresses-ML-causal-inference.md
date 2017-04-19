@@ -78,33 +78,16 @@ talks:
   start: "12:30"
   end: "13:00"
   abstract: "Detecting causal associations in observational time series datasets is a key challenge for novel insights into complex dynamical systems such as the Earth system. Dependencies in such a high-dimensional dynamical system may involve time-delays, nonlinearity, and strong autocorrelations, which present major challenges for causal discovery techniques. Here we are interested in time-lagged causal discovery using conditional independence testing and address two major problems: (1) Low power due to high-dimensionality and (2) detection biases. The latter refers to the problem that the detection power for individual links may depend not only on their causal strength, but also on autocorrelation and other dependencies. Here we introduce a method for large-scale, linear and nonlinear, time-delayed causal discovery. In extensive numerical experiments we find that our method yields more power than common methods and largely overcomes detection biases allowing to more accurately rank associations in large-scale analyses by their causal strength. We demonstrate the method on a large-scale climate time series dataset."
-- title: "Uncovering the Dynamics of Crowdlearning and the Value of Knowledge"
- author:
-  - given: Manuel   
-    family: Gomez-Rodriguez
-    url: https://people.mpi-sws.org/~manuelgr/
-    institute: Max Planck Institute for Software Systems
+- title: "Learning causal effects from many randomized experiments using regularized instrumental variables"
+  author:
+  - given: Alex  
+    family: Peysakhovich  
+    url: http://alexpeys.github.io/
+    institute: Facebook
   youtube: 
-  start: "18:00"
-  end: "18:30"
-  abstract: "Learning from the crowd has become increasingly popular in
-the Web and social media. There is a wide variety of crowdlearning
-sites in which, on the one hand, users learn from the knowledge that
-other users contribute to the site, and, on the other hand, knowledge
-is reviewed and curated by the same users using assessment measures
-such as upvotes or likes. In this talk, I will present a probabilistic
-modeling framework of crowdlearning, which uncovers the evolution of a
-user's expertise over time by leveraging other users' assessments of
-her contributions. The model allows for both off-site and on-site
-learning and captures forgetting of knowledge. I will then introduce a
-scalable estimation method to fit the model parameters from millions
-of recorded learning and contributing events and show the
-effectiveness of our model by tracing activity of ~25 thousand users
-in Stack Overflow over a 4.5 year period. The model reveals that
-answers with high knowledge value are rare, newbies and experts tend
-to acquire less knowledge than users in the middle range and prolific
-learners tend to be also proficient contributors that post answers
-with high knowledge value." 
+  start: "18:30"
+  end: "19:00"
+  abstract: "Scientific and business practices are increasingly resulting in large collections of randomized experiments. Analyzed together, these collections can tell us things that individual experiments in the collection cannot. We study how to learn causal relationships between variables from such collections when the number experiments is large, many experiments have very small effects, and the analyst lacks metadata (e.g., descriptions of the interventions). Here we use experimental groups as instrumental variables (IV) and show that a standard method (two-stage least squares) is biased even when the number of experiments is infinite. We show how a sparsity-inducing $l_0$ regularization can --- in a reversal of the standard bias--variance tradeoff in regularization --- reduce bias and MSE of interventional predictions. We propose a cross-validation procedure (IVCV) to feasibly select the regularization parameter. Using a trick from Monte Carlo sampling, IVCV can be done using summary statistics instead of raw data, thus making it simple to use in many real-world applications."
 - title: "Discovering causation in data"
   author:
   - given: David 
