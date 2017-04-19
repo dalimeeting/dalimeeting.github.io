@@ -105,8 +105,8 @@ talks:
     url: https://lopezpaz.org/
     institute: Facebook
   youtube: 
-  start: "18:30"
-  end: "19:00"
+  start: "19:00"
+  end: "19:30"
   abstract: "The aim of machine learning is to discover dependencies between variables, and use these dependencies to provide predictions. This is in stark contrast to other sciences, which aim at discovering causal relations between variables, and using these causal relations to provide with explanations. Since machine learning ignores the differences between dependence and causation, current machine learning algorithms excel at prediction by exploiting indirect dependencies, are unable to explain their outcomes, need large amounts of data to solve the task at hand, and fail when facing distributional shifts --- such as adversarial perturbations. In this talk, we ask the question: Can machine learning evolve and address these problems by discovering and leveraging causation? We will conjecture that this is the case, by 1) developing a novel and theoretically sustained framework to uncover causal relations between pairs of variables, 2) exemplifying the preliminary use of these methods in computer vision and natural language understanding tasks, and 3) moving towards the multivariate case thanks to the use of Generative Adversarial Networks."
 
   
