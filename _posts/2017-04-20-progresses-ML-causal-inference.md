@@ -82,7 +82,6 @@ talks:
  youtube: 
  start: "18:00"
  end: "18:30"
- abstract: "Learning from the crowd has become increasingly popular in the Web and social media. There is a wide variety of crowdlearning sites in which, on the one hand, users learn from the knowledge that other users contribute to the site, and, on the other hand, knowledge is reviewed and curated by the same users using assessment measures such as upvotes or likes. In this talk, I will present a probabilistic modeling framework of crowdlearning, which uncovers the evolution of a user's expertise over time by leveraging other users' assessments of her contributions. The model allows for both off-site and on-site learning and captures forgetting of knowledge. I will then introduce a scalable estimation method to fit the model parameters from millions of recorded learning and contributing events and show the effectiveness of our model by tracing activity of ~25 thousand users in Stack Overflow over a 4.5 year period. The model reveals that answers with high knowledge value are rare, newbies and experts tend to acquire less knowledge than users in the middle range and prolific learners tend to be also proficient contributors that post answers with high knowledge value." 
  author:
   - given: Manuel   
     family: Gomez-Rodriguez
