@@ -79,9 +79,14 @@ talks:
   end: "13:00"
   abstract: "Detecting causal associations in observational time series datasets is a key challenge for novel insights into complex dynamical systems such as the Earth system. Dependencies in such a high-dimensional dynamical system may involve time-delays, nonlinearity, and strong autocorrelations, which present major challenges for causal discovery techniques. Here we are interested in time-lagged causal discovery using conditional independence testing and address two major problems: (1) Low power due to high-dimensionality and (2) detection biases. The latter refers to the problem that the detection power for individual links may depend not only on their causal strength, but also on autocorrelation and other dependencies. Here we introduce a method for large-scale, linear and nonlinear, time-delayed causal discovery. In extensive numerical experiments we find that our method yields more power than common methods and largely overcomes detection biases allowing to more accurately rank associations in large-scale analyses by their causal strength. We demonstrate the method on a large-scale climate time series dataset."
 - title: "Uncovering the Dynamics of Crowdlearning and the Value of Knowledge"
- youtube: 
- start: "18:00"
- end: "18:30"
+  author:
+  - given: Manuel
+    family: Gomez-Rodriguez
+    url: https://people.mpi-sws.org/~manuelgr/
+    institute: Max Planck Institute for Software Systems
+  youtube: 
+  start: "18:00"
+  end: "18:30"
 - title: "Learning causal effects from many randomized experiments using regularized instrumental variables"
   author:
   - given: Alex  
