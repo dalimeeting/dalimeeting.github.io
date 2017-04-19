@@ -82,11 +82,6 @@ talks:
  youtube: 
  start: "18:00"
  end: "18:30"
- author:
-  - given: Manuel   
-    family: Gomez-Rodriguez
-    url: https://people.mpi-sws.org/~manuelgr/
-    institute: Max Planck Institute for Software Systems 
 - title: "Learning causal effects from many randomized experiments using regularized instrumental variables"
   author:
   - given: Alex  
