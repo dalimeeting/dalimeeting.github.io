@@ -109,7 +109,7 @@ talks:
     url: http://probcomp.csail.mit.edu/people/vkm.html
   youtube:
   pdf: 2017-04-18-ai-assisted-data-science-with-bayesdb.pdf
-  googledocs: https://docs.google.com/presentation/d/1K9AMFmFHBQkGH2ZZycoHITlRzeTjK1BcLb4TBwvsErk/edit?usp=sharing
+  google_presentation: https://docs.google.com/presentation/d/1K9AMFmFHBQkGH2ZZycoHITlRzeTjK1BcLb4TBwvsErk/edit?usp=sharing
   start: "19:30"
   end: "20:00"
   abstract: "Demand for data science is rapidly growing. However, many commercial and scientific data sources present fundamental inferential challenges. Examples include the prevalence of mixed data types, convenience samples with tens or hundreds of uncontrolled variables, complex multivariate outcomes, incomplete measurements, coding errors, measurement noise, irrelevant variables, and limited causal knowledge. A key bottleneck is hiring individuals with the necessary education and statistical judgment to address these challenges.
