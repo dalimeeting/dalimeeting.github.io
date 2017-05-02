@@ -25,7 +25,9 @@ talks:
     family: Kegl
     institute: CNRS - Centre national de la recherche scientifique, Paris-Saclay
     url: https://users.lal.in2p3.fr/kegl/
-  youtube: 
+  youtube:
+  slideshare: balazskegl/ramp-data-challenges-with-modularization-and-code-submission
+  pdf: 2017-04-18-ramp-data-challenges-with-modularization-and-code-submission-lessons-learned.pdf
   start: "09:30"
   end: "10:15"
   abstract: "Motivated by the shortcomings of traditional data challenges, we have developed a unique concept and platform, called Rapid Analytics and Model Prototyping (RAMP), based on modularization and code submission. Open code submission allows participants to build on each other’s ideas, provides the organizers with a fully functioning prototype, and makes it possible to build complex machine learning workflows while keeping the contributions simple. We will start this presentation by describing the context and motivation, the guiding design principles, and some of the technical details (front and backend) of the platform. We will then walk you through some of the most interesting workflows and applications (e.g., anomaly detection in particle physics detectors, classifying molecular spectra for safe drug administration, spatio-temporal time series prediction in climate science). In the last third of the talk we will present a preliminary analysis of the RAMPs that touches on both the technical (machine learning) aspects of the tool and on the sociology of crowdsourcing data analytics."
@@ -56,7 +58,9 @@ talks:
     family: Vanschoren
     url: http://www.win.tue.nl/~jvanscho/
     institute: "Eindhoven University of Technology"
-  youtube: 
+  youtube:
+  pdf: 2017-04-18-openml-democratizing-and-automating-machine-learning.pdf
+  slideshare: JoaquinVanschoren/openml-dali
   start: "12:15"
   end: "13:00"
   abstract: "Building machine learning systems remains something of an art, from gathering and transforming the right data to selecting and finetuning the most fitting modeling techniques. If we want to make machine learning more accessible and foster skilfull use, we need novel ways to share and reuse findings, and streamline online collaboration. 
@@ -70,7 +74,8 @@ talks:
     family: Williams
     institute: University of Edinburgh
     url: http://homepages.inf.ed.ac.uk/ckiw/
-  youtube: 
+  youtube:
+  pdf: 2017-04-18-towards-automating-the-data-analytics-process.pdf
   start: "18:00"
   end: "18:30"
   abstract: "A common view is that up to 80% of work on a data mining project is involved in data understanding and data preparation, yet machine learning has not focussed very much on these topics. In this talk I will describe some challenges and work wrt Data Parsing, Data Understanding, Data Cleaning, Data Integration and Data Restructuring."
@@ -80,7 +85,9 @@ talks:
     family: Valera
     institute: University of Cambridge
     url: https://people.mpi-sws.org/~ivalera/publications.php
-  youtube: 
+  youtube:
+  dropbox: 69q5l99dmvwuny3/DALI17.pdf
+  pdf: 2017-04-18-automatic-discovery-of-the-statistical-types-of-variables-in-a-dataset.pdf
   start: "18:30"
   end: "19:00"
   abstract: "A common practice in statistics and machine learning is to assume that the statistical data types (e.g., ordinal, categorical or real-valued) of variables, and usually also the likelihood model, is known. However, as the availability of real-world data increases, this assumption becomes too restrictive. Data are often heterogeneous, complex, and improperly or incompletely documented. Surprisingly, despite their practical importance, there is still a lack of tools to automatically discover the statistical types of, as well as appropriate likelihood (noise) models for,  the variables in a dataset. In this work, we fill this gap by proposing a Bayesian method, which accurately discovers the statistical data types in both synthetic and real  data."
@@ -100,7 +107,9 @@ talks:
     family: Mansinghka
     institute: Massachusetts Institute of Technology
     url: http://probcomp.csail.mit.edu/people/vkm.html
-  youtube: 
+  youtube:
+  pdf: 2017-04-18-ai-assisted-data-science-with-bayesdb.pdf
+  googledocs: https://docs.google.com/presentation/d/1K9AMFmFHBQkGH2ZZycoHITlRzeTjK1BcLb4TBwvsErk/edit?usp=sharing
   start: "19:30"
   end: "20:00"
   abstract: "Demand for data science is rapidly growing. However, many commercial and scientific data sources present fundamental inferential challenges. Examples include the prevalence of mixed data types, convenience samples with tens or hundreds of uncontrolled variables, complex multivariate outcomes, incomplete measurements, coding errors, measurement noise, irrelevant variables, and limited causal knowledge. A key bottleneck is hiring individuals with the necessary education and statistical judgment to address these challenges.
