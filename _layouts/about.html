@@ -10,7 +10,7 @@ layout: page
     
   <p>The date is chosen to allow combining it with a family vacation. </p>
     
-  <p><strong>{{ }} will take place in {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A %B, %-d %Y" }} to  {{ site.conference.dates.last | date: "%A %B, %-d %Y" }}.</strong></p>
+  <p><strong>{{ site.conference.name }} will take place in {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A %B, %-d %Y" }} to  {{ site.conference.dates.last | date: "%A %B, %-d %Y" }}.</strong></p>
   
   {{ content }}
     
