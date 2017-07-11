@@ -2,7 +2,7 @@
 
 The DALI current webpage.
 
-This repository contains the current DALI conference page. Once the year has past it can be archived to aistats20XX and modified to form the next year's page.
+This repository contains the current DALI conference page. Once the year has past it can be archived to dali20XX and modified to form the next year's page.
 
 
 ## Archiving Last Year's Page
@@ -34,7 +34,7 @@ This will be used to host the current DALI.
 
 9. Add the team `daliXXXX` to the admin rights for the repo `daliXXXX`
 
-10. Create a new admin team for this year's page, `daliYYYY`, where `YYYY=XXXX+1` and assign it to admin `aistats.github.io` 
+10. Create a new admin team for this year's page, `daliYYYY`, where `YYYY=XXXX+1` and assign it to admin `dalimeeting.github.io` 
 
 ## More information
 
