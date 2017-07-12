@@ -1,32 +1,30 @@
 # Site settings
-title: DALI 2017 - Data Learning and Inference
+title: DALI 2018 - Data Learning and Inference
 permalink: "/:categories/:title.html"
 # Include image banner file name below
-banner: costa-adeje.jpg 
+banner: 
 
 conference:
   draft: false
   hide_tentative: true
   hosts:
   general:
-  - name: Zoubin Ghaharamani
-    url: "http://mlg.eng.cam.ac.uk/zoubin/"
-    institute: University of Cambridge
+  - name: Neil Lawrence
+    url: "http://inverseprobability.com"
+    institute: Amazon and University of Sheffield
   - name: Bernhard Schölkopf
     url: "http://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI for Intelligent Systems Tübingen
   workshop:
-  - name: Thomas Hofmann
-    url: "http://www.da.inf.ethz.ch/people/ThomasHofmann/"
-    institute: ETH Zurich
+  - given: Sebastian
+    family: Nowozin
+    institute: Microsoft Research Cambridge
+    url: "http://www.nowozin.net/sebastian/"
   symposium:
-  - name: Neil Lawrence
-    url: "http://inverseprobability.com"
-    institute: Amazon and University of Sheffield
-  local:
-  - name: Pablo M. Olmos
-    url: "http://www.tsc.uc3m.es/~olmos/"
-    institute: "Universidad Carlos III de Madrid"
+  - given: Fernando
+    family: Perez-Cruz
+    url: "https://web.stevens.edu/facultyprofile/?id=2224"
+    institute: "Stevens Institute of Technology"
   - name: Isabel Valera
     url: "http://www.mpi-sws.org/~ivalera/"
     institute: "Max Planck Institute for Software Systems"
@@ -47,21 +45,21 @@ conference:
   - name: Bernhard Schölkopf (chair)
     url: "http://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI Tübingen
-  name: DALI 2017 - Data Learning and Inference
+  name: DALI 2018 - Data Learning and Inference
   venue: H10 Costa Adeje Palace
-  location: Tenerife, Canary Islands
-  year: 2017
+  location: Lanzarote, Canary Islands
+  year: 2018
   month: April
   dates:
-  - 2017-04-18
-  - 2017-04-19
-  - 2017-04-20
+  - 2017-04-03
+  - 2017-04-04
+  - 2017-04-05
   sponsors:
   - name: Max-Planck-ETH Center for Learning Systems
     url: "http://learning-systems.org/"
 previous_meeting:
-  name: DALI 2016
-  url: "http://dalimeeting.org/dali2016/"
+  name: DALI 2017
+  url: "http://dalimeeting.org/dali2017/"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dalimeeting.org" # the base hostname & protocol for your site
 youtube:
