@@ -28,14 +28,18 @@ git push --mirror https://github.com/dalimeeting/daliXXXX.git
 ```
 6. Edit the `_config.yml` file in the new repo to set `baseurl` to `daliXXXX` and set `permalink` to  `"/:title.html"`.
 
-7. Check that the archived page appears online at http://dalimeeting.org/daliXXXX/
+7. Delete CNAME from the repo.
 
-8. Update the original main repository at [https://github.com/dalimeeting/dalimeeting.github.io](https://github.com/dalimeeting/dalimeeting.github.io) for the current conference.
+8. Commit the changes and push the repo.
+
+9. Check that the archived page appears online at http://dalimeeting.org/daliXXXX/
+
+10. Update the original main repository at [https://github.com/dalimeeting/dalimeeting.github.io](https://github.com/dalimeeting/dalimeeting.github.io) for the current conference.
 This will be used to host the current DALI.
 
-9. Add the team `daliXXXX` to the admin rights for the repo `daliXXXX`
+11. Add the team `daliXXXX` to the admin rights for the repo `daliXXXX`
 
-10. Create a new admin team for this year's page, `daliYYYY`, where `YYYY=XXXX+1` and assign it to admin `dalimeeting.github.io` 
+12. Create a new admin team for this year's page, `daliYYYY`, where `YYYY=XXXX+1` and assign it to admin `dalimeeting.github.io` 
 
 ## More information
 
