@@ -4,6 +4,17 @@ permalink: "/:categories/:title.html"
 # Include image banner file name below
 banner: 
 
+# Registration fees and URL go here.
+registration:
+  fee:
+    academic: 400 euros
+    industry: 500 euros
+  url:
+
+# Hotel booking URL goes here
+booking:
+  url:
+  
 conference:
   draft: false
   hide_tentative: true
