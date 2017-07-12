@@ -6,14 +6,14 @@ title: Participants
 	
 <article>
 
-  {% if site.draft %}
+  {% if site.conference.draft %}
   <h2>Draft Version</h2>
   {% endif %}
  
   {{ content }}
   
-
-  <p><strong>List of participants for DALI 2017:</strong></p>
+  
+  <p><strong>List of participants for {{ site.conference.name }}:</strong></p>
   {% for person in site.data.participants %}
     <p>{{ person.given }} {{ person.family }}</p>
   {% endfor %}

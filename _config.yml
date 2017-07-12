@@ -16,7 +16,7 @@ booking:
   url:
   
 conference:
-  draft: false
+  draft: true
   hide_tentative: true
   hosts:
   general:
