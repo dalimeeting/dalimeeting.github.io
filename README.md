@@ -19,7 +19,8 @@ Each year the main web page needs to be archived to store as a previous year's c
 
 5. Go to a suitable directory on your machine and type:
 
-```git clone --bare https://github.com/dalimeeting/dalimeeting.github.io.git
+```
+git clone --bare https://github.com/dalimeeting/dalimeeting.github.io.git
 mv dalimeeting.github.io.git daliXXXX
 cd daliXXXX
 git branch -m gh-pages
