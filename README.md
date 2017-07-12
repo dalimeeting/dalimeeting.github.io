@@ -26,7 +26,7 @@ cd daliXXXX
 git branch -m gh-pages
 git push --mirror https://github.com/dalimeeting/daliXXXX.git
 ```
-6. Edit the `_config.yml` file in the new repo to set `baseurl` to `daliXXXX`
+6. Edit the `_config.yml` file in the new repo to set `baseurl` to `daliXXXX` and set `permalink` to  `"/:title.html"`.
 
 7. Check that the archived page appears online at http://dalimeeting.org/daliXXXX/
 
