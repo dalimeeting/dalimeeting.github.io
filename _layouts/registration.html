@@ -7,17 +7,15 @@ layout: page
 
   <p></p>
   
-  <p> The registration fee is {{ site.registration.feel.academic }} for attendees coming from academy and {{ site.registration.fee.industry }} for those coming from industry. Registration includes symposium and workshops, coffee breaks, and a conference dinner 
+  <p> The registration fee is {{ site.registration.fee.academic }} for attendees coming from academia and {{ site.registration.fee.industry }} for those coming from industry. Registration includes symposium and workshops, coffee breaks, and a conference dinner 
     (possibly more).</p>
     {% if site.registration.url %}
   <p> Please use the following link to register. Accepted payment methods are Bank Transfer, and Card Payment: <a href="{{ site.registration.url }}"> <b> Registration </b> </a>.</p>
   {% endif %}
   <p></p>
   
-  <p> Also, the H10 Costa Adeje Palace hotel offers DALI attendees special prices for single, double or family rooms. 
-  </p>  
-    {% if site.booking.url %}
- <p> Booking must be done through the following link (we cannot guarantee availability anymore): <a href="{{ site.booking.url }}"> <b> Hotel Booking </b> </a> </p>
+  {% if site.booking.url %}
+  <p> For the hotel special rate, booking must be done through the following link: <a href="{{ site.booking.url }}"> <b> Hotel Booking </b> </a> </p>
 {% endif %}
 
   

@@ -57,14 +57,15 @@ conference:
     url: "http://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI Tübingen
   name: DALI 2018 - Data Learning and Inference
+  shortname: DALI
   venue: H10 Costa Adeje Palace
   location: Lanzarote, Canary Islands
   year: 2018
   month: April
   dates:
-  - 2017-04-03
-  - 2017-04-04
-  - 2017-04-05
+  - 2018-04-03
+  - 2018-04-04
+  - 2018-04-05
   sponsors:
   - name: Max-Planck-ETH Center for Learning Systems
     url: "http://learning-systems.org/"
