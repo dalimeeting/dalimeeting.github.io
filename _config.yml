@@ -40,9 +40,9 @@ conference:
     url: "https://ivaleram.github.io/"
     institute: "University of Cambridge"
   assistants:
-  - name: Sabrina Nepozitek
-    url: "http://www.da.inf.ethz.ch/people/SabrinaNepozitek/"
-    institute: ETH Zurich
+  - name: Diana Rebmann 
+    url: "https://ei.is.tuebingen.mpg.de/person/drebmann"
+    institute: MPI Tübingen
   steering:
   - name: Zoubin Ghaharamani
     url: "http://mlg.eng.cam.ac.uk/zoubin/"
