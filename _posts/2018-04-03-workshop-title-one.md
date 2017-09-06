@@ -1,19 +1,23 @@
 ---
-title:  "Workshop One"
+title:  "Fairness, Transparency and Privacy in AI"
 layout: multitrack
 abstract: 
 organizer_url: 
 categories:
 - dali2018
 organizers:
-- given: 
-  family:  
-  url: 
-  institute: 
-- given: 
-  family:  
-  url: 
-  institute: 
+- given: Adrian 
+  family: Weller
+  url: http://mlg.eng.cam.ac.uk/adrian/
+  institute: University of Cambridge
+- given: Krishna
+  family: Gummadi
+  url: https://people.mpi-sws.org/~gummadi/
+  institute: MPI-SWS
+- given: Adria
+  family: Gascon
+  url: https://www.lsi.upc.edu/~agascon/
+  institute: Alan Turing Institute
 room: 
 show_abstracts: false
 talks:
