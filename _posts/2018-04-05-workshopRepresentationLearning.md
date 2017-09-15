@@ -1,5 +1,5 @@
 ---
-title:  "TBD"
+title:  "Goals and Principles of Representation Learning"
 layout: multitrack
 abstract: "Deep learning has driven a revolution in several areas of machine
 learning, thanks to a large degree to their ability to discover rich
