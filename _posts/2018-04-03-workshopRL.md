@@ -13,11 +13,11 @@ organizers:
 - given: Stefano 
   family: Ermon
   url: https://cs.stanford.edu/~ermon/
-  institute: Standford University
+  institute: Stanford University
 - given: Jiaming 
   family: Song
   url: http://tsong.me/
-  institute: Standfor University
+  institute: Stanford University
 room: 
 show_abstracts: false
 talks:
