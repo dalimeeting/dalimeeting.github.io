@@ -35,6 +35,14 @@ organizers:
   family:  Huszar
   url: http://www.inference.vc/
   institute: Twitter Inc.
+- given: Andriy   
+  family:  Mnih
+  url: https://www.cs.toronto.edu/~amnih/
+  institute: Deep Mind
+- given: Lucas   
+  family:  Theis
+  url: http://theis.io/
+  institute: Twitter Inc.
 room: 
 show_abstracts: false
 talks:
