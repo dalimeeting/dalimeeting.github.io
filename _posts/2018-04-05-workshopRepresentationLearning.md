@@ -30,19 +30,19 @@ organizers:
 - given: Shakir  
   family:  Mohammed
   url: http://shakirm.com/
-  institute: Deep Mind
+  institute: DeepMind
 - given: Ferenc  
-  family:  Huszar
+  family:  Husz&aacuter
   url: http://www.inference.vc/
-  institute: Twitter Inc.
+  institute: Twitter
 - given: Andriy   
   family:  Mnih
   url: https://www.cs.toronto.edu/~amnih/
-  institute: Deep Mind
+  institute: DeepMind
 - given: Lucas   
   family:  Theis
   url: http://theis.io/
-  institute: Twitter Inc.
+  institute: Twitter
 room: 
 show_abstracts: false
 talks:
