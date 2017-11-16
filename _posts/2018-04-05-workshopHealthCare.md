@@ -25,7 +25,7 @@ categories:
 - dali2018
 organizers:
 - given: Iain  
-  family:  Buchan (Microsoft Research) 
+  family:  Buchan 
   url: https://scholar.google.com/citations?user=Lz49QrkAAAAJ&hl=en
   institute: Microsoft Research
 - given: Suchi   
