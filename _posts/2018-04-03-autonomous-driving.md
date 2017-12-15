@@ -77,5 +77,14 @@ talks:
 - title: Lunch
   start: "13:00"
   end: "14:00"
+- title: 
+  author:
+  - given: Alex 
+    family:Kendall
+    url: 
+    institute: 
+  youtube: 
+  start: "18:00"
+  end: "18:30"
 speakers:
 ---
