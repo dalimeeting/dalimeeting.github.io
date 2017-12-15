@@ -86,5 +86,32 @@ talks:
   youtube: 
   start: "14:00"
   end: "14:30"
+- title: 
+  author:
+  - given: Stefan 
+    family: Roth
+    url: 
+    institute: 
+  youtube: 
+  start: "18:30"
+  end: "19:00"
+- title: 
+  author:
+  - given: Angela  
+    family: Schoellig
+    url: 
+    institute: 
+  youtube: 
+  start: "19:00"
+  end: "19:30"
+- title: 
+  author:
+  - given: Vladlen   
+    family: Koltun
+    url: 
+    institute: 
+  youtube: 
+  start: "19:30"
+  end: "20:00"
 speakers:
 ---
