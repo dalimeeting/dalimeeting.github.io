@@ -45,24 +45,42 @@ talks:
     url: 
     institute: 
   youtube: 
+  start: "11:00"
+  end: "11:30" 
+- title: 
+  author: 
+  - given: Ingmar 
+    family: Posner
+    url: 
+    institute: 
+  youtube: 
   start: "11:30"
   end: "12:00" 
 - title: 
   author: 
-  - given: 
-    family: 
+  - given: Peter  
+    family: Kontschieder
     url: 
     institute: 
   youtube: 
-  start: "12:15"
-  end: "12:45" 
+  start: "12:00"
+  end: "12:30" 
+- title: 
+  author: 
+  - given: Amnon   
+    family: Shashua
+    url: 
+    institute: 
+  youtube: 
+  start: "12:30"
+  end: "13:00"
 - title: Lunch
   start: "13:00"
   end: "14:00"
 - title: 
   author:
-  - given: 
-    family:
+  - given: Alex 
+    family:Kendall
     url: 
     institute: 
   youtube: 
@@ -70,12 +88,28 @@ talks:
   end: "18:30"
 - title: 
   author:
-  - given: 
-    family:
+  - given: Stefan 
+    family:Roth
     url: 
     institute: 
   youtube: 
-  start: "18:45"
-  end: "19:15"
+  start: "18:30"
+  end: "19:00"
+  - title: 
+  author:
+- given: Angela  
+    family:Schoellig
+    url: 
+    institute: 
+  youtube: 
+  start: "19:00"
+  end: "19:30"
+- given: Vladlen   
+    family:Koltun
+    url: 
+    institute: 
+  youtube: 
+  start: "19:30"
+  end: "20:00"
 speakers:
 ---
