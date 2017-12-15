@@ -18,9 +18,9 @@ room:
 show_abstracts: false
 talks:
 - title: 
-  author:
-  - family: 
-    given: 
+  author: 
+  - family:  Jackel
+    given: Larry
     url: 
     institute: 
   youtube: 
