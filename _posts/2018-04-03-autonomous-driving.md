@@ -78,13 +78,13 @@ talks:
   start: "13:00"
   end: "14:00"
 - title: 
-  author:
-  - given: Alex 
-    family:Kendall
+  author: 
+  - given: Alex   
+    family: Kendall
     url: 
     institute: 
   youtube: 
-  start: "18:00"
-  end: "18:30"
+  start: "14:00"
+  end: "14:30"
 speakers:
 ---
