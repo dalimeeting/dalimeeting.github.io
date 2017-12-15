@@ -95,16 +95,18 @@ talks:
   youtube: 
   start: "18:30"
   end: "19:00"
-  - title: 
+- title: 
   author:
-- given: Angela  
+  - given: Angela  
     family:Schoellig
     url: 
     institute: 
   youtube: 
   start: "19:00"
   end: "19:30"
-- given: Vladlen   
+- title: 
+  author:
+  - given: Vladlen   
     family:Koltun
     url: 
     institute: 
