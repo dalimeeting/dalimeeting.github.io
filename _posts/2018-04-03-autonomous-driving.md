@@ -28,20 +28,20 @@ talks:
   end: "10:00" 
 - title: 
   author:
-  - given: 
-    family: 
+  - given: Ram 
+    family: Subramanian
     url: 
     institute: 
   youtube: 
-  start: "10:15"
-  end: "10:45" 
+  start: "10:00"
+  end: "10:30" 
 - title: Coffee
-  start: "11:00"
-  end: "11:30"
+  start: "10:30"
+  end: "11:00"
 - title: 
   author: 
-  - given: 
-    family: 
+  - given: Raquel 
+    family: Urtasun
     url: 
     institute: 
   youtube: 
