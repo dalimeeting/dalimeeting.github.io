@@ -12,8 +12,8 @@ organizers:
   institute: Max Planck Institute for Intelligent Systems
 - given: Andrew
   family: Blake
-  url: https://www.turing.ac.uk/ablake/
-  institute: The Alan Turing Institute
+  url: http://www.cantab.net/~ablake
+  institute:  Five AI and Turing Institute
 room: 
 show_abstracts: false
 talks:
