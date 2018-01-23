@@ -5,10 +5,9 @@ layout: page
 <article>
 	  
 
-  <p>The idea of DALI is to combine the special qualities of the former Snowbird meetings (intimate atmosphere, very good people, plenty of time to interact) with positive aspects of larger conferences that rarely take place in Europe. We decided for a three day format with two days of workshops, and one day of plenary talks in the middle, including a poster session. We chose an attractive location in a nearby time zone, which limits travel times for many of us who normally travel to meetings in the US. We have initially circulated this link only to a small list of people with the hope that we can bootstrap it into a high quality meeting of size around 50-100. If you haven't been contacted yet, but you'd like to attend, please e-mail us.</p>
- 
-    
-  <p>The date is chosen to allow combining it with a family vacation. </p>
+  <p>The idea of DALI is to combine the special qualities of the former Snowbird meetings (intimate atmosphere, very good people, plenty of time to interact) with positive aspects of larger conferences that rarely take place in Europe. We have a three day format with two days of workshops, and one day of plenary talks in the middle, including a poster session. We choose an attractive location that limits travel times for many of us who normally travel to meetings in the US. We initially circulated the DALI invitation only to a small list of people and gradually bootstrapped it into a high quality meeting of size around 50-100. If you haven't been contacted yet, but you'd like to attend, please e-mail us.</p>
+
+  <p>The date is right after Easter, chosen to allow combining it with a family vacation. </p>
     
   <p><strong>{{ site.conference.shortname }} {{ site.conference.year }} will take place in {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A %B, %-d %Y" }} to  {{ site.conference.dates.last | date: "%A %B, %-d %Y" }}.</strong></p>
   
@@ -46,7 +45,7 @@ layout: page
 
   {% if site.conference.general %}
   {% assign lastone = site.conference.general | last %}
-  <p>General Chair:
+  <p>General Chairs:
   {% for person in site.conference.general %}
   {% include listperson.html %}
   {% endfor %}</p>
@@ -54,7 +53,7 @@ layout: page
 
   {% if site.conference.symposium %}
   {% assign lastone = site.conference.symposium | last %}
-  <p>Symposium Chair:
+  <p>Symposium Chairs:
   {% for person in site.conference.symposium %}
   {% include listperson.html %}
   {% endfor %}</p>
@@ -78,7 +77,7 @@ layout: page
 
   {% if site.conference.assistants %}
   {% assign lastone = site.conference.assistants | last %}
-  <p><strong>Organization Assistants</strong></p>
+  <p><strong>Organization Assistant</strong></p>
   {% for person in site.conference.assistants %}
   {% include listperson.html %}<br>
   {% endfor %}</p>
