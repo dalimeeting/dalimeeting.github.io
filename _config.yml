@@ -1,5 +1,5 @@
 # Site settings
-title: DALI 2018 - Data Learning and Inference
+title: DALI 2018 - Data, Learning and Inference
 permalink: "/:categories/:title.html"
 # Include image banner file name below
 banner: pvw.i8.png
@@ -25,7 +25,7 @@ conference:
     institute: Amazon and University of Sheffield
   - name: Bernhard Schölkopf
     url: "http://ei.is.tuebingen.mpg.de/person/bs"
-    institute: MPI for Intelligent Systems Tübingen
+    institute: MPI for Intelligent Systems (Tübingen) and Amazon
   workshop:
   - given: Sebastian
     family: Nowozin
@@ -34,19 +34,19 @@ conference:
   symposium:
   - given: Fernando
     family: Perez-Cruz
-    url: "https://web.stevens.edu/facultyprofile/?id=2224"
-    institute: "Stevens Institute of Technology"
+    url: "http://www.tsc.uc3m.es/~fernando"
+    institute: "Swiss Data Science Center"
   - name: Isabel Valera
     url: "https://ivaleram.github.io/"
-    institute: "University of Cambridge"
+    institute: "MPI for Intelligent Systems (Tübingen)"
   assistants:
   - name: Diana Rebmann 
     url: "https://ei.is.tuebingen.mpg.de/person/drebmann"
-    institute: MPI Tübingen
+    institute: MPI for Intelligent Systems (Tübingen)
   steering:
   - name: Zoubin Ghaharamani
     url: "http://mlg.eng.cam.ac.uk/zoubin/"
-    institute: University of Cambridge
+    institute: University of Cambridge and Uber
   - name: Thomas Hofmann
     url: "http://www.da.inf.ethz.ch/people/ThomasHofmann/"
     institute: ETH Zurich
@@ -55,7 +55,7 @@ conference:
     institute: Amazon and University of Sheffield
   - name: Bernhard Schölkopf (chair)
     url: "http://ei.is.tuebingen.mpg.de/person/bs"
-    institute: MPI Tübingen
+    institute: MPI for Intelligent Systems (Tübingen)
   name: DALI 2018 - Data Learning and Inference
   shortname: DALI
   venue: H10 Rubicón Palace
