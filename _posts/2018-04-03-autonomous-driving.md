@@ -104,10 +104,10 @@ talks:
   youtube: 
   start: "19:00"
   end: "19:30"
-- title: 
+- title: Discussion
   author:
   - given:    
-    family: Discussion
+    family: 
     url: 
     institute: 
   youtube: 
