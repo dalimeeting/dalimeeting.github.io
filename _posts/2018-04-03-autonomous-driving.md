@@ -104,9 +104,9 @@ talks:
   youtube: 
   start: "19:00"
   end: "19:30"
-- title: Discussion
+- title: 
   author:
-  - given:    
+  - given: Discussion
     family: 
     url: 
     institute: 
