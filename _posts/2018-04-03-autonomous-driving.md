@@ -79,13 +79,13 @@ talks:
   end: "14:00"
 - title: 
   author: 
-  - given: Alex   
-    family: Kendall
+  - given: Vladlen   
+    family: Koltun
     url: 
     institute: 
   youtube: 
-  start: "14:00"
-  end: "14:30"
+  start: "18:00"
+  end: "18:30"
 - title: 
   author:
   - given: Stefan 
@@ -106,8 +106,8 @@ talks:
   end: "19:30"
 - title: 
   author:
-  - given: Vladlen   
-    family: Koltun
+  - given:    
+    family: Discussion
     url: 
     institute: 
   youtube: 
