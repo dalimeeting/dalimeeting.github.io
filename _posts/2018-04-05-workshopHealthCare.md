@@ -36,6 +36,10 @@ organizers:
   family:  Peek 
   url: https://www.research.manchester.ac.uk/portal/niels.peek.html
   institute: University of Manchester
+- given: Danielle  
+  family:  Belgrave 
+  url: https://scholar.google.co.uk/citations?user=bGDCgpUAAAAJ&hl=en
+  institute: Microsoft Research
 room: 
 show_abstracts: false
 talks:
