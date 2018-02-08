@@ -56,7 +56,7 @@ talks:
   youtube: 
   start: "09:30"
   end: "09:55" 
-- title: 
+- title: "Inference, relevance and statistical structure: the constraints for useful representations"
   author:
   - given: Harri
     family: Valpola
@@ -65,6 +65,7 @@ talks:
   youtube: 
   start: "09:55"
   end: "10:30" 
+  abstract: "I will argue that representations are there to make useful computations needed for decision making practical. In principle, Bayesian decision theory gives the recipe for deriving optimal decisions given observations and a model class. Also, the golden standard is to select a maximally expressive model class and uninformative prior such as the one derived from Kolmogorov complexity. With infinite computational resources, this would be a recipe for a super intelligence which didn't have any need for representations as we understand them. In practice, though, we are restricted by computational resources. I will give examples of how the need to focus computational resources on relevant inferences creates a pressure to develop useful representations."
 - title: 
   author:
   - given: Marta
@@ -77,7 +78,7 @@ talks:
 - title: Coffee
   start: "11:00"
   end: "11:30"
-- title: 
+- title: "Possible formalizations of Representation Learning"
   author: 
   - given: Olivier
     family: Bousquet
@@ -86,6 +87,7 @@ talks:
   youtube: 
   start: "11:30"
   end: "12:00" 
+  abstract: "While Representation Learning has been discussed for a while and lots of algorithms exist for \"learning representations\", there is no formal definition of what exactly is a representation and what representation learning actually means. This talk will try and review existing approaches in order to identify some organizing principles and propose more precise notions. The goal being to provide a framework in which one can study questions such as \"when does unlabeled data help?\", or \"is this representation transferable?.\""
 - title: 
   author: 
   - given: Jascha
@@ -95,7 +97,7 @@ talks:
   youtube: 
   start: "12:00"
   end: "12:30" 
-- title: 
+- title: "Unsupervised Disentanglement or How to Transfer Skills and Imagine Things"
   author: 
   - given: Irina
     family: Higgins
@@ -104,10 +106,11 @@ talks:
   youtube: 
   start: "12:30"
   end: "13:00" 
+  abstract: "Despite the advances in modern deep learning approaches, we are still quite far from the generality, robustness and data efficiency of biological intelligence. We suggest that this gap may be narrowed by re-focusing from implicit representation learning prevalent in end-to-end deep learning approaches to explicit unsupervised representation learning. In particular, we will demonstrate the value of disentangled visual representations acquired in an unsupervised manner loosely inspired by biological intelligence. We will demonstrate how such representations enable the acquisition of reinforcement learning (RL) policies that are more robust to transfer scenarios that standard RL approaches; and form the foundation for learning abstract compositional visual concepts which enable imagination of meaningful and diverse samples beyond the training data distribution."
 - title: Break
   start: "13:00"
   end: "18:00"
-- title: 
+- title: "Neural decision making in human and machine vision"
   author:
   - given: Matthias
     family: Bethge
@@ -116,6 +119,7 @@ talks:
   youtube: 
   start: "18:00"
   end: "18:30"
+  abstract: "Understanding how decisions are formed is crucial to improve generalization. Deep learning had impressive successes of feature transfer but due to its distributed nature, decision making in neural networks is difficult to assess. Adversarial examples reveal striking discrepancies between humans and machines but to what extent these discrepancies originate from differences in the architecture or training is not known. In visual decision making humans differ from machines through ubiquitous use of early attentional information selection both due to overt gaze control and covert top-down selection mediated by neural feedback. In this talk, I will present ongoing work of my lab on decision making in CNNs based on constrained architectures and adversarial testing, on modeling human fixation selection, and on incorporating one-shot figure-ground segregation to disentangle object information from clutter."
 - title:
   author:
   - given: Cedric
