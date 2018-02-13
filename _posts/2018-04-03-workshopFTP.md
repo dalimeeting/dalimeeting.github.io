@@ -1,7 +1,7 @@
 ---
 title:  "Fairness, Transparency and Privacy in AI"
 layout: multitrack
-abstract: 
+abstract: This workshop is organized in partnership with the Leverhulme Centre for the Future of Intelligence
 organizer_url: 
 categories:
 - dali2018
