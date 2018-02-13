@@ -66,7 +66,7 @@ talks:
   start: "09:55"
   end: "10:30" 
   abstract: "I will argue that representations are there to make useful computations needed for decision making practical. In principle, Bayesian decision theory gives the recipe for deriving optimal decisions given observations and a model class. Also, the golden standard is to select a maximally expressive model class and uninformative prior such as the one derived from Kolmogorov complexity. With infinite computational resources, this would be a recipe for a super intelligence which didn't have any need for representations as we understand them. In practice, though, we are restricted by computational resources. I will give examples of how the need to focus computational resources on relevant inferences creates a pressure to develop useful representations."
-- title: 
+- title: "Symbolic representation learning"
   author:
   - given: Marta
     family: Garnelo
@@ -75,6 +75,7 @@ talks:
   youtube: 
   start: "10:30"
   end: "11:00" 
+  abstract: "A remarkable property of deep learning algorithms is their ability to learn useful task-specific representations from data directly without the need for hand-crafted feature engineering. As they have grown in popularity over the past decade deep neural networks (NNs) have been successfully applied to a wide range of machine learning tasks, achieving state of the art results across many research areas. However, as the complexity of the research problems increase some of the limitations of NN become increasingly clear: NNs suffer from interpretability issues, poor generalisation that leads to very data-hungry algorithms and the inability to be combined with other old, well established AI algorithms. Some of the research tackling these drawbacks takes inspiration from symbolic AI. It focusses, for example, on obtaining interpretable representations from NNs or thinking about objects and relations when building network architectures. This talk reviews symbolic approaches and properties that might be interesting to keep in the back of our heads for current representation learning and reviews current research that merges deep and symbolic methods."
 - title: Coffee
   start: "11:00"
   end: "11:30"
@@ -88,7 +89,7 @@ talks:
   start: "11:30"
   end: "12:00" 
   abstract: "While Representation Learning has been discussed for a while and lots of algorithms exist for \"learning representations\", there is no formal definition of what exactly is a representation and what representation learning actually means. This talk will try and review existing approaches in order to identify some organizing principles and propose more precise notions. The goal being to provide a framework in which one can study questions such as \"when does unlabeled data help?\", or \"is this representation transferable?.\""
-- title: 
+- title: "Supervised Learning of Rules for Unsupervised Representation Learning"
   author: 
   - given: Jascha
     family: Sohl-Dickstein
@@ -97,6 +98,7 @@ talks:
   youtube: 
   start: "12:00"
   end: "12:30" 
+  abstract: "We hypothesize that the limited success of unsupervised representation learning is due to objective function mismatch. Existing approaches to unsupervised representation learning minimize a surrogate objective, such as reconstruction error or the likelihood of a generative model, with the hope that representations useful for subsequent tasks will arise purely as a side effect. As an alternative, we propose using meta-learning to learn, rather than hand-design, an unsupervised learning rule. This meta-learning can be performed with a meta-objective that directly rewards the usefulness of the resulting unsupervised representations for subsequent tasks. We will describe a specific meta-learning architecture, and show that the resulting unsupervised learning rule generalizes across both datasets and data-modalities, and outperforms some existing approaches to unsupervised representation learning."
 - title: "Unsupervised Disentanglement or How to Transfer Skills and Imagine Things"
   author: 
   - given: Irina
@@ -120,7 +122,7 @@ talks:
   start: "18:00"
   end: "18:30"
   abstract: "Understanding how decisions are formed is crucial to improve generalization. Deep learning had impressive successes of feature transfer but due to its distributed nature, decision making in neural networks is difficult to assess. Adversarial examples reveal striking discrepancies between humans and machines but to what extent these discrepancies originate from differences in the architecture or training is not known. In visual decision making humans differ from machines through ubiquitous use of early attentional information selection both due to overt gaze control and covert top-down selection mediated by neural feedback. In this talk, I will present ongoing work of my lab on decision making in CNNs based on constrained architectures and adversarial testing, on modeling human fixation selection, and on incorporating one-shot figure-ground segregation to disentangle object information from clutter."
-- title:
+- title: "Learning Representations for Hyperparameter Transfer Learning"
   author:
   - given: Cedric
     family: Archambeau
@@ -129,6 +131,8 @@ talks:
   youtube: 
   start: "18:30"
   end: "19:00"
+  abstract: "Bayesian optimization (BO) is a model-based approach for gradient-free black-box function optimization, such as hyperparameter optimization. In this talk, I will discuss a multi-task adaptive Bayesian linear regression model, whose complexity is linear in the number of function evaluations and able to leverage information of related black-box functions through a shared deep neural net. Experimental results show that the neural net learns a representation suitable for warm-starting related BO runs and that they can be accelerated when the target black-box function (e.g., validation loss) is learned together with other related signals (e.g., training loss).
+  Joint work with Valerio Perrone, Rodolphe Jenatton, and Matthias Seeger."
 - title: Open Discussion and Debate
   author:
   - given: 
