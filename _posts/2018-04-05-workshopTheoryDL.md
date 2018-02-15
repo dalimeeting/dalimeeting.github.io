@@ -34,7 +34,16 @@ talks:
     institute: Google
   youtube: 
   start: "09:30"
-  end: "10:00" 
+  end: "10:00"
+  - title: "Expressiveness of ConvNets as a function of Network Architecture" 
+  author:
+  - given: Amnon 
+    family: Shashua
+    url: https://www.cs.huji.ac.il/~shashua/
+    institute: Hebrew University of Jerusalem 
+  youtube: 
+  start: "10:00"
+  end: "10:30" 
 speakers:
 ---
 
