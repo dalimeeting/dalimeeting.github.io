@@ -27,6 +27,15 @@ talks:
   youtube: 
   start: "09:20"
   end: "09:30" 
+- title: What could a theory of deep learning look like?
+  author:
+  - given: Olivier
+    family: Bousquet
+    url: https://research.google.com/pubs/OlivierBousquet.html
+    institute: Google
+  youtube: 
+  start: "09:30"
+  end: "10:00" 
 speakers:
 ---
 
