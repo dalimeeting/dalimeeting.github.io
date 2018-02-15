@@ -53,6 +53,24 @@ talks:
   youtube: 
   start: "10:30"
   end: "11:00" 
+- title: Coffee Break
+  author:
+  - given: 
+    family: 
+    url: 
+    institute: 
+  youtube: 
+  start: "11:00"
+  end: "11:30" 
+- title: "Explaining Neural Network Predictions with Deep Taylor Decompositions"
+  author:
+  - given: Gregoire
+    family: Montavon
+    url: https://www.ml.tu-berlin.de/menue/members/gregoire_montavon/
+    institute: TU Berlin 
+  youtube: 
+  start: "11:30"
+  end: "12:00" 
 speakers:
 ---
 
