@@ -15,7 +15,7 @@ organizers:
   url: http://sda.cs.uni-bonn.de/people/dr-asja-fischer/
   institute: University of Bonn
 room: 
-show_abstracts: false
+show_abstracts: true
 talks:
 - title: "Intro"
   author:
@@ -24,6 +24,7 @@ talks:
     url:
     institute: 
   youtube: 
+  abstract: "Abstract here"
   start: "09:20"
   end: "09:30" 
 - title: "What could a theory of deep learning look like?"
