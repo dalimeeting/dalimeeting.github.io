@@ -71,15 +71,6 @@ talks:
   youtube: 
   start: "11:30"
   end: "12:00"
-- title: "Intro"
-  author:
-  - given: 
-    family: 
-    url:
-    institute: 
-  youtube: 
-  start: "09:20"
-  end: "09:30" 
 - title: "Learning in the presence of label noise"
   author:
   - given: Raja
@@ -89,6 +80,15 @@ talks:
   youtube: 
   start: "10:00"
   end: "12:30" 
+- title: "TBA"
+  author:
+  - given: Luigi
+    family: Malago
+    url: http://www.luigimalago.it
+    institute: RIST
+  youtube: 
+  start: "12:30"
+  end: "13:00" 
 - title: "Intro"
   author:
   - given: 
