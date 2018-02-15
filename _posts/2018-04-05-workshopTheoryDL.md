@@ -17,15 +17,16 @@ organizers:
 room: 
 show_abstracts: false
 talks:
-- title: 
+- title: title 1
   author:
-  - family: 
-    given: 
+  - family: family name speaker 1
+    given: name speaker 1
     url: 
     institute: 
   youtube: 
   start: "09:30"
   end: "10:00" 
+  abstract: abstract 2 here
 - title: 
   author:
   - given: 
