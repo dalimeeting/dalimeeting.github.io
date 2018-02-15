@@ -17,7 +17,6 @@ organizers:
 room: 
 show_abstracts: false
 talks:
-- title: 
 - title: "Intro"
   author:
   - given: 
@@ -32,7 +31,7 @@ talks:
   - given: Olivier
     family: Bousquet
     url: https://research.google.com/pubs/OlivierBousquet.html
-    institute: Google
+    institute: Google
   youtube: 
   start: "09:30"
   end: "10:00" 
