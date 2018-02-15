@@ -96,6 +96,12 @@ talks:
   start: "18:00"
   end: "18:30"
 - title: Discussion 
+  author:
+  - given:  
+    family: 
+    url: 
+    institute: 
+  youtube:
   start: "18:45"
   end: "19:15"
 speakers:
