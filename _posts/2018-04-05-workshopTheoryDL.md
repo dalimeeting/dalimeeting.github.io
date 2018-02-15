@@ -44,6 +44,15 @@ talks:
   youtube: 
   start: "10:00"
   end: "10:30" 
+- title: "Expressivity of Deep Neural Networks"
+  author:
+  - given: Gitta
+    family: Kutyniok
+    url: https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/angewandtefunktionalanalysis/v_menue/mitarbeiter/kutyniok/v_menue/home/
+    institute: TU Berlin 
+  youtube: 
+  start: "10:30"
+  end: "11:00" 
 speakers:
 ---
 
