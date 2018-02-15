@@ -15,7 +15,7 @@ organizers:
   url: http://sda.cs.uni-bonn.de/people/dr-asja-fischer/
   institute: University of Bonn
 room: 
-show_abstracts: false
+show_abstracts: true
 talks:
 - title: title 1
   author:
