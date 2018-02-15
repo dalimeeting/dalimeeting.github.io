@@ -89,15 +89,33 @@ talks:
   youtube: 
   start: "12:30"
   end: "13:00" 
-- title: "Intro"
+- title: Lunch
+  author:
+  - given: 
+    family: 
+    url: 
+    institute: 
+  youtube: 
+  start: "13:00"
+  end: "18:00" 
+- title: "Why can Deep Networks avoid the curse of dimensionality and two other theoretical puzzles "
+  author:
+  - given: Tomaso
+    family: Poggio
+    url: https://mcgovern.mit.edu/principal-investigators/tomaso-poggio
+    institute: MIT
+  youtube: 
+  start: "18:00"
+  end: "18:30" 
+- title: "Discussion"
   author:
   - given: 
     family: 
     url:
     institute: 
   youtube: 
-  start: "09:20"
-  end: "09:30" 
+  start: "18:45"
+  end: "19:15" 
 speakers:
 ---
 
