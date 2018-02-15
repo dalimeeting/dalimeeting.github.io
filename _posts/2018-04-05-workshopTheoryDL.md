@@ -70,7 +70,16 @@ talks:
     institute: TU Berlin 
   youtube: 
   start: "11:30"
-  end: "12:00" 
+  end: "12:00"
+- title: "Learning in the presence of label noise"
+  author: 
+  - given: Raja
+    family: Giryes
+    url: http://tam-son3.eng.tau.ac.il/~raja/
+    institute: Tel Aviv University 
+  youtube: 
+  start: "12:00"
+  end: "12:30" 
 speakers:
 ---
 
