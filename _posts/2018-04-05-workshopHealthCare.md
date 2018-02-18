@@ -73,15 +73,6 @@ talks:
 - title: Coffee
   start: "11:00"
   end: "11:30"
-- title: "Challenge 2: Are we borrowing strength sufficiently across silos of inference to be patient-centred and population-serving? Studies that focus on prediction using offline datasets without collaborative feedback are limited; problems need addressing within systems at reasonable resolution (time, place, person)."
-  author: 
-  - given: Danielle
-    family: Belgrave
-    url: 
-    institute: 
-  youtube: 
-  start: "11:30"
-  end: "13:00" 
 - title: "Smartphone-based digital phenotyping."
   author:
   - given: Jukka-Pekka
