@@ -59,8 +59,8 @@ talks:
     url: 
     institute: 
   youtube: 
-  start: 
-  end: 
+  start: " "
+  end: " "
 - title: Coffee
   start: "11:00"
   end: "11:30"
