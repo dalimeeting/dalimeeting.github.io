@@ -19,7 +19,7 @@ of health systems, hastening and targeting interventions. This workshop will ass
 assisting and augmenting patients, practitioners and health system managers with machine learning. We will challenge ourselves to ask: 
 Are we asking the right questions for maximum societal impact from health-related machine learning? Are we borrowing strength 
 sufficiently across silos of inference? How does this community organise at global scale to share well-formed problems to advance 
-methodology and avoid AI hype." </br> </br>
+methodology and avoid AI hype. </br> </br>" 
 organizer_url: 
 categories:
 - dali2018
