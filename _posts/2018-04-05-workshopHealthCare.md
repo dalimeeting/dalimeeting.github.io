@@ -73,24 +73,42 @@ talks:
 - title: Coffee
   start: "11:00"
   end: "11:30"
-- title: 
+- title: Challenge 2: Are we borrowing strength sufficiently across silos of inference to be patient-centred and population-serving? Studies that focus on prediction using offline datasets without collaborative feedback are limited; problems need addressing within systems at reasonable resolution (time, place, person).
   author: 
-  - given: 
-    family: 
+  - given: Danielle
+    family: Belgrave
     url: 
     institute: 
   youtube: 
   start: "11:30"
-  end: "12:00" 
-- title: 
-  author: 
-  - given: 
-    family: 
+  end: "13:00" 
+- title: "Smartphone-based digital phenotyping."
+  author:
+  - given: Jukka-Pekka
+    family: Onnela
     url: 
     institute: 
   youtube: 
-  start: "12:15"
-  end: "12:45" 
+  start: ""
+  end: ""
+- title: "Learning from timestamped population-based epidemiological data."
+  author:
+  - given: Myra  
+    family: Spiliopoulou
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
+  - title: "AutoPrognosis: Automating the design of predictive models for clinical risk and prognosis."
+  author:
+  - given: Mihaela  
+    family: Van de Shar
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
 - title: Lunch
   start: "13:00"
   end: "14:00"
