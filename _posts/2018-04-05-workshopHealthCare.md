@@ -112,15 +112,15 @@ talks:
 - title: Lunch
   start: "13:00"
   end: "14:00"
-- title: 
+- title: "Challenge 3: How does this community organise at global scale to share well-formed problems to advance health data science and avoid AI hype? Technology-led collaborations attract poorly framed problems; our field needs to embrace a more interdisciplinary approach and pursue more careful and meaningful collaborations, in concert."
   author:
-  - given: 
-    family:
+  - given: Saria
+    family: Suchi
     url: 
     institute: 
   youtube: 
   start: "18:00"
-  end: "18:30"
+  end: "18:45"
 - title: 
   author:
   - given: 
