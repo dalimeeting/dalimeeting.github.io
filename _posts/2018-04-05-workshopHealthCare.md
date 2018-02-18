@@ -121,6 +121,24 @@ talks:
   youtube: 
   start: "18:00"
   end: "18:45"
+- title: "Democratisation of data science."
+  author:
+  - given: Blaž  
+    family: Zupan
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
+- title: "Collaboration as an innovation to advance healthcare AI."
+  author:
+  - given: Leo 
+    family: Celi
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
 - title: 
   author:
   - given: 
@@ -129,6 +147,6 @@ talks:
     institute: 
   youtube: 
   start: "18:45"
-  end: "19:15"
+  end: "19:30"
 speakers:
 ---
