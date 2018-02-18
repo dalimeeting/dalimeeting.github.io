@@ -52,15 +52,15 @@ talks:
   youtube: 
   start: "09:30"
   end: "11:00" 
-- title: Patient-centred research in a complex health data world: a new role for ML
+- title: "Patient-centred research in a complex health data world: a new role for ML"
   author:
   - given: John 
     family: Holmes
     url: 
     institute: 
   youtube: 
-  start: " "
-  end: " "
+  start: "09:30"
+  end: "11:00"
 - title: Coffee
   start: "11:00"
   end: "11:30"
