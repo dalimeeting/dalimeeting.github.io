@@ -46,7 +46,7 @@ talks:
 - title: "Challenge 1: Are we asking the right questions for maximum societal impact from health-related machine learning? Fitting more complex functions to a previously published objective is not a good use of machine learning effort; problems need better selection, framing and evaluation metrics."
   author:
   - family: Buchan
-    given: Chais: Iain
+    given: Iain
     url: 
     institute: 
   youtube: 
