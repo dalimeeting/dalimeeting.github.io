@@ -82,6 +82,15 @@ talks:
   youtube: 
   start: "11:30"
   end: "13:00" 
+- title: "Smartphone-based digital phenotyping."
+  author:
+  - given: Jukka-Pekka
+    family: Onnela
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
 - title: Lunch
   start: "13:00"
   end: "14:00"
