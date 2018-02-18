@@ -73,33 +73,6 @@ talks:
 - title: Coffee
   start: "11:00"
   end: "11:30"
-- title: "Smartphone-based digital phenotyping."
-  author:
-  - given: Jukka-Pekka
-    family: Onnela
-    url: 
-    institute: 
-  youtube: 
-  start: ""
-  end: ""
-- title: "Learning from timestamped population-based epidemiological data."
-  author:
-  - given: Myra  
-    family: Spiliopoulou
-    url: 
-    institute: 
-  youtube: 
-  start: ""
-  end: ""
-  - title: "AutoPrognosis: Automating the design of predictive models for clinical risk and prognosis."
-  author:
-  - given: Mihaela  
-    family: Van de Shar
-    url: 
-    institute: 
-  youtube: 
-  start: ""
-  end: ""
 - title: Lunch
   start: "13:00"
   end: "14:00"
