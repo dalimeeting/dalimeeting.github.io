@@ -43,15 +43,15 @@ organizers:
 room: 
 show_abstracts: false
 talks:
-- title: 
+- title: "Challenge 1: Are we asking the right questions for maximum societal impact from health-related machine learning? Fitting more complex functions to a previously published objective is not a good use of machine learning effort; problems need better selection, framing and evaluation metrics."
   author:
-  - family: 
-    given: 
+  - family: Iain
+    given: Iain
     url: 
     institute: 
   youtube: 
   start: "09:30"
-  end: "10:00" 
+  end: "11:00" 
 - title: 
   author:
   - given: 
