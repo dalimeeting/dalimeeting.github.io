@@ -139,14 +139,23 @@ talks:
   youtube: 
   start: ""
   end: ""
-- title: 
+- title:  "Next steps and closing remarks"
   author:
-  - given: 
-    family:
+  - given: Niels
+    family: Peek
     url: 
     institute: 
   youtube: 
   start: "18:45"
   end: "19:30"
+- title: "AMIE panel: Riccardo Bellazzi, Anita Burgun, John Holmes and Allan Tucker"
+  author:
+  - given:  
+    family: 
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
 speakers:
 ---
