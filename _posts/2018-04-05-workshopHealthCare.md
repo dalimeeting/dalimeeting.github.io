@@ -19,7 +19,7 @@ of health systems, hastening and targeting interventions. This workshop will ass
 assisting and augmenting patients, practitioners and health system managers with machine learning. We will challenge ourselves to ask: 
 Are we asking the right questions for maximum societal impact from health-related machine learning? Are we borrowing strength 
 sufficiently across silos of inference? How does this community organise at global scale to share well-formed problems to advance 
-methodology and avoid AI hype."
+methodology and avoid AI hype. </br> </br>" 
 organizer_url: 
 categories:
 - dali2018
@@ -43,65 +43,119 @@ organizers:
 room: 
 show_abstracts: false
 talks:
-- title: 
+- title: "Challenge 1: Are we asking the right questions for maximum societal impact from health-related machine learning? Fitting more complex functions to a previously published objective is not a good use of machine learning effort; problems need better selection, framing and evaluation metrics."
   author:
-  - family: 
-    given: 
+  - family: Buchan
+    given:  Iain
     url: 
     institute: 
   youtube: 
   start: "09:30"
-  end: "10:00" 
-- title: 
+  end: "11:00" 
+- title: "Patient-centred research in a complex health data world: a new role for ML."
   author:
-  - given: 
-    family: 
+  - given: John 
+    family: Holmes
     url: 
     institute: 
   youtube: 
-  start: "10:15"
-  end: "10:45" 
+  start: ""
+  end: ""
+- title: "Going the last mile: why deep learning is not enough."
+  author:
+  - given: Enrico 
+    family: Coiera
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
 - title: Coffee
   start: "11:00"
   end: "11:30"
-- title: 
+- title: "Challenge 2: Are we borrowing strength sufficiently across silos of inference to be patient-centred and population-serving? Studies that focus on prediction using offline datasets without collaborative feedback are limited; problems need addressing within systems at reasonable resolution (time, place, person)."
   author: 
-  - given: 
-    family: 
+  - given: Danielle
+    family: Belgrave
     url: 
     institute: 
   youtube: 
   start: "11:30"
-  end: "12:00" 
-- title: 
-  author: 
-  - given: 
-    family: 
+  end: "13:00" 
+- title: "Smartphone-based digital phenotyping."
+  author:
+  - given: Jukka-Pekka
+    family: Onnela
     url: 
     institute: 
   youtube: 
-  start: "12:15"
-  end: "12:45" 
+  start: ""
+  end: ""
+- title: "Learning from timestamped population-based epidemiological data."
+  author:
+  - given: Myra  
+    family: Spiliopoulou
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
+- title: "AutoPrognosis: Automating the design of predictive models for clinical risk and prognosis."
+  author:
+  - given: Mihaela  
+    family: Van de Shar
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
 - title: Lunch
   start: "13:00"
   end: "14:00"
-- title: 
+- title: "Challenge 3: How does this community organise at global scale to share well-formed problems to advance health data science and avoid AI hype? Technology-led collaborations attract poorly framed problems; our field needs to embrace a more interdisciplinary approach and pursue more careful and meaningful collaborations, in concert."
   author:
-  - given: 
-    family:
+  - given: Saria
+    family: Suchi
     url: 
     institute: 
   youtube: 
   start: "18:00"
-  end: "18:30"
-- title: 
+  end: "18:45"
+- title: "Democratisation of data science."
   author:
-  - given: 
-    family:
+  - given: Blaž  
+    family: Zupan
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
+- title: "Collaboration as an innovation to advance healthcare AI."
+  author:
+  - given: Leo 
+    family: Celi
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
+- title:  "Next steps and closing remarks"
+  author:
+  - given: Niels
+    family: Peek
     url: 
     institute: 
   youtube: 
   start: "18:45"
-  end: "19:15"
+  end: "19:30"
+- title: "AMIE panel: Riccardo Bellazzi, Anita Burgun, John Holmes and Allan Tucker"
+  author:
+  - given:  
+    family: 
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
 speakers:
 ---
