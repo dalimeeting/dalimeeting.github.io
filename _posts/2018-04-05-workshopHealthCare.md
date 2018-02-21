@@ -38,13 +38,14 @@ organizers:
   institute: University of Manchester
 - given: Danielle  
   family:  Belgrave 
-  url: https://scholar.google.co.uk/citations?user=bGDCgpUAAAAJ&hl=en
+  url: https://www.microsoft.com/en-us/research/people/dabelgra/
   institute: Microsoft Research
 room: 
 show_abstracts: false
 talks:
 - title: "Challenge 1: Are we asking the right questions for maximum societal impact from health-related machine learning? Fitting more complex functions to a previously published objective is not a good use of machine learning effort; problems need better selection, framing and evaluation metrics."
   author:
+  - title: "Chair:" 
   - family: Buchan
     given:  Iain
     url: 
@@ -52,12 +53,28 @@ talks:
   youtube: 
   start: "09:30"
   end: "11:00" 
+  - family:
+  given:
+  url:
+  institute:
+  youtube:
+  start: ""
+  end: ""
 - title: "Patient-centred research in a complex health data world: a new role for ML."
   author:
   - given: John 
     family: Holmes
-    url: 
-    institute: 
+    url: https://ldi.upenn.edu/expert/john-h-holmes-phd
+    institute: University of Pennsylvania
+  youtube: 
+  start: ""
+  end: ""
+  - title: "Learning from timestamped population-based epidemiological data."
+  author:
+  - given: Myra  
+    family: Spiliopoulou
+    url: http://www.kmd.ovgu.de/Team/Academic+Staff/Myra+Spiliopoulou.html
+    institute: Universitat Magdeburg
   youtube: 
   start: ""
   end: ""
@@ -65,8 +82,8 @@ talks:
   author:
   - given: Enrico 
     family: Coiera
-    url: 
-    institute: 
+    url: http://aihi.mq.edu.au/people/professor-enrico-coiera
+    institute: Macquarie University
   youtube: 
   start: ""
   end: ""
@@ -75,28 +92,36 @@ talks:
   end: "11:30"
 - title: "Challenge 2: Are we borrowing strength sufficiently across silos of inference to be patient-centred and population-serving? Studies that focus on prediction using offline datasets without collaborative feedback are limited; problems need addressing within systems at reasonable resolution (time, place, person)."
   author: 
-  - given: Danielle
-    family: Belgrave
+    given: 
+    family: 
     url: 
     institute: 
   youtube: 
   start: "11:30"
   end: "13:00" 
-- title: "Smartphone-based digital phenotyping."
-  author:
-  - given: Jukka-Pekka
-    family: Onnela
+  - title: "Chair:" 
+  given: Danielle
+    family: Belgrave
     url: 
     institute: 
   youtube: 
   start: ""
-  end: ""
-- title: "Learning from timestamped population-based epidemiological data."
+  end: "" 
+- title: "Smartphone-based digital phenotyping."
   author:
-  - given: Myra  
-    family: Spiliopoulou
-    url: 
-    institute: 
+  - given: Jukka-Pekka
+    family: Onnela
+    url: https://www.hsph.harvard.edu/jukka-pekka-onnela/
+    institute: Harvard
+  youtube: 
+  start: ""
+  end: ""
+- title: "Adapting AI approaches to rare diseases."
+  author:
+  - given: Anita
+    family: Burgun
+    url: http://www.crc.jussieu.fr/anita_burgun_equipe.html
+    institute: Paris Descartes University
   youtube: 
   start: ""
   end: ""
@@ -104,8 +129,8 @@ talks:
   author:
   - given: Mihaela  
     family: Van de Shar
-    url: 
-    institute: 
+    url: http://www.oxford-man.ox.ac.uk/~mvanderschaar/
+    institute: University of Oxford
   youtube: 
   start: ""
   end: ""
@@ -114,19 +139,27 @@ talks:
   end: "14:00"
 - title: "Challenge 3: How does this community organise at global scale to share well-formed problems to advance health data science and avoid AI hype? Technology-led collaborations attract poorly framed problems; our field needs to embrace a more interdisciplinary approach and pursue more careful and meaningful collaborations, in concert."
   author:
-  - given: Saria
-    family: Suchi
+  - given: 
+    family: 
     url: 
     institute: 
   youtube: 
   start: "18:00"
   end: "18:45"
+   - title: "Chair:" 
+   - given: Saria
+    family: Suchi
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
 - title: "Democratisation of data science."
   author:
   - given: Blaž  
     family: Zupan
-    url: 
-    institute: 
+    url: https://fri.uni-lj.si/en/employees/blaz-zupan
+    institute: University of Ljubljana
   youtube: 
   start: ""
   end: ""
@@ -134,8 +167,8 @@ talks:
   author:
   - given: Leo 
     family: Celi
-    url: 
-    institute: 
+    url: http://imes.mit.edu/research-staff-prof/leo-anthony-celi/
+    institute: MIT
   youtube: 
   start: ""
   end: ""
@@ -148,7 +181,7 @@ talks:
   youtube: 
   start: "18:45"
   end: "19:30"
-- title: "AMIE panel: Riccardo Bellazzi, Anita Burgun, John Holmes and Allan Tucker"
+- title: "AMIE panel: Riccardo Bellazzi, Anita Burgun, John Holmes, Suchi Saria and Allan Tucker"
   author:
   - given:  
     family: 
