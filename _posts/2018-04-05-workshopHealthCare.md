@@ -45,7 +45,6 @@ show_abstracts: false
 talks:
 - title: "Challenge 1: Are we asking the right questions for maximum societal impact from health-related machine learning? Fitting more complex functions to a previously published objective is not a good use of machine learning effort; problems need better selection, framing and evaluation metrics."
   author:
-  - title: "Chair:" 
   - family: Buchan
     given:  Iain
     url: 
@@ -53,13 +52,6 @@ talks:
   youtube: 
   start: "09:30"
   end: "11:00" 
-  - family:
-  given:
-  url:
-  institute:
-  youtube:
-  start: ""
-  end: ""
 - title: "Patient-centred research in a complex health data world: a new role for ML."
   author:
   - given: John 
@@ -69,7 +61,7 @@ talks:
   youtube: 
   start: ""
   end: ""
-  - title: "Learning from timestamped population-based epidemiological data."
+- title: "Learning from timestamped population-based epidemiological data."
   author:
   - given: Myra  
     family: Spiliopoulou
@@ -87,26 +79,18 @@ talks:
   youtube: 
   start: ""
   end: ""
-- title: Coffee
+- title: "Coffee Break"
   start: "11:00"
   end: "11:30"
 - title: "Challenge 2: Are we borrowing strength sufficiently across silos of inference to be patient-centred and population-serving? Studies that focus on prediction using offline datasets without collaborative feedback are limited; problems need addressing within systems at reasonable resolution (time, place, person)."
   author: 
-    given: 
-    family: 
+  - given: Danielle
+    family: Belgrave
     url: 
     institute: 
   youtube: 
   start: "11:30"
   end: "13:00" 
-  - title: "Chair:" 
-  given: Danielle
-    family: Belgrave
-    url: 
-    institute: 
-  youtube: 
-  start: ""
-  end: "" 
 - title: "Smartphone-based digital phenotyping."
   author:
   - given: Jukka-Pekka
@@ -146,8 +130,9 @@ talks:
   youtube: 
   start: "18:00"
   end: "18:45"
-   - title: "Chair:" 
-   - given: Saria
+- title: "Chair:" 
+  author:
+  - given: Saria
     family: Suchi
     url: 
     institute: 
