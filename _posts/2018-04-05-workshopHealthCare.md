@@ -100,7 +100,7 @@ talks:
   youtube: 
   start: "11:30"
   end: "13:00" 
-- title: ""
+- title: "Chair:"
   author: 
   - given: Danielle
     family: Belgrave
@@ -177,13 +177,22 @@ talks:
   end: ""
 - title:  "Next steps and closing remarks"
   author:
-  - given: Niels
-    family: Peek
+  - given: 
+    family:
     url: 
     institute: 
   youtube: 
   start: "18:45"
   end: "19:30"
+  - title: "Chair:" 
+  author:
+  - given: Neils
+    family: Peek
+    url: 
+    institute: 
+  youtube: 
+  start: ""
+  end: ""
 - title: "AMIE panel: Riccardo Bellazzi, Anita Burgun, John Holmes, Suchi Saria and Allan Tucker"
   author:
   - given:  
