@@ -184,7 +184,7 @@ talks:
   youtube: 
   start: "18:45"
   end: "19:30"
-  - title: "Chair:" 
+- title: "Chair:" 
   author:
   - given: Neils
     family: Peek
