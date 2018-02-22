@@ -184,15 +184,6 @@ talks:
   youtube: 
   start: "18:45"
   end: "19:30"
-- title: "Chair:" 
-  author:
-  - given: Neils
-    family: Peek
-    url: 
-    institute: 
-  youtube: 
-  start: ""
-  end: ""
 - title: "AMIE panel: Riccardo Bellazzi, Anita Burgun, John Holmes, Suchi Saria and Allan Tucker"
   author:
   - given:  
