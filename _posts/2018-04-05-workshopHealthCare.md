@@ -175,7 +175,7 @@ talks:
   youtube: 
   start: ""
   end: ""
-- title:  "Next steps and closing remarks"
+- title: "Next steps and closing remarks"
   author:
   - given: 
     family:
