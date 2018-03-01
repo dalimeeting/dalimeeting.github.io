@@ -8,8 +8,8 @@ categories:
 organizers:
 - given: Guido  
   family:  Montufar
-  url: http://personal-homepages.mis.mpg.de/montufar/
-  institute: University of California, Los Angeles /  MPI MIS
+  url: http://www.math.ucla.edu/~montufar/
+  institute: University of California, Los Angeles 
 - given: Asja  
   family:  Fischer
   url: http://sda.cs.uni-bonn.de/people/dr-asja-fischer/
