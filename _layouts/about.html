@@ -12,7 +12,8 @@ layout: page
   <p><strong>{{ site.conference.shortname }} {{ site.conference.year }} will take place in {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A %B, %-d %Y" }} to  {{ site.conference.dates.last | date: "%A %B, %-d %Y" }}.</strong></p>
   
   {{ content }}
-
+   
+   {% if site.previous_meeting.name %}{% if site.previous_meeting.url %}<p><a href="{{ site.previous_meeting.url }}">Link to {{ site.previous_meeting.name }}</a> </p>{% endif %}{% endif %} 	
 
   
   <p><strong>Sponsors</strong></p>
