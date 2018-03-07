@@ -28,8 +28,8 @@ talks:
   end: "10:00" 
 - title: 
   author:
-  - given: Ram 
-    family: Subramanian
+  - given: Subramanian 
+    family:  Ramamoorthy
     url: 
     institute: 
   youtube: 
@@ -106,8 +106,8 @@ talks:
   end: "19:30"
 - title: 
   author:
-  - given: Discussion
-    family: 
+  - given: Philip
+    family: Torr
     url: 
     institute: 
   youtube: 
