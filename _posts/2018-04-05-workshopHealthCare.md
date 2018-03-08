@@ -70,7 +70,7 @@ talks:
   youtube: 
   start: ""
   end: ""
-- title: "Learning from timestamped population-based epidemiological data."
+- title: "Learning from patient-contributed social and mobile data: for the patients, the researchers, the clinicians or for all?"
   author:
   - given: Myra  
     family: Spiliopoulou
@@ -118,7 +118,7 @@ talks:
   youtube: 
   start: ""
   end: ""
-- title: "Adapting AI approaches to rare diseases."
+- title: "Learning health systems for rare diseases."
   author:
   - given: Anita
     family: Burgun
