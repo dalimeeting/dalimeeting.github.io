@@ -23,35 +23,35 @@ show_abstracts: false
 talks:
 - title: 
   author:
-  - family: 
-    given: 
+  - family: Bonawitz
+    given: Keith
     url: 
-    institute: 
+    institute: Google Research
   youtube: 
   start: "09:30"
-  end: "10:00" 
+  end: "10:15" 
 - title: 
   author:
-  - given: 
-    family: 
+  - given: Olya 
+    family: Ohrimenko
     url: 
-    institute: 
+    institute: MSR Cambridge
   youtube: 
   start: "10:15"
-  end: "10:45" 
+  end: "11:00" 
 - title: Coffee
   start: "11:00"
   end: "11:30"
 - title: 
   author: 
-  - given: 
-    family: 
+  - given: Moritz
+    family: Hardt
     url: 
-    institute: 
+    institute: UC Berkeley
   youtube: 
   start: "11:30"
-  end: "12:00" 
-- title: 
+  end: "12:15" 
+- title: TBD
   author: 
   - given: 
     family: 
@@ -59,20 +59,20 @@ talks:
     institute: 
   youtube: 
   start: "12:15"
-  end: "12:45" 
+  end: "13:00" 
 - title: Lunch
   start: "13:00"
   end: "14:00"
 - title: 
   author:
-  - given: 
-    family:
+  - given: Joaquin
+    family: Quinonero Candela
     url: 
-    institute: 
+    institute: Facebook
   youtube: 
   start: "18:00"
-  end: "18:30"
-- title: 
+  end: "18:45"
+- title: "Panel session - How can we maximize real world beneficial impact?"
   author:
   - given: 
     family:
@@ -80,6 +80,6 @@ talks:
     institute: 
   youtube: 
   start: "18:45"
-  end: "19:15"
+  end: "19:30"
 speakers:
 ---
