@@ -1,8 +1,8 @@
 ---
 title:  "Autonomous driving"
 layout: multitrack
-abstract: 
-organizer_url: 
+abstract: "Over the last decade, autonomous driving has become a hot topic both in academia and industry. This workshop fosters discussion on this topic amongst leading experts in this field: What are the challenges to be addressed for fully autonomous driving in general situations? What are the difficulties in perception, navigation, decision making and AI and how can we overcome them? Which techniques are most promising? Which is the most promising route to autonomous driving? Is autonomous driving an AI complete problem? Which sensors are needed and how can we overcome challenging weather conditions and tackle rare events? When will autonomous cars be ready?"
+organizer_url: "http://www.cvlibs.net/projects/dali_2018_autonomous_driving/"
 categories:
 - dali2018
 organizers:
