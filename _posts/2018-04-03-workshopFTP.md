@@ -56,7 +56,7 @@ talks:
   - given: Nina
     family: Grgic-Hlaca
     url: 
-    institute: 
+    institute: MPI-SWS
   youtube: 
   start: "12:15"
   end: "13:00" 
