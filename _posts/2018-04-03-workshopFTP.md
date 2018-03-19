@@ -51,10 +51,10 @@ talks:
   youtube: 
   start: "11:30"
   end: "12:15" 
-- title: TBD
+- title: "Understanding and Accounting for Human Perceptions of Fairness in Algorithmic Decision Making"
   author: 
-  - given: 
-    family: 
+  - given: Nina
+    family: Grgic-Hlaca
     url: 
     institute: 
   youtube: 
