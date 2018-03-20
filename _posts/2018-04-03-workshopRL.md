@@ -21,66 +21,82 @@ organizers:
   institute: Stanford University
 room: 
 show_abstracts: false
+
 talks:
-- title: 
-  author:
-  - family: 
-    given: 
-    url: 
-    institute: 
-  youtube: 
+- title: Welcome and Opening
   start: "09:30"
-  end: "10:00" 
-- title: 
+  end: "09:45"
+- title: Structure Learning in Generative Deep Learning
   author:
-  - given: 
-    family: 
-    url: 
-    institute: 
+  - family: Poupart
+    given: Pascal
+    url: https://cs.uwaterloo.ca/~ppoupart/
+    institute: University of Waterloo
   youtube: 
-  start: "10:15"
-  end: "10:45" 
+  start: "09:45"
+  end: "10:15" 
+- title: Backtracking model for Efficient Reinforcement Learning
+  author:
+  - given: Anirudh
+    family: Goyal
+    url: https://mila.quebec/en/person/anirudh-goyal/
+    institute: Université de Montréal
+  youtube: 
+  start: "10:20"
+  end: "10:50" 
 - title: Coffee
-  start: "11:00"
-  end: "11:30"
-- title: 
+  start: "10:50"
+  end: "11:20"
+- title: Deep Exploration via Randomized Value Functions
   author: 
-  - given: 
-    family: 
-    url: 
-    institute: 
+  - given: Ian
+    family: Osband
+    url: http://iosband.github.io/
+    institute: DeepMind
   youtube: 
-  start: "11:30"
-  end: "12:00" 
-- title: 
+  start: "11:20"
+  end: "11:50" 
+- title: Posterior sampling for reinforcement learning: worst case regret bounds
   author: 
-  - given: 
-    family: 
-    url: 
-    institute: 
+  - given: Shipra
+    family: Agrawal
+    url: http://www.columbia.edu/~sa3305/
+    institute: Columbia University
   youtube: 
-  start: "12:15"
-  end: "12:45" 
+  start: "11:55"
+  end: "12:25" 
+ - title: Planning in reinforcement learning with learned models in Dyna
+  author: 
+  - given: Martha
+    family: White
+    url: https://webdocs.cs.ualberta.ca/~whitem/
+    institute:  University of Alberta
+  youtube: 
+  start: "12:30"
+  end: "13:00" 
 - title: Lunch
   start: "13:00"
   end: "14:00"
-- title: 
+- title: Noisy natural gradient as variational inference
   author:
-  - given: 
-    family:
-    url: 
-    institute: 
+  - given: Roger
+    family: Grosse
+    url: https://www.cs.toronto.edu/~rgrosse/
+    institute: University of Toronto
   youtube: 
   start: "18:00"
   end: "18:30"
-- title: 
+- title: A Case Against Generative Models in RL?
   author:
-  - given: 
-    family:
-    url: 
-    institute: 
+  - given: Shakir
+    family: Mohammed
+    url: http://shakirm.com/
+    institute: DeepMind
   youtube: 
-  start: "18:45"
-  end: "19:15"
+  start: "18:35"
+  end: "19:05"
+ - title: Discussion Panel
+  start: "19:05"
+  end: "20:00"
 speakers:
 ---
