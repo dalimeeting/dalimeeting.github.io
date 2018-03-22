@@ -34,5 +34,17 @@ talks:
   youtube: 
   start: "09:45"
   end: "10:15" 
+- title: "Backtracking model for Efficient Reinforcement Learning"
+  author:
+  - given: Anirudh
+    family: Goyal
+    url: https://mila.quebec/en/person/anirudh-goyal/
+    institute: Université de Montréal
+  youtube: 
+  start: "10:20"
+  end: "10:50" 
+- title: "Coffee"
+  start: "10:50"
+  end: "11:20"
 speakers:
 ---
