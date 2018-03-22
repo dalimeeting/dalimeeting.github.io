@@ -76,5 +76,26 @@ talks:
 - title: "Lunch"
   start: "13:00"
   end: "14:00"
+- title: "Noisy natural gradient as variational inference"
+  author:
+  - given: Roger
+    family: Grosse
+    url: https://www.cs.toronto.edu/~rgrosse/
+    institute: University of Toronto
+  youtube: 
+  start: "18:00"
+  end: "18:30"
+- title: "A Case Against Generative Models in RL?"
+  author:
+  - given: Shakir
+    family: Mohammed
+    url: http://shakirm.com/
+    institute: DeepMind
+  youtube: 
+  start: "18:35"
+  end: "19:05"
+- title: "Discussion Panel"
+  start: "19:05"
+  end: "20:00"
 speakers:
 ---
