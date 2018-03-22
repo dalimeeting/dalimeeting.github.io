@@ -25,5 +25,14 @@ talks:
 - title: "Welcome and Opening"
   start: "09:30"
   end: "09:45"
+- title: "Structure Learning in Generative Deep Learning"
+  author:
+  - family: Poupart
+    given: Pascal
+    url: https://cs.uwaterloo.ca/~ppoupart/
+    institute: University of Waterloo
+  youtube: 
+  start: "09:45"
+  end: "10:15" 
 speakers:
 ---
