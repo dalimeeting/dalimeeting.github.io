@@ -64,7 +64,7 @@ talks:
   youtube: 
   start: "11:55"
   end: "12:25" 
- - title: "Planning in reinforcement learning with learned models in Dyna"
+- title: "Planning in reinforcement learning with learned models in Dyna"
   author: 
   - given: Martha
     family: White
