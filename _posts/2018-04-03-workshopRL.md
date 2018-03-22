@@ -23,10 +23,10 @@ room:
 show_abstracts: false
 
 talks:
-- title: Welcome and Opening
+- title: "Welcome and Opening"
   start: "09:30"
   end: "09:45"
-- title: Structure Learning in Generative Deep Learning
+- title: "Structure Learning in Generative Deep Learning"
   author:
   - family: Poupart
     given: Pascal
@@ -35,7 +35,7 @@ talks:
   youtube: 
   start: "09:45"
   end: "10:15" 
-- title: Backtracking model for Efficient Reinforcement Learning
+- title: "Backtracking model for Efficient Reinforcement Learning"
   author:
   - given: Anirudh
     family: Goyal
@@ -56,7 +56,7 @@ talks:
   youtube: 
   start: "11:20"
   end: "11:50" 
-- title: Posterior sampling for reinforcement learning: worst case regret bounds
+- title: "Posterior sampling for reinforcement learning: worst case regret bounds"
   author: 
   - given: Shipra
     family: Agrawal
@@ -65,7 +65,7 @@ talks:
   youtube: 
   start: "11:55"
   end: "12:25" 
- - title: Planning in reinforcement learning with learned models in Dyna
+ - title: "Planning in reinforcement learning with learned models in Dyna"
   author: 
   - given: Martha
     family: White
@@ -77,7 +77,7 @@ talks:
 - title: Lunch
   start: "13:00"
   end: "14:00"
-- title: Noisy natural gradient as variational inference
+- title: "Noisy natural gradient as variational inference"
   author:
   - given: Roger
     family: Grosse
@@ -86,7 +86,7 @@ talks:
   youtube: 
   start: "18:00"
   end: "18:30"
-- title: A Case Against Generative Models in RL?
+- title: "A Case Against Generative Models in RL?"
   author:
   - given: Shakir
     family: Mohammed
@@ -95,7 +95,7 @@ talks:
   youtube: 
   start: "18:35"
   end: "19:05"
- - title: Discussion Panel
+ - title: "Discussion Panel"
   start: "19:05"
   end: "20:00"
 speakers:
