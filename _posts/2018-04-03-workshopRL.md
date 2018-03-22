@@ -46,5 +46,35 @@ talks:
 - title: "Coffee"
   start: "10:50"
   end: "11:20"
+- title: "Deep Exploration via Randomized Value Functions"
+  author: 
+  - given: Ian
+    family: Osband
+    url: http://iosband.github.io/
+    institute: DeepMind
+  youtube: 
+  start: "11:20"
+  end: "11:50" 
+- title: "Posterior sampling for reinforcement learning: worst case regret bounds"
+  author: 
+  - given: Shipra
+    family: Agrawal
+    url: http://www.columbia.edu/~sa3305/
+    institute: Columbia University
+  youtube: 
+  start: "11:55"
+  end: "12:25" 
+ - title: "Planning in reinforcement learning with learned models in Dyna"
+  author: 
+  - given: Martha
+    family: White
+    url: https://webdocs.cs.ualberta.ca/~whitem/
+    institute:  University of Alberta
+  youtube: 
+  start: "12:30"
+  end: "13:00" 
+- title: "Lunch"
+  start: "13:00"
+  end: "14:00"
 speakers:
 ---
