@@ -68,7 +68,7 @@ talks:
   - given: Andrew
     family: Gordon Wilson
     url: 
-    institute: Facebook
+    institute: Cornell
   youtube: 
   start: "18:00"
   end: "18:45"
