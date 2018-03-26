@@ -21,7 +21,7 @@ organizers:
 room: 
 show_abstracts: false
 talks:
-- title: 
+- title: "Preserving-Privacy Collaborative Machine Learning without Centralized Training Data"
   author:
   - family: Bonawitz
     given: Keith
@@ -30,7 +30,7 @@ talks:
   youtube: 
   start: "09:30"
   end: "10:15" 
-- title: 
+- title: "Confidential Machine Learning on Trusted Processors"
   author:
   - given: Olya 
     family: Ohrimenko
@@ -42,7 +42,7 @@ talks:
 - title: Coffee
   start: "11:00"
   end: "11:30"
-- title: 
+- title: "Delayed Impact of Fair Machine Learning"
   author: 
   - given: Moritz
     family: Hardt
@@ -65,8 +65,8 @@ talks:
   end: "14:00"
 - title: 
   author:
-  - given: Joaquin
-    family: Quinonero Candela
+  - given: Andrew
+    family: Gordon Wilson
     url: 
     institute: Facebook
   youtube: 
@@ -74,7 +74,7 @@ talks:
   end: "18:45"
 - title: "Panel session - How can we maximize real world beneficial impact?"
   author:
-  - given: 
+  - given: Earlier speakers + Sandra Wachter
     family:
     url: 
     institute: 
