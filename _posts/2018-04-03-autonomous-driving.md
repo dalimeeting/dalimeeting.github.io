@@ -17,7 +17,7 @@ organizers:
 room: 
 show_abstracts: false
 talks:
-- title: 
+- title: Teaching a Car to Drive
   author: 
   - family:  Jackel
     given: Larry
@@ -26,7 +26,7 @@ talks:
   youtube: 
   start: "09:30"
   end: "10:00" 
-- title: 
+- title: Efficient Algorithms for Safe Motion Planning
   author:
   - given: Subramanian 
     family:  Ramamoorthy
@@ -56,7 +56,7 @@ talks:
   youtube: 
   start: "11:30"
   end: "12:00" 
-- title: 
+- title: Map Data at Scale from Images Contributed by Anyone
   author: 
   - given: Peter  
     family: Kontschieder
@@ -65,7 +65,7 @@ talks:
   youtube: 
   start: "12:00"
   end: "12:30" 
-- title: 
+- title: How to avoid the “Winter of Autonomous Driving”?
   author: 
   - given: Amnon   
     family: Shashua
@@ -77,7 +77,7 @@ talks:
 - title: Lunch
   start: "13:00"
   end: "14:00"
-- title: 
+- title: Learning to Drive
   author: 
   - given: Vladlen   
     family: Koltun
@@ -86,7 +86,7 @@ talks:
   youtube: 
   start: "18:00"
   end: "18:30"
-- title: 
+- title: Motion Estimation: Energy-based models, deep learning, and something in between
   author:
   - given: Stefan 
     family: Roth
