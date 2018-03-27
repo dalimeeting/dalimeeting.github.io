@@ -70,8 +70,8 @@ talks:
     url: 
     institute: Cornell
   youtube: 
-  start: "18:00"
-  end: "18:45"
+  start: "15:00"
+  end: "15:45"
 - title: "Panel session - How can we maximize real world beneficial impact?"
   author:
   - given: Earlier speakers + Sandra Wachter
@@ -79,7 +79,7 @@ talks:
     url: 
     institute: 
   youtube: 
-  start: "18:45"
-  end: "19:30"
+  start: "15:45"
+  end: "16:30"
 speakers:
 ---
