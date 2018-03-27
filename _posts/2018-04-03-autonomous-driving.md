@@ -84,8 +84,8 @@ talks:
     url: 
     institute: 
   youtube: 
-  start: "18:00"
-  end: "18:30"
+  start: "15:00"
+  end: "15:30"
 - title: "Motion Estimation: Energy-based models, deep learning, and something in between"
   author:
   - given: Stefan 
@@ -93,8 +93,8 @@ talks:
     url: 
     institute: 
   youtube: 
-  start: "18:30"
-  end: "19:00"
+  start: "15:30"
+  end: "16:00"
 - title: 
   author:
   - given: Angela  
@@ -102,8 +102,8 @@ talks:
     url: 
     institute: 
   youtube: 
-  start: "19:00"
-  end: "19:30"
+  start: "16:00"
+  end: "16:30"
 - title: 
   author:
   - given: Philip
@@ -111,7 +111,7 @@ talks:
     url: 
     institute: 
   youtube: 
-  start: "19:30"
-  end: "20:00"
+  start: "16:30"
+  end: "17:00"
 speakers:
 ---
