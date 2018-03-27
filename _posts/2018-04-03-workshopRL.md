@@ -83,8 +83,8 @@ talks:
     url: https://www.cs.toronto.edu/~rgrosse/
     institute: University of Toronto
   youtube: 
-  start: "18:00"
-  end: "18:30"
+  start: "15:00"
+  end: "15:30"
 - title: "A Case Against Generative Models in RL?"
   author:
   - given: Shakir
@@ -92,10 +92,10 @@ talks:
     url: http://shakirm.com/
     institute: DeepMind
   youtube: 
-  start: "18:35"
-  end: "19:05"
+  start: "15:35"
+  end: "16:05"
 - title: "Discussion Panel"
-  start: "19:05"
-  end: "20:00"
+  start: "16:05"
+  end: "17:00"
 speakers:
 ---
