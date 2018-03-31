@@ -34,12 +34,12 @@ talks:
   youtube: 
   start: "09:45"
   end: "10:15" 
-- title: "Backtracking model for Efficient Reinforcement Learning"
-  author:
-  - given: Anirudh
-    family: Goyal
-    url: https://mila.quebec/en/person/anirudh-goyal/
-    institute: Université de Montréal
+- title: "Posterior sampling for reinforcement learning: worst case regret bounds"
+  author: 
+  - given: Shipra
+    family: Agrawal
+    url: http://www.columbia.edu/~sa3305/
+    institute: Columbia University
   youtube: 
   start: "10:20"
   end: "10:50" 
@@ -55,15 +55,15 @@ talks:
   youtube: 
   start: "11:20"
   end: "11:50" 
-- title: "Posterior sampling for reinforcement learning: worst case regret bounds"
-  author: 
-  - given: Shipra
-    family: Agrawal
-    url: http://www.columbia.edu/~sa3305/
-    institute: Columbia University
+- title: "Noisy natural gradient as variational inference"
+  author:
+  - given: Roger
+    family: Grosse
+    url: https://www.cs.toronto.edu/~rgrosse/
+    institute: University of Toronto
   youtube: 
   start: "11:55"
-  end: "12:25" 
+  end: "12:25"
 - title: "Planning in reinforcement learning with learned models in Dyna"
   author: 
   - given: Martha
@@ -76,15 +76,15 @@ talks:
 - title: "Lunch"
   start: "13:00"
   end: "14:00"
-- title: "Noisy natural gradient as variational inference"
+- title: "Backtracking model for Efficient Reinforcement Learning"
   author:
-  - given: Roger
-    family: Grosse
-    url: https://www.cs.toronto.edu/~rgrosse/
-    institute: University of Toronto
+  - given: Anirudh
+    family: Goyal
+    url: https://mila.quebec/en/person/anirudh-goyal/
+    institute: Université de Montréal
   youtube: 
   start: "15:00"
-  end: "15:30"
+  end: "15:30" 
 - title: "A Case Against Generative Models in RL?"
   author:
   - given: Shakir
