@@ -63,7 +63,7 @@ talks:
 - title: Lunch
   start: "13:00"
   end: "14:00"
-- title: "Transparent Probabilistic Machine Learning for Reliable Decision Making and Scientific Discovery"
+- title: "The Power of Probabilistic Modelling for Transparent Machine Learning and Scientific Discovery"
   author:
   - given: Andrew
     family: Gordon Wilson
