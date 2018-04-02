@@ -1,7 +1,9 @@
 ---
 title:  "Autonomous driving"
 layout: multitrack
-abstract: "Over the last decade, autonomous driving has become a hot topic both in academia and industry. This workshop fosters discussion on this topic amongst leading experts in this field: What are the challenges to be addressed for fully autonomous driving in general situations? What are the difficulties in perception, navigation, decision making and AI and how can we overcome them? Which techniques are most promising? Which is the most promising route to autonomous driving? Is autonomous driving an AI complete problem? Which sensors are needed and how can we overcome challenging weather conditions and tackle rare events? When will autonomous cars be ready?"
+abstract: "Over the last decade, autonomous driving has become a hot topic both in academia and industry. This workshop fosters discussion on this topic amongst leading experts in this field: What are the challenges to be addressed for fully autonomous driving in general situations? What are the difficulties in perception, navigation, decision making and AI and how can we overcome them? Which techniques are most promising? Which is the most promising route to autonomous driving? Is autonomous driving an AI complete problem? Which sensors are needed and how can we overcome challenging weather conditions and tackle rare events? When will autonomous cars be ready?
+
+"
 organizer_url: "http://www.cvlibs.net/projects/dali_2018_autonomous_driving/"
 categories:
 - dali2018
@@ -14,7 +16,7 @@ organizers:
   family: Blake
   url: http://www.cantab.net/~ablake
   institute:  Five AI and Turing Institute
-room: 
+room: "Timanfaya"
 show_abstracts: false
 talks:
 - title: "Teaching a Car to Drive"
@@ -38,16 +40,16 @@ talks:
 - title: Coffee
   start: "10:30"
   end: "11:00"
-- title: 
+- title: "How to satisfy the Thirst for Data?"
   author: 
-  - given: Raquel 
-    family: Urtasun
+  - given: Andreas 
+    family: Geiger
     url: 
     institute: 
   youtube: 
   start: "11:00"
   end: "11:30" 
-- title: 
+- title: "Driving Autonomy - Learning to Perceive and to Act"
   author: 
   - given: Ingmar 
     family: Posner
@@ -77,7 +79,7 @@ talks:
 - title: Lunch
   start: "13:00"
   end: "14:00"
-- title: Learning to Drive
+- title: "Learning to Drive"
   author: 
   - given: Vladlen   
     family: Koltun
@@ -95,7 +97,7 @@ talks:
   youtube: 
   start: "15:30"
   end: "16:00"
-- title: 
+- title: "(to be confirmed)"
   author:
   - given: Angela  
     family: Schoellig
@@ -104,10 +106,10 @@ talks:
   youtube: 
   start: "16:00"
   end: "16:30"
-- title: 
+- title: (to be confirmed)
   author:
-  - given: Philip
-    family: Torr
+  - given: Zoubin
+    family: Ghahramani
     url: 
     institute: 
   youtube: 

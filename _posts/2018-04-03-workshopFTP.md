@@ -18,7 +18,7 @@ organizers:
   family: Gascon
   url: https://www.lsi.upc.edu/~agascon/
   institute: Alan Turing Institute
-room: 
+room: "Yaiza"
 show_abstracts: false
 talks:
 - title: "Preserving-Privacy Collaborative Machine Learning without Centralized Training Data"
@@ -63,7 +63,7 @@ talks:
 - title: Lunch
   start: "13:00"
   end: "14:00"
-- title: "Transparent Probabilistic Machine Learning for Reliable Decision Making and Scientific Discovery"
+- title: "The Power of Probabilistic Modelling for Transparent Machine Learning and Scientific Discovery"
   author:
   - given: Andrew
     family: Gordon Wilson
