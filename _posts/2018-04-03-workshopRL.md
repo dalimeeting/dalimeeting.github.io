@@ -19,7 +19,7 @@ organizers:
   family: Song
   url: http://tsong.me/
   institute: Stanford University
-room: 
+room: "Teatro del Mar"
 show_abstracts: false
 talks:
 - title: "Welcome and Opening"
