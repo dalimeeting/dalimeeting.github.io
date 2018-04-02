@@ -21,10 +21,10 @@ show_abstracts: false
 talks:
 - title: "Teaching a Car to Drive"
   author: 
-  - family:  Jackel
+  - family: Jackel
     given: Larry
     url: 
-    institute: 
+    institute: NVIDIA
   youtube: 
   start: "09:30"
   end: "10:00" 
@@ -33,7 +33,7 @@ talks:
   - given: Subramanian 
     family:  Ramamoorthy
     url: 
-    institute: 
+    institute: University of Edinburgh / Five.AI
   youtube: 
   start: "10:00"
   end: "10:30" 
@@ -45,7 +45,7 @@ talks:
   - given: Andreas 
     family: Geiger
     url: 
-    institute: 
+    institute: University of Tübingen / MPI-IS
   youtube: 
   start: "11:00"
   end: "11:30" 
@@ -54,7 +54,7 @@ talks:
   - given: Ingmar 
     family: Posner
     url: 
-    institute: 
+    institute: Oxford / Oxbotica
   youtube: 
   start: "11:30"
   end: "12:00" 
@@ -63,7 +63,7 @@ talks:
   - given: Peter  
     family: Kontschieder
     url: 
-    institute: 
+    institute: Mapillary
   youtube: 
   start: "12:00"
   end: "12:30" 
@@ -72,7 +72,7 @@ talks:
   - given: Amnon   
     family: Shashua
     url: 
-    institute: 
+    institute: Mobileye / Intel
   youtube: 
   start: "12:30"
   end: "13:00"
@@ -84,7 +84,7 @@ talks:
   - given: Vladlen   
     family: Koltun
     url: 
-    institute: 
+    institute: Intel
   youtube: 
   start: "15:00"
   end: "15:30"
@@ -93,16 +93,16 @@ talks:
   - given: Stefan 
     family: Roth
     url: 
-    institute: 
+    institute: University of Darmstadt
   youtube: 
   start: "15:30"
   end: "16:00"
-- title: "(to be confirmed)"
+- title: "Safe Learning-Based Control for Autonomous Driving and the aUToronto Self-Driving Competition Team (via Skype)"
   author:
   - given: Angela  
     family: Schoellig
     url: 
-    institute: 
+    institute: University of Toronto
   youtube: 
   start: "16:00"
   end: "16:30"
@@ -111,7 +111,7 @@ talks:
   - given: Zoubin
     family: Ghahramani
     url: 
-    institute: 
+    institute: University of Cambridge / Uber
   youtube: 
   start: "16:30"
   end: "17:00"
