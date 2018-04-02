@@ -14,7 +14,7 @@ organizers:
   family:  Fischer
   url: http://sda.cs.uni-bonn.de/people/dr-asja-fischer/
   institute: University of Bonn
-room: 
+room: "Timanfaya"
 show_abstracts: true
 talks:
 - title: "Intro"
