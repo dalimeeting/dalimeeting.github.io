@@ -43,7 +43,7 @@ organizers:
   family:  Theis
   url: http://theis.io/
   institute: Twitter
-room: 
+room: "Teatro del Mar"
 show_abstracts: false
 talks:
 - title: 
