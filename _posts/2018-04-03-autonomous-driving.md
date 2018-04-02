@@ -16,7 +16,7 @@ organizers:
   family: Blake
   url: http://www.cantab.net/~ablake
   institute:  Five AI and Turing Institute
-room: 
+room: "Timanfaya"
 show_abstracts: false
 talks:
 - title: "Teaching a Car to Drive"
