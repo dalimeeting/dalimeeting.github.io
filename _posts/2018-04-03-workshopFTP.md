@@ -18,7 +18,7 @@ organizers:
   family: Gascon
   url: https://www.lsi.upc.edu/~agascon/
   institute: Alan Turing Institute
-room: 
+room: "Yaiza"
 show_abstracts: false
 talks:
 - title: "Preserving-Privacy Collaborative Machine Learning without Centralized Training Data"
