@@ -88,7 +88,7 @@ talks:
 - title: "A Case Against Generative Models in RL?"
   author:
   - given: Shakir
-    family: Mohammed
+    family: Mohamed
     url: http://shakirm.com/
     institute: DeepMind
   youtube: 
