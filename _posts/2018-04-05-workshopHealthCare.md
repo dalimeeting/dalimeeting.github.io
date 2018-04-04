@@ -70,7 +70,7 @@ talks:
   youtube: 
   start: ""
   end: ""
-- title: "Learning from timestamped population-based epidemiological data."
+- title: "Learning from patient-contributed social and mobile data: for the patients, the researchers, the clinicians, or for all?"
   author:
   - given: Myra  
     family: Spiliopoulou
@@ -127,12 +127,12 @@ talks:
   youtube: 
   start: ""
   end: ""
-- title: "AutoPrognosis: Automating the design of predictive models for clinical risk and prognosis."
+- title: "Doctors and Interpreters: Interpretability and Visualization in the Medical Domain."
   author:
-  - given: Mihaela  
-    family: Van de Shar
-    url: http://www.oxford-man.ox.ac.uk/~mvanderschaar/
-    institute: University of Oxford
+  - given: Alfredo  
+    family: Vellido
+    url: 
+    institute: University of Catalunya
   youtube: 
   start: ""
   end: ""
@@ -150,8 +150,8 @@ talks:
   end: "18:45"
 - title: "Chair:" 
   author:
-  - given: Saria
-    family: Suchi
+  - given: Niels
+    family: Peek
     url: 
     institute: 
   youtube: 
