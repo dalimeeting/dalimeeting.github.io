@@ -25,7 +25,7 @@ talks:
     given: Larry
     url: 
     institute: NVIDIA
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=taKRYHF10kA&index=1&list=PLeCNfJWZKqxuqr_m69JV4a6O64bbhnZ6h
   start: "09:30"
   end: "10:00" 
 - title: "Efficient Algorithms for Safe Motion Planning"
@@ -34,7 +34,7 @@ talks:
     family:  Ramamoorthy
     url: 
     institute: University of Edinburgh / Five.AI
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=k87YdeTjMPc&index=2&list=PLeCNfJWZKqxuqr_m69JV4a6O64bbhnZ6h
   start: "10:00"
   end: "10:30" 
 - title: Coffee
@@ -46,7 +46,7 @@ talks:
     family: Geiger
     url: 
     institute: University of Tübingen / MPI-IS
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=TlbxIuA-FTw&index=8&list=PLeCNfJWZKqxuqr_m69JV4a6O64bbhnZ6h
   start: "11:00"
   end: "11:30" 
 - title: "Driving Autonomy - Learning to Perceive and to Act"
@@ -55,7 +55,7 @@ talks:
     family: Posner
     url: 
     institute: Oxford / Oxbotica
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=IMFpuCABE4o&index=3&list=PLeCNfJWZKqxuqr_m69JV4a6O64bbhnZ6h
   start: "11:30"
   end: "12:00" 
 - title: "Map Data at Scale from Images Contributed by Anyone"
@@ -64,7 +64,7 @@ talks:
     family: Kontschieder
     url: 
     institute: Mapillary
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=GqItlySD6FU&index=4&list=PLeCNfJWZKqxuqr_m69JV4a6O64bbhnZ6h
   start: "12:00"
   end: "12:30" 
 - title: "How to avoid the “Winter of Autonomous Driving”?"
@@ -73,7 +73,7 @@ talks:
     family: Shashua
     url: 
     institute: Mobileye / Intel
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=d4ZqlQ3nvwk&index=5&list=PLeCNfJWZKqxuqr_m69JV4a6O64bbhnZ6h
   start: "12:30"
   end: "13:00"
 - title: Lunch
@@ -94,7 +94,7 @@ talks:
     family: Roth
     url: 
     institute: University of Darmstadt
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=yDEYQHrtGF8&index=6&list=PLeCNfJWZKqxuqr_m69JV4a6O64bbhnZ6h
   start: "15:30"
   end: "16:00"
 - title: "Safe Learning-Based Control for Autonomous Driving and the aUToronto Self-Driving Competition Team (via Skype)"
@@ -103,17 +103,8 @@ talks:
     family: Schoellig
     url: 
     institute: University of Toronto
-  youtube: 
+  youtube: https://www.youtube.com/watch?v=IM0PG0j-SpY&index=7&list=PLeCNfJWZKqxuqr_m69JV4a6O64bbhnZ6h
   start: "16:00"
   end: "16:30"
-- title: (to be confirmed)
-  author:
-  - given: Zoubin
-    family: Ghahramani
-    url: 
-    institute: University of Cambridge / Uber
-  youtube: 
-  start: "16:30"
-  end: "17:00"
 speakers:
 ---
