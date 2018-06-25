@@ -11,7 +11,7 @@ Each year the main web page needs to be archived to store as a previous year's c
 
 1. Create the new repo in github by going to <https://github.com/organizations/dalimeeting/repositories/new>, use the name coding `daliXXXX` where `XXXX` is the year of the archived conference. 
 
-2. Give the conference a description, "Web page for the XXXX DALI Conference"
+2. In the conference description field, place the dates and locatin of the workshop, e.g. "3rd-5th April, Lanzarote, Canary Islands"
 
 3. Do *not* create an initial README for the conference. 
 
