@@ -1,5 +1,5 @@
 # Site settings
-title: DALI 2018 - Data, Learning and Inference
+title: DALI 2019 - Data, Learning and Inference
 permalink: "/:categories/:title.html"
 # Include image banner file name below
 banner: pvw.i8.png
@@ -56,10 +56,10 @@ conference:
   - name: Bernhard Schölkopf (chair)
     url: "http://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI for Intelligent Systems (Tübingen)
-  name: DALI 2018 - Data Learning and Inference
+  name: DALI 2019 - Data Learning and Inference
   shortname: DALI
-  venue: H10 Rubicón Palace
-  location: Playa Blanca, Lanzarote, Canary Islands
+  venue: TBA
+  location: George, South Africa
   year: 2018
   month: April
   dates:
@@ -70,8 +70,8 @@ conference:
   - name: Max-Planck-ETH Center for Learning Systems
     url: "http://learning-systems.org/"
 previous_meeting:
-  name: DALI 2017
-  url: "http://dalimeeting.org/dali2017/"
+  name: DALI 2018
+  url: "http://dalimeeting.org/dali2018/"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dalimeeting.org" # the base hostname & protocol for your site
 youtube:
