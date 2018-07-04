@@ -52,7 +52,7 @@ layout: page
   {% if site.conference.chair %}
   {% assign lastone = site.conference.chair | last %}
   <p>Chairs:
-  {% for person in site.conference.symposium %}
+  {% for person in site.conference.chair %}
   {% include listperson.html %}
   {% endfor %}</p>
   {% endif %}	
