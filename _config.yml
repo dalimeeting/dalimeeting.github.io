@@ -69,8 +69,12 @@ conference:
   - name: Max-Planck-ETH Center for Learning Systems
     url: "http://learning-systems.org/"
 previous_meeting:
-  name: DALI 2018
-  url: "http://dalimeeting.org/dali2018/"
+  name: 
+  - DALI 2018
+  - DALI 2017
+  url: 
+  - "http://dalimeeting.org/dali2018/"
+  - "http://dalimeeting.org/dali2017/"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dalimeeting.org" # the base hostname & protocol for your site
 youtube:
