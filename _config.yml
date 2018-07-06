@@ -30,7 +30,7 @@ conference:
   - given: Arthur
     family: Gretton
     institute: "Gatsby Unit, University College London"
-    url: "www.gatsby.ucl.ac.uk/~gretton/"
+    url: "http://www.gatsby.ucl.ac.uk/~gretton/"
   - given: Shakir 
     family: Mohamed
     url: "https://shakirm.com/"
