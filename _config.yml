@@ -36,7 +36,7 @@ conference:
     url: "https://shakirm.com/"
     institute: "Google DeepMind"
   - name: Krikamol Muandet
-    url: "https://krikamol.org"
+    url: "http://krikamol.org"
     institute: "MPI for Intelligent Systems (Tübingen)"  
   assistants:
   - name: Diana Rebmann 
