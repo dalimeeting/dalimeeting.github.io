@@ -1,1 +1,51 @@
+<script type="text/javascript">
 
+            var customerName = "",
+                orderID = "",
+                customerID = "",
+                sageGUID = "5907ed0e-0ad6-43b4-9cbb-59910520413c";
+
+            simpleCart({
+                checkout: {
+                    type: "SendForm" ,
+                    url: "https://paynow.sagepay.co.za/site/paynow.aspx" ,
+
+                    // HTTP method for form, "POST"
+                    method: "POST" ,
+
+                    // URL to redirect browser to after successful checkout
+                    success: "http://simplecart.gatewaymodules.com/success.html" ,
+
+                    // URL to redirect browser to after checkout was cancelled by buyer
+                    cancel: "http://simplecart.gatewaymodules.com/fail.html" ,
+
+                    extra_data: {
+                        currency_code: "EUR",
+                        m1 : "18c4ae97-0ea1-4fd6-97e8-4041a6f05a01",
+                        m2 : sageGUID,
+                        p2 : (new Date).getTime(),
+
+                        p3 : customerName + " | " + orderID,
+                        m3 : sageGUID,
+                        m4 : customerID,
+
+                        p4 : simpleCart.total                           // Total amount = item1 + item2 + item3 etc
+
+                    }
+                },
+                beforeCheckout: function( data ){
+                    data.currency = "EUR";
+                    data.cancel_url = data.cancel_return;
+                    data.return_url = data.return;
+                    var sagepaynow_description = '';
+                    for (var key in data)
+                        if (key.match(/^item_name/))
+                        	sagepaynow_description += ' '+data[key];
+                    data.item_description = data.item_name = sagepaynow_description;
+                },
+                afterAdd: function( item ){
+                    // checkout immediately
+                    simpleCart.checkout();
+                }
+            });
+        </script>
