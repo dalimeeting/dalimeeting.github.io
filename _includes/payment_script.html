@@ -42,10 +42,6 @@
                         if (key.match(/^item_name/))
                         	sagepaynow_description += ' '+data[key];
                     data.item_description = data.item_name = sagepaynow_description;
-                },
-                afterAdd: function( item ){
-                    // checkout immediately
-                    simpleCart.checkout();
                 }
             });
         </script>
