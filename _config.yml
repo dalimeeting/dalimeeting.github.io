@@ -7,8 +7,8 @@ banner: george-fancourt.png
 # Registration fees and URL go here.
 registration:
   fee:
-    academic: 400 euros
-    industry: 500 euros
+    academic: 450 euros
+    industry: 600 euros
   url:
 
 # Hotel booking URL goes here
