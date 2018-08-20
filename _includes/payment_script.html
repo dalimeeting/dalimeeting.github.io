@@ -5,7 +5,8 @@
             var customerName = "",
                 orderID = "",
                 customerID = "",
-                sageGUID = "24ade73c-98cf-47b3-99be-cc7b867b3080";
+                sageGUID = "24ade73c-98cf-47b3-99be-cc7b867b3080",
+                serviceKey = "26fe2b1e-95f2-4029-83fc-85c487813205";
 
             simpleCart({
                 checkout: {
@@ -23,12 +24,12 @@
 
                     extra_data: {
                         currency_code: "EUR",
-                        m1 : "26fe2b1e-95f2-4029-83fc-85c487813205",
+                        m1 : serviceKey,
                         m2 : sageGUID,
                         p2 : (new Date).getTime(),
 
                         p3 : customerName + " | " + orderID,
-                        m3 : "26fe2b1e-95f2-4029-83fc-85c487813205",
+                        m3 : serviceKey,
                         m4 : customerID,
 
                         p4 : simpleCart.total                           // Total amount = item1 + item2 + item3 etc
