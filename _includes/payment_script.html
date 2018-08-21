@@ -10,6 +10,10 @@
 
             simpleCart({
                 checkout: {
+                            
+                    // currency
+                    currency: "EUR",           
+                            
                     type: "SendForm" ,
                     url: "https://paynow.sagepay.co.za/site/paynow.aspx" ,
 
@@ -20,10 +24,7 @@
                     success: "http://simplecart.gatewaymodules.com/success.html" ,
 
                     // URL to redirect browser to after checkout was cancelled by buyer
-                    cancel: "http://simplecart.gatewaymodules.com/fail.html" ,
-                    
-                    // currency
-                    currency: "EUR",        
+                    cancel: "http://simplecart.gatewaymodules.com/fail.html" ,   
                    
                     extra_data: {
                         currency_code: "EUR",
