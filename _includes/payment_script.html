@@ -2,7 +2,9 @@
 <script type="text/javascript" src="{{ "/js/simpleCart.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript">
 
-            var customerType = "",
+            var customerName = "",
+                orderID = "",
+                customerID = "",
                 sageGUID = "24ade73c-98cf-47b3-99be-cc7b867b3080",
                 serviceKey = "26fe2b1e-95f2-4029-83fc-85c487813205";
 
@@ -29,7 +31,7 @@
                         m2 : sageGUID,
                         p2 : (new Date).getTime(),
 
-                        p3 : "DALI2019 registration fee for " + customerType,
+                        p3 : "DALI2019 registration fee",
                         m3 : sageGUID,
                         m4 : customerID,
 
