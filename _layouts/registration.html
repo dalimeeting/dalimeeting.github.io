@@ -32,7 +32,7 @@ layout: page
   To pay online, please use the following form:
   <br><br>
   
-  <form name="form" id="form" method="POST" action="" target=”_blank”> <!---this is where you will POST too in a NEW WINDOW--->
+  <form name="form" id="form" method="POST" action="https://paynow.sagepay.co.za/site/paynow.aspx" target=”_blank”> <!---this is where you will POST too in a NEW WINDOW--->
      <table>
         <tr><td>First name:</td><td><input type="text" size="30" name="customerFirstname" placeholder="First Name" required></td>
         <td>Last name:</td><td><input type="text" size="30" name="customerLastname" placeholder="Last Name" required></td></tr>
@@ -46,12 +46,19 @@ layout: page
      </table>
      <p id="display"></p>
      <br>
-     <input class="simpleCart_checkout" name="submit" type="submit" value="PAY NOW"> <!---Submit button--->
+     <input name="submit" type="submit" value="PAY NOW"> <!---Submit button--->
      <input type="reset" value="RESET">
   </form>
   </p>
 
-  <script>
+  <br>
+  <h3>Hotel Room</h3>
+  <p>To book a room at Fancourt hotel, please contact <a href="mailto:estellev@fancourt.co.za">Estelle Viljoen</a> with "Dali 2019" in the subject line.</p>
+  <br><br><br>
+  
+</article>
+
+<script>
   
     function initializeCart() {
       simpleCart.empty();
@@ -73,12 +80,3 @@ layout: page
     }
     
   </script>
-
-  <br>
-  <h3>Hotel Room</h3>
-  <p>To book a room at Fancourt hotel, please contact <a href="mailto:estellev@fancourt.co.za">Estelle Viljoen</a> with "Dali 2019" in the subject line.</p>
-  <br><br><br>
-  
-</article>
-
-
