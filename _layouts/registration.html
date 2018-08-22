@@ -35,9 +35,9 @@ layout: page
   <form name="form" id="form" method="POST"> <!---this is where you will POST too in a NEW WINDOW--->
      <table>
         <tr><td>First name:</td><td><input type="text" size="30" name="customerFirstname" id="customerFirstname" placeholder="First Name" required></td>
-        <td>Last name:</td><td><input type="text" size="30" name="customerLastname" placeholder="Last Name" required></td></tr>
-        <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation" placeholder="Affiliation" required></td>
-        <td>Email:</td><td><input type="email" size="30" name="customerEmail" placeholder="Email" required></td></tr> <!---Card holders email address--->
+        <td>Last name:</td><td><input type="text" size="30" name="customerLastname" id="customerLastname" placeholder="Last Name" required></td></tr>
+        <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation" id="customerAffiliation" placeholder="Affiliation" required></td>
+        <td>Email:</td><td><input type="email" size="30" name="customerEmail" id="customerEmail" placeholder="Email" required></td></tr> <!---Card holders email address--->
         <tr><td>Registration type:</td>	
 	<td><select name="customerType" onchange="updateCart(this)">
   		<option value="academia"> Academia (R7500.00)</option>
@@ -73,12 +73,10 @@ layout: page
      }
 	  
      simpleCart.bind( 'beforeCheckout' , function( data ){
-	//data.customerFirstname = document.getElementByName("customerFirstname").value;
-        //data.customerLastname = document.getElementByName("customerLastname").value;
-        //data.customerAffiliation = document.getElementByName("customerAffiliation").value;
-        //data.customerEmail = document.getElementByName("customerEmail").value;
-	     
-	alert(document.getElementById("customerFirstname").value)
+	data.customerFirstname = document.getElementById("customerFirstname").value;
+        data.customerLastname = document.getElementById("customerLastname").value;
+        data.customerAffiliation = document.getElementById("customerAffiliation").value;
+        data.customerEmail = document.getElementById("customerEmail").value;
      });	  
   </script>
 
