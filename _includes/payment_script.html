@@ -2,11 +2,7 @@
 <script type="text/javascript" src="{{ '/js/simpleCart.js' | prepend: site.baseurl }}"></script>
 <script type="text/javascript">
 
-            var customerFirstname = "",
-                customerLastname = "",
-                customerAffiliation = "",
-                customerEmail = "",
-                customerID = "",
+            var customerID = "",
                 sageGUID = "24ade73c-98cf-47b3-99be-cc7b867b3080",
                 serviceKey = "26fe2b1e-95f2-4029-83fc-85c487813205";
             
@@ -31,32 +27,25 @@
                         currency_code: "ZAR",
                         m1 : serviceKey,
                         m2 : sageGUID,
-                        p2 : customerFirstname + "_" + customerLastname + "_" + customerEmail + "_" + (new Date).getTime(),
-
-                        p3 : "DALI2019 registration fee: " + customerFirstname + " " + customerLastname,
+                        
                         m3 : sageGUID,
                         m4 : customerID,
                                 
                         p4 : simpleCart.total,                           // Total amount = item1 + item2 + item3 etc
-                                
-                        m9 : customerEmail
 
                     }
                 },
                 beforeCheckout: function( data ){
-                    data.currency = "ZAR";
-                    data.cancel_url = data.cancel_return;
-                    data.return_url = data.return;
+                    var customerFirstname = document.getElementById("customerFirstname").value,
+                        customerLastname = document.getElementById("customerLastname").value,
+                        customerAffiliation = document.getElementById("customerAffiliation").value,
+                        customerEmail = document.getElementById("customerEmail").value,
                     
-                    alert(data.p3)        
-                            
-                    //data.customerFirstname = document.getElementById("customerFirstname").value;
-                    //data.customerLastname = document.getElementById("customerLastname").value;
-                    data.p3 = document.getElementById("customerAffiliation").value;
-                    data.m9 = document.getElementById("customerEmail").value;
-                    
-                    
-                            
+                    // update data
+                    data.p2 = customerFirstname + "_" + customerLastname + "_" + customerEmail + "_" + (new Date).getTime();
+                    data.p3 = "DALI2019 registration fee: " + customerFirstname + " " + customerLastname;
+                    data.m9 = customerEmail;
+                  
                     var sagepaynow_description = '';
                     for (var key in data)
                         if (key.match(/^item_name/))
