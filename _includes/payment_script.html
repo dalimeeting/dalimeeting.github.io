@@ -55,7 +55,6 @@
                 }
             });
             
-            <!--- update item in the cart --->
             function initializeCart() {
                simpleCart.empty();
                simpleCart.add({name:"Academia", price: 7500.00, quantity: 1});
@@ -65,8 +64,6 @@
             function updateCart() {
                var item = document.getElementById("customerType").value;
     
-               alert(item);
-
                simpleCart.empty();
                if (item == "academia"){
                   simpleCart.add({name:"Academia", price: 7500.00, quantity: 1});
