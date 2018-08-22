@@ -17,7 +17,7 @@
                             
                     type: "SendForm" ,
                     url: "https://paynow.sagepay.co.za/site/paynow.aspx" ,
-
+ 
                     // HTTP method for form, "POST"
                     method: "POST" ,
 
@@ -47,6 +47,9 @@
                     data.currency = "ZAR";
                     data.cancel_url = data.cancel_return;
                     data.return_url = data.return;
+ 
+                    data.customerFirstname = document.getElementById("customerFirstname").value;        
+                            
                     var sagepaynow_description = '';
                     for (var key in data)
                         if (key.match(/^item_name/))
