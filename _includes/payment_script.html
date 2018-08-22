@@ -47,11 +47,15 @@
                     data.currency = "ZAR";
                     data.cancel_url = data.cancel_return;
                     data.return_url = data.return;
+                    
+                    alert(data.p3)        
                             
                     //data.customerFirstname = document.getElementById("customerFirstname").value;
                     //data.customerLastname = document.getElementById("customerLastname").value;
                     data.p3 = document.getElementById("customerAffiliation").value;
                     data.m9 = document.getElementById("customerEmail").value;
+                    
+                    
                             
                     var sagepaynow_description = '';
                     for (var key in data)
