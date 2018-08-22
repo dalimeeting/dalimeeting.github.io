@@ -40,7 +40,7 @@ layout: page
   <td>Email:</td><td><input type="email" size="30" name="customerEmail" required></td></tr> <!---Card holders email address--->
   <tr><td>Registration type:</td><td>
     <div class="simpleCart_shelfItem">
-    <select name="customerType" class="item_name" onload="initializeCart()" onchange="updateCart()">
+    <select name="customerType" class="item_name" onload="initializeCart();" onchange="updateCart();">
     <option value="academia">Academia (7,500 ZAR)</option>
     <option value="industry">Industry (10,000 ZAR)</option>
     </div>
@@ -54,22 +54,23 @@ layout: page
   
   <!--- update item in the cart --->
   <script>
-  function initializeCart() {
-    simpleCart.empty();
-    simpleCart.add({name:"Academia", price: 7500.00, quantity: 1});
-    document.getElementById("demo").innerHTML = "Your cart: Academia (7500.00 ZAR)";
-  }
-  function updateCart() {
-    var item = document.getElementById("customerType").value;
-    
-    simpleCart.empty();
-    if (item == "academia"){
+    function initializeCart() {
+      simpleCart.empty();
       simpleCart.add({name:"Academia", price: 7500.00, quantity: 1});
-    }else if(item == "industry"){
-      simpleCart.add({name:"Industry", price: 10000.00, quantity: 1});
+      document.getElementById("demo").innerHTML = "Your cart: Academia (7500.00 ZAR)";
     }
-    document.getElementById("demo").innerHTML = "Your cart: " + item;
-  }
+    
+    function updateCart() {
+      var item = document.getElementById("customerType").value;
+    
+      simpleCart.empty();
+      if (item == "academia"){
+        simpleCart.add({name:"Academia", price: 7500.00, quantity: 1});
+      }else if(item == "industry"){
+        simpleCart.add({name:"Industry", price: 10000.00, quantity: 1});
+      }
+      document.getElementById("demo").innerHTML = "Your cart: " + item;
+    }
   </script>
 
   </p>
