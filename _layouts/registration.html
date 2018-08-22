@@ -55,6 +55,8 @@ layout: page
   function initializeCart() {
     simpleCart.empty();
     simpleCart.add({name:'Academia', price: 7500.00, quantity: 1});
+  
+    document.getElementById("demo").innerHTML = "Your cart: Academia (7500.00 ZAR)";
   }
   function updateCart() {
     var item = document.getElementById("customerType").value;
