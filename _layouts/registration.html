@@ -38,10 +38,10 @@ layout: page
         <td>Last name:</td><td><input type="text" size="30" name="customerLastname" placeholder="Last Name" required></td></tr>
         <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation" placeholder="Affiliation" required></td>
         <td>Email:</td><td><input type="email" size="30" name="customerEmail" placeholder="Email" required></td></tr> <!---Card holders email address--->
-        <tr><td>Registration type:</td><td>	
-	<input type="radio" name="customerType" value="academia" checked> Academia (R7500.00)
-	<input type="radio" name="customerType" value="industry">Industry (R10000.00)
-        </td><td></td><td></td></tr>
+        <tr><td>Registration type:</td>	
+	<td><input type="radio" name="customerType" onclick="updateCart(this)" value="academia" checked> Academia (R7500.00)</td>
+	<td><input type="radio" name="customerType" onclick="updateCart(this)" value="industry">Industry (R10000.00)</td>
+        <td></td></tr>
      </table>
   </form>
  <br>
@@ -57,4 +57,16 @@ layout: page
   <p>To book a room at Fancourt hotel, please contact <a href="mailto:estellev@fancourt.co.za">Estelle Viljoen</a> with "Dali 2019" in the subject line.</p>
   <br><br><br>
   
+  <script>
+  function updateCart( item ) {
+
+	simpleCart.empty();
+	if (item.value == "academia"){
+		simpleCart.add({name:"Academia", price: 7500.00, quantity: 1});
+	}else if(item == "industry"){
+		simpleCart.add({name:"Industry", price: 10000.00, quantity: 1});
+	}
+  }
+  </script>
+
 </article>
