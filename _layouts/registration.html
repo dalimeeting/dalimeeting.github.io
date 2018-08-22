@@ -32,7 +32,7 @@ layout: page
   To pay online, please use the following form:
   <br><br>
   
-  <form name="form" id="form" method="POST" action="https://paynow.sagepay.co.za/site/paynow.aspx" target=”_blank”> <!---this is where you will POST too in a NEW WINDOW--->
+  <form name="form" id="form" method="POST" action="" target=”_blank”> <!---this is where you will POST too in a NEW WINDOW--->
      <table>
         <tr><td>First name:</td><td><input type="text" size="30" name="customerFirstname" placeholder="First Name" required></td>
         <td>Last name:</td><td><input type="text" size="30" name="customerLastname" placeholder="Last Name" required></td></tr>
@@ -60,8 +60,10 @@ layout: page
      <br>
      <input name="submit" class="simpleCart_checkout" type="submit" value="PAY NOW"> <!---Submit button--->
      <input type="reset" value="RESET">
-  </form>
-  
+
+	  <noscript><a href="no_javascript.html" class="simpleCart_checkout">Checkout</a>;</noscript>
+					<script>document.write('<a href="#" class="simpleCart_checkout">Checkout</a>');</script>
+</form>
  
   </p>
 
