@@ -65,12 +65,15 @@
             function updateCart() {
                var item = document.getElementById("customerType").value;
     
+               alert(item);
+
                simpleCart.empty();
                if (item == "academia"){
                   simpleCart.add({name:"Academia", price: 7500.00, quantity: 1});
                }else if(item == "industry"){
                   simpleCart.add({name:"Industry", price: 10000.00, quantity: 1});
                }
+                        
                document.getElementById("display").innerHTML = "Your cart: " + item;
             }
         </script>
