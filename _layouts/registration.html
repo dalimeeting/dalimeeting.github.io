@@ -39,9 +39,11 @@ layout: page
         <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation" placeholder="Affiliation" required></td>
         <td>Email:</td><td><input type="email" size="30" name="customerEmail" placeholder="Email" required></td></tr> <!---Card holders email address--->
         <tr><td>Registration type:</td>	
-	<td><input type="radio" name="customerType" onclick="updateCart(this)" value="academia" checked> Academia (R7500.00)</td>
-	<td><input type="radio" name="customerType" onclick="updateCart(this)" value="industry">Industry (R10000.00)</td>
-        <td></td></tr>
+	<td><select name="customerType" onchange="updateCart(this)">
+  		<option value="academia"> Academia (R7500.00)</option>
+  		<option value="industry">Industry (R10000.00)</option>
+	</select></td>
+	<td></td><td></td></tr>
      </table>
   </form>
  <br>
