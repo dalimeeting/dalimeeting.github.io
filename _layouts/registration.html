@@ -38,15 +38,35 @@ layout: page
   <td>Last name:</td><td><input type="text" size="30" name="customerLastname" required></td></tr>
   <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation" required></td>
   <td>Email:</td><td><input type="email" size="30" name="customerEmail" required></td></tr> <!---Card holders email address--->
-  <tr><td>Registration type:</td><td><select name="customerType">
+  <tr><td>Registration type:</td><td>
+    <select name="customerType" class="item_name" onload="initializeCart()" onchange="updateCart()">
     <option value="academia">Academia (7,500 ZAR)</option>
     <option value="industry">Industry (10,000 ZAR)</option>
   </select></td><td></td><td></td></tr>
   </table>
     <br>
-    <input name="submit" type="submit" value="PAY NOW"> <!---Submit button--->
+    <input name="submit" class="simpleCart_checkout" type="submit" value="PAY NOW"> <!---Submit button--->
     <input type="reset" value="RESET">
   </form>
+  
+  <!--- update item in the cart --->
+  <script>
+  function initializeCart() {
+    simpleCart.empty();
+    simpleCart.add({name:'Academia', price: 7500.00, quantity: 1});
+  }
+  function updateCart() {
+    var item = document.getElementById("customerType").value;
+    
+    simpleCart.empty();
+    if (item == "academia"){
+      simpleCart.add({name:'Academia', price: 7500.00, quantity: 1});
+    }else if(item == "industry"){
+      simpleCart.add({name:'Industry', price: 10000.00, quantity: 1});
+    }
+  }
+  </script>
+
   </p>
 
   <br>
