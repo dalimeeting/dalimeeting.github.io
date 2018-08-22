@@ -59,7 +59,7 @@
             function initializeCart() {
                simpleCart.empty();
                simpleCart.add({name:"Academia", price: 7500.00, quantity: 1});
-               document.getElementById("demo").innerHTML = "Your cart: Academia (7500.00 ZAR)";
+               document.getElementById("display").innerHTML = "Your cart: Academia (7500.00 ZAR)";
             }
     
             function updateCart() {
@@ -71,6 +71,6 @@
                }else if(item == "industry"){
                   simpleCart.add({name:"Industry", price: 10000.00, quantity: 1});
                }
-               document.getElementById("demo").innerHTML = "Your cart: " + item;
+               document.getElementById("display").innerHTML = "Your cart: " + item;
             }
         </script>
