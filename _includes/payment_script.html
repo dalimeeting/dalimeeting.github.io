@@ -42,22 +42,6 @@
                         m9 : customerEmail
 
                     }
-                },
-                beforeCheckout: function( data ){
-                    data.currency = "ZAR";
-                    data.cancel_url = data.cancel_return;
-                    data.return_url = data.return;
- 
-                    //data.customerFirstname = document.getElementByName("customerFirstname").value;
-                    //data.customerLastname = document.getElementByName("customerLastname").value;
-                    //data.customerAffiliation = document.getElementByName("customerAffiliation").value;
-                    //data.customerEmail = document.getElementByName("customerEmail").value;
-                                                        
-                    var sagepaynow_description = '';
-                    for (var key in data)
-                        if (key.match(/^item_name/))
-                        	sagepaynow_description += ' '+data[key];
-                    data.item_description = data.item_name = sagepaynow_description;
                 }
             });
         </script>
