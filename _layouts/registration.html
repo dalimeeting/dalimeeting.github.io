@@ -30,17 +30,19 @@ layout: page
   <strong>Online payment</strong>
   <br><br>
   To pay online, use the following form:
-
+  <br> 
   <form name="form" id="form" method="POST" action="https://paynow.sagepay.co.za/site/paynow.aspx" target=”_blank”> <!---this is where you will POST too in a NEW WINDOW--->
-  First name: <input type="text" name="customerFirstname">
-  Last name: <input type="text" name="customerLastname"><br>
-  Affiliation: <input type="text" name="customerAffiliation">
-  Email: <input type="text" name="customerEmail"><br> <!---Card holders email address--->
-  <select name="customerType">
+  <table>
+  <tr><td>First name:</td><td><input type="text" name="customerFirstname"></td>
+    <td>Last name:</td><td><input type="text" name="customerLastname"></td></tr>
+  <tr><td>Affiliation:</td><td><input type="text" name="customerAffiliation"></td>
+  <td>Email:</td><td><input type="text" name="customerEmail"></td></tr> <!---Card holders email address--->
+  <tr><td>Registration type:</td><td><select name="customerType">
     <option value="academia">Academia (7,500 ZAR)</option>
     <option value="industry">Industry (10,000 ZAR)</option>
-  </select>
-  <input name="submit" type="submit" value="PAY NOW"> <!---Submit button--->
+  </select></td><td></td><td></td></tr>
+  <tr><input name="submit" type="submit" value="PAY NOW"></tr> <!---Submit button--->
+  </table>
   </form>
   </p>
 
