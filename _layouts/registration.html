@@ -45,11 +45,9 @@ layout: page
      </table>
   </form>
  <br>
-     
-     <noscript><a href="no_javascript.html" class="simpleCart_checkout">Pay Now</a>;</noscript>
-     <script>document.write('<a href="#" class="simpleCart_checkout"><button>Pay Now</button></a>');</script>
-	  |
-     <button type="reset" form="form" class="simpleCart_empty" value="Reset">Reset</button>	
+     <button type="reset" form="form" class="simpleCart_empty" value="Reset">Reset</button>
+     <noscript><a href="no_javascript.html" class="simpleCart_checkout"><button>Pay Now</button></a>;</noscript>
+     <script>document.write('<a href="#" class="simpleCart_checkout"><button>Pay Now</button></a>');</script>	
   </p>
 
   <br>
@@ -58,16 +56,14 @@ layout: page
   <br><br><br>
   
   <script>
-  function updateCart( item ) {
-
-	alert(item.value)
-	simpleCart.empty();
+     function updateCart( item ) {
+        simpleCart.empty();
 	if (item.value == "academia"){
-		simpleCart.add({name:"Academia", price: 7500.00, quantity: 1});
-	}else if(item == "industry"){
-		simpleCart.add({name:"Industry", price: 10000.00, quantity: 1});
+	   simpleCart.add({name:"Academia", price: 7500.00, quantity: 1});
+	}else if(item.value == "industry"){
+	   simpleCart.add({name:"Industry", price: 10000.00, quantity: 1});
 	}
-  }
+     }
   </script>
 
 </article>
