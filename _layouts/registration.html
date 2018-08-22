@@ -37,7 +37,7 @@ layout: page
   <tr><td>First name:</td><td><input type="text" size="30" name="customerFirstname" required></td>
   <td>Last name:</td><td><input type="text" size="30" name="customerLastname" required></td></tr>
   <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation" required></td>
-  <td>Email:</td><td><input type="text" size="30" name="customerEmail" required></td></tr> <!---Card holders email address--->
+  <td>Email:</td><td><input type="email" size="30" name="customerEmail" required></td></tr> <!---Card holders email address--->
   <tr><td>Registration type:</td><td><select name="customerType">
     <option value="academia">Academia (7,500 ZAR)</option>
     <option value="industry">Industry (10,000 ZAR)</option>
@@ -45,6 +45,7 @@ layout: page
   </table>
     <br>
     <input name="submit" type="submit" value="PAY NOW"> <!---Submit button--->
+    <input type="reset" value="RESET">
   </form>
   </p>
 
