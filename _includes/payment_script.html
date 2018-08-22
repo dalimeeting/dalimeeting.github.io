@@ -11,7 +11,7 @@
             simpleCart({
                 checkout: {
                     // currency
-                    currency: "EUR",           
+                    currency: "ZAR",           
                             
                     type: "SendForm" ,
                     url: "https://paynow.sagepay.co.za/site/paynow.aspx" ,
@@ -26,7 +26,7 @@
                     cancel: "http://dalimeeting.org/decline.html" ,   
                    
                     extra_data: {
-                        currency_code: "EUR",
+                        currency_code: "ZAR",
                         m1 : serviceKey,
                         m2 : sageGUID,
                         p2 : (new Date).getTime(),
@@ -40,7 +40,7 @@
                     }
                 },
                 beforeCheckout: function( data ){
-                    data.currency = "EUR";
+                    data.currency = "ZAR";
                     data.cancel_url = data.cancel_return;
                     data.return_url = data.return;
                     var sagepaynow_description = '';
