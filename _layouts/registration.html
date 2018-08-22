@@ -29,11 +29,14 @@ layout: page
   <br><br>
   <strong>Online payment</strong>
   <br><br>
-  To pay online, use the following links:
-  <a href="javascript:;" onclick='simpleCart.empty(); simpleCart.add( {name:"academia" , price:7500 , quantity:1 }); simpleCart.checkout();' >academia (450€/7,500 ZAR)</a> |  
-  <a href="javascript:;" onclick='simpleCart.empty(); simpleCart.add( {name:"industry" , price:10000 , quantity:1 }); simpleCart.checkout();' >industry (600€/10,000 ZAR)</a>
-</div>
-  
+  To pay online, use the following form:
+
+  <form name="form" id="form" method="POST" action="https://paynow.sagepay.co.za/site/paynow.aspx" target=”_blank”> <!---this is where you will POST too in a NEW WINDOW--->
+  <input type="text" name="customerFirstname" value="">
+  <input type="text" name="customerLastname" value="">
+  <input type="text" name="customerEmail" value=""> <!---Card holders email address--->
+  <input name="submit" type="submit" value="PAY NOW"> <!---Submit button--->
+  </form>
   </p>
   
   <h3>Hotel Room</h3>
