@@ -60,6 +60,7 @@ layout: page
   <script>
   function updateCart( item ) {
 
+	alert(item.value)
 	simpleCart.empty();
 	if (item.value == "academia"){
 		simpleCart.add({name:"Academia", price: 7500.00, quantity: 1});
