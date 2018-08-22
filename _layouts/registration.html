@@ -70,15 +70,7 @@ layout: page
 	}else if(item.value == "industry"){
 	   simpleCart.add({name:"Industry", price: 10000.00, quantity: 1});
 	}
-     }
-	  
-     simpleCart.bind( 'beforeCheckout' , function( data ){
-	//data.customerFirstname = document.getElementById("customerFirstname").value;
-        //data.customerLastname = document.getElementById("customerLastname").value;
-        data.p3 = document.getElementById("customerAffiliation").value;
-        data.m9 = document.getElementById("customerEmail").value;
-	alert("You are redirected to a secure payment site.")
-     });	  
+     } 
   </script>
 
 </article>
