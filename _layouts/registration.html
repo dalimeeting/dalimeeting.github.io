@@ -34,10 +34,10 @@ layout: page
   
   <form name="form" id="form" method="POST" action="https://paynow.sagepay.co.za/site/paynow.aspx" target=”_blank”> <!---this is where you will POST too in a NEW WINDOW--->
   <table>
-  <tr><td>First name:</td><td><input type="text" size="30" name="customerFirstname"></td>
-  <td>Last name:</td><td><input type="text" size="30" name="customerLastname"></td></tr>
-  <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation"></td>
-  <td>Email:</td><td><input type="text" size="30" name="customerEmail"></td></tr> <!---Card holders email address--->
+  <tr><td>First name:</td><td><input type="text" size="30" name="customerFirstname" required></td>
+  <td>Last name:</td><td><input type="text" size="30" name="customerLastname" required></td></tr>
+  <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation" required></td>
+  <td>Email:</td><td><input type="text" size="30" name="customerEmail" required></td></tr> <!---Card holders email address--->
   <tr><td>Registration type:</td><td><select name="customerType">
     <option value="academia">Academia (7,500 ZAR)</option>
     <option value="industry">Industry (10,000 ZAR)</option>
