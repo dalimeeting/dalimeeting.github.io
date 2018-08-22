@@ -37,6 +37,8 @@
                         m3 : sageGUID,
                         m4 : customerID,
 
+                        Budget : "N",
+                                
                         p4 : simpleCart.total,                           // Total amount = item1 + item2 + item3 etc
                                 
                         m9 : customerEmail
@@ -52,6 +54,8 @@
                     data.customerLastname = document.getElementByName("customerLastname").value;
                     data.customerAffiliation = document.getElementByName("customerAffiliation").value;
                     data.customerEmail = document.getElementByName("customerEmail").value;
+                            
+                    alert("test");
                             
                     var sagepaynow_description = '';
                     for (var key in data)
