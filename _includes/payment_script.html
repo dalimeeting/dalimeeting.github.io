@@ -2,9 +2,11 @@
 <script type="text/javascript" src="{{ '/js/simpleCart.js' | prepend: site.baseurl }}"></script>
 <script type="text/javascript">
 
-            var customerName = "",
+            var customerFirstname = "",
+                customerLastname = "",
                 customerAffiliation = "",
                 customerEmail = "",
+                customerID = "",
                 sageGUID = "24ade73c-98cf-47b3-99be-cc7b867b3080",
                 serviceKey = "26fe2b1e-95f2-4029-83fc-85c487813205";
 
@@ -29,9 +31,9 @@
                         currency_code: "ZAR",
                         m1 : serviceKey,
                         m2 : sageGUID,
-                        p2 : customerName + "_" + customerEmail + "_" + (new Date).getTime(),
+                        p2 : customerFirstname + "_" + customerLastname + "_" + customerEmail + "_" + (new Date).getTime(),
 
-                        p3 : "DALI2019 registration fee: " + customerName,
+                        p3 : "DALI2019 registration fee: " + customerFirstname + " " + customerLastname,
                         m3 : sageGUID,
                         m4 : customerID,
 
