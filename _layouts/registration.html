@@ -39,9 +39,11 @@ layout: page
   <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation" required></td>
   <td>Email:</td><td><input type="email" size="30" name="customerEmail" required></td></tr> <!---Card holders email address--->
   <tr><td>Registration type:</td><td>
+    <div class="simpleCart_shelfItem">
     <select name="customerType" class="item_name" onload="initializeCart()" onchange="updateCart()">
     <option value="academia">Academia (7,500 ZAR)</option>
     <option value="industry">Industry (10,000 ZAR)</option>
+    </div>
   </select></td><td></td><td></td></tr>
   </table>
     <p id="demo"></p>
