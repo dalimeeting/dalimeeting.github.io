@@ -35,9 +35,9 @@ layout: page
   <form name="form" id="form" method="POST" action="https://paynow.sagepay.co.za/site/paynow.aspx" target=”_blank”> <!---this is where you will POST too in a NEW WINDOW--->
      <table>
      <tr><td>First name:</td><td><input type="text" size="30" name="customerFirstname" placeholder="First Name" required></td>
-     <td>Last name:</td><td><input type="text" size="30" name="customerLastname" required></td></tr>
-     <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation" required></td>
-     <td>Email:</td><td><input type="email" size="30" name="customerEmail" required></td></tr> <!---Card holders email address--->
+     <td>Last name:</td><td><input type="text" size="30" name="customerLastname" placeholder="Last Name" required></td></tr>
+     <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation" placeholder="Affiliation" required></td>
+     <td>Email:</td><td><input type="email" size="30" name="customerEmail" placeholder="Email" required></td></tr> <!---Card holders email address--->
      <tr><td>Registration type:</td><td>
        <select name="customerType" onload="initializeCart();" onchange="updateCart();">
        <option value="academia">Academia (7,500 ZAR)</option>
@@ -46,9 +46,10 @@ layout: page
      </table>
        <p id="display"></p>
        <br>
-       <input name="submit" type="submit" class="simpleCart_checkout" value="PAY NOW"> <!---Submit button--->
+       <input name="submit" type="submit" value="PAY NOW"> <!---Submit button--->
        <input type="reset" value="RESET">
   </form>
+  <a href="javascript:;" class="simpleCart_checkout"><span class="checkout_btn">Send Order</span></a>
   </p>
 
   <br>
