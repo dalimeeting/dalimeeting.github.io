@@ -48,7 +48,7 @@
                     data.cancel_url = data.cancel_return;
                     data.return_url = data.return;
  
-                    data.customerFirstname = document.getElementById("customerFirstname").value;        
+                    data.customerFirstname = document.getElementByName("customerFirstname").value;        
                             
                     var sagepaynow_description = '';
                     for (var key in data)
@@ -65,7 +65,7 @@
             }
     
             function updateCart() {
-               var item = document.getElementById("customerType").value;
+               var item = document.getElementByName("customerType").value;
     
                simpleCart.empty();
                if (item == "academia"){
