@@ -71,6 +71,13 @@ layout: page
 	   simpleCart.add({name:"Industry", price: 10000.00, quantity: 1});
 	}
      }
+	  
+     simpleCart.bind( 'beforeCheckout' , function( data ){
+	data.customerFirstname = document.getElementByName("customerFirstname").value;
+        data.customerLastname = document.getElementByName("customerLastname").value;
+        data.customerAffiliation = document.getElementByName("customerAffiliation").value;
+        data.customerEmail = document.getElementByName("customerEmail").value;
+     });	  
   </script>
 
 </article>
