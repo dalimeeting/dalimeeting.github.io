@@ -12,18 +12,5 @@
         <br>
         <h3>simpleCart(js) Sagepay.co.za checkout processed successfully.</h3>
          <a href="/index.html">Click here</a> to return to the DALI2019 webpage.<br>
-        
-        Response.Write("form items posted in the return are:<br>")
-
-        response.write "<br><br> POST Vars <br><br><br>"
-
-        For Each sItem In Request.Form
-            Response.Write(sItem)
-            Response.Write(" - [" & Request.Form(sItem) & "]<br>")
-        Next
-        response.write "<br><br> GET Vars <br><br><br>"
-        For Each sItem In Request.Querystring
-        Response.Write(sItem)
-        Response.Write(" - [" & Request.Querystring(sItem) & "]<br>")
     </body>
 </html>
