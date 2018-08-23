@@ -2,8 +2,7 @@
 <script type="text/javascript" src="{{ '/js/simpleCart.js' | prepend: site.baseurl }}"></script>
 <script type="text/javascript">
 
-            var customerID = "",
-                sageGUID = "24ade73c-98cf-47b3-99be-cc7b867b3080",
+            var sageGUID = "24ade73c-98cf-47b3-99be-cc7b867b3080",
                 serviceKey = "26fe2b1e-95f2-4029-83fc-85c487813205";
             
             simpleCart({
@@ -28,7 +27,6 @@
                         m1 : serviceKey,
                         m2 : sageGUID,
                         m3 : sageGUID,
-                        m4 : customerID,
                         p4 : simpleCart.total,                           // Total amount = item1 + item2 + item3 etc
                     }
                 },
@@ -36,11 +34,13 @@
                     var customerFirstname = document.getElementById("customerFirstname").value,
                         customerLastname = document.getElementById("customerLastname").value,
                         customerAffiliation = document.getElementById("customerAffiliation").value,
-                        customerEmail = document.getElementById("customerEmail").value;
+                        customerEmail = document.getElementById("customerEmail").value,
+                        customerType = document.getElementById("customerType").value;
                     
                     // update data
                     data.p2 = customerFirstname + "_" + customerLastname + "_" + customerEmail + "_" + (new Date).getTime();
                     data.p3 = "DALI2019 registration fee for " + customerFirstname + " " + customerLastname;
+                    data.m4 = "Registration type: " + customerType;
                     data.m9 = customerEmail;
                   
                     data.currency = "ZAR";
