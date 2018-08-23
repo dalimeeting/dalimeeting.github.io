@@ -17,7 +17,8 @@
                     method: "POST" ,
 
                     // URL to redirect browser to after successful checkout
-                    success: "http://dalimeeting.org/accept.html" ,
+                    //success: "http://dalimeeting.org/accept.html" ,
+                    success: "{{ '/accept.html' | prepend: site.baseurl }}" ,
                             
                     // URL to redirect browser to after checkout was cancelled by buyer
                     cancel: "http://dalimeeting.org/decline.html" ,   
