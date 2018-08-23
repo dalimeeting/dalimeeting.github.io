@@ -40,6 +40,7 @@ layout: page
         <td>Email:</td><td><input type="email" size="30" name="customerEmail" id="customerEmail" placeholder="Email" required></td></tr> <!---Card holders email address--->
         <tr><td>Registration type:</td>	
 	<td><select name="customerType" onchange="updateCart(this)">
+		<option value="" selected disabled hidden>Choose your registration</option>
   		<option value="academia"> Academia (R7500.00)</option>
   		<option value="industry">Industry (R10000.00)</option>
 	</select></td>
