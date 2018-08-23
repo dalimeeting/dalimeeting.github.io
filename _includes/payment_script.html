@@ -26,10 +26,9 @@
                         currency_code: "ZAR",
                         m1 : serviceKey,
                         m2 : sageGUID,
-                        m3 : sageGUID,
                         p4 : simpleCart.total, 
                         notify_url: "http://dalimeeting.org/notify.html",
-                        
+                                
                         customer_name : "",
                         affiliation : "",
                     }
@@ -44,8 +43,9 @@
                     data.customer_name = customerFirstname + " " + customerLastname;
                     data.affiliation = document.getElementById("customerAffiliation").value;
                     data.p2 = customerFirstname + "_" + customerLastname + "_" + customerEmail + "_" + (new Date).getTime();
-                    data.p3 = "DALI2019 registration fee";
+                    data.p3 = "DALI2019 registration fee (" + customerType + ")";
                     data.m4 = "Registration type: " + customerType;
+                    data.m5 = data.affiliation;
                     data.m9 = customerEmail;
                   
                     data.currency = "ZAR";
