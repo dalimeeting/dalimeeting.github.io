@@ -12,5 +12,12 @@
         <br>
         <h3>simpleCart(js) Sagepay.co.za checkout processed successfully.</h3>
          <a href="/index.html">Click here</a> to return to the DALI2019 webpage.<br>
+        
+        <?php
+           $say = htmlspecialchars($_POST['TransactionAccepted']);
+           $to  = htmlspecialchars($_POST['RequestTrace']);
+           echo  $say, ' ', $to;
+        ?>
+        
         </body>
 </html>
