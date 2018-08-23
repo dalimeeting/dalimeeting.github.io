@@ -50,10 +50,6 @@ layout: page
  <br>
      <button type="reset" form="form" class="simpleCart_empty" value="Reset">RESET</button>
      <input type="submit" form="form" name="submit" value="PAY NOW">
-     <!---	 
-     <noscript><a href="no_javascript.html" target="_blank" class="simpleCart_checkout"><button>Pay Now</button></a>;</noscript>
-     <script>document.write('<a href="#" target="_blank" class="simpleCart_checkout" onclick="form.submit();"><button>Pay Now</button></a>');</script>	
-     --->
   </p>
 
   <br>
@@ -62,6 +58,7 @@ layout: page
   <br><br><br>
   
   <script>  
+     // update the current cart according to the chosen registration
      function updateCart( item ) {
         simpleCart.empty();
 	if (item.value == "academia"){
@@ -70,8 +67,12 @@ layout: page
 	   simpleCart.add({name:"Industry", price: 10000.00, quantity: 1});
 	}
      } 
+     // checkout the cart
      function checkout(){
-     	simpleCart.checkout();
+	if( simpleCart.items().length > 0 )
+     		simpleCart.checkout();
+	else
+		alert("Your shopping cart is empty. Please choose the registration type.");
      }
   </script>
 
