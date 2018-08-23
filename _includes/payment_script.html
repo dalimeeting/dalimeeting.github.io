@@ -43,6 +43,9 @@
                     data.p3 = "DALI2019 registration fee for " + customerFirstname + " " + customerLastname;
                     data.m9 = customerEmail;
                   
+                    data.currency = "ZAR";
+                    data.cancel_url = data.cancel_return;
+                    data.return_url = data.return;
                     var sagepaynow_description = '';
                     for (var key in data)
                         if (key.match(/^item_name/))
@@ -53,5 +56,3 @@
                 }
             });
         </script>
-
-            
