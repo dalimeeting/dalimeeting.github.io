@@ -39,7 +39,7 @@ layout: page
         <tr><td>Affiliation:</td><td><input type="text" size="30" name="customerAffiliation" id="customerAffiliation" placeholder="Affiliation" required></td>
         <td>Email:</td><td><input type="email" size="30" name="customerEmail" id="customerEmail" placeholder="Email" required></td></tr> <!---Card holders email address--->
         <tr><td>Registration:</td>	
-	<td><select name="customerType" onchange="updateCart(this)" required>
+	<td><select name="customerType" id="customerType" onchange="updateCart(this)" required>
 		<option value="" selected disabled hidden>Choose your registration</option>
   		<option value="academia">Academia (7,500.00 ZAR)</option>
   		<option value="industry">Industry (10,000.00 ZAR)</option>
