@@ -4,7 +4,7 @@ layout: multitrack
 abstract: "TBA"
 organizer_url: 
 categories:
-- dali2018
+- dali2019
 organizers:
 - given: Raia   
   family: Hadsell
