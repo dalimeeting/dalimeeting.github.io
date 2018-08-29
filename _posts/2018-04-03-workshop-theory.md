@@ -4,7 +4,7 @@ layout: multitrack
 abstract: ""
 organizer_url: 
 categories:
-- dali2018
+- dali2019
 organizers:
 - given: Samory  
   family: Kpotufe
