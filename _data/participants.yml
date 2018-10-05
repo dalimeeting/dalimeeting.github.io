@@ -5,29 +5,29 @@
 - family: Lacoste-Julien
   given: Simon
 - family: Szabo
-  given: Zoltan	
+  given: Zoltan
 - family: Mohamed
   given: Shakir
 - family: Deisenroth
   given: Marc
-- family: Yom-Tov 
-  given: Elad	
+- family: Yom-Tov
+  given: Elad
 - family: Nowozin
   given: Sebastian
 - family: Kohli
-  given: Pushmeet	
-- family: Naumann 
-  given: Tristan	
+  given: Pushmeet
+- family: Naumann
+  given: Tristan
 - family: Shalit
-  given: Uri
+  given: Uri 
 - family: Blaschko
-  given: Matthew
+  given: Matthew 
 - family: Koyejo
   given: Sanmi
 - family: Park
   given: Mijung
-- family: Ghassemi 
-  given: Marzyeh	
+- family: Ghassemi
+  given: Marzyeh
 - family: Hyland
   given: Stephanie
 - family: Wilson
@@ -43,13 +43,13 @@
 - family: Thieme
   given: Anja
 - family: Schölkopf
-  given: Bernhard
+  given: Bernhard 
 - family: Lawrence
-  given: Neil
+  given: Neil 
 - family: Muandet
   given: Krikamol
 - family: Gretton
-  given: Arthur
+  given: Arthur 
 - family: Mackey
   given: Lester
 - family: Listgarten
@@ -60,3 +60,11 @@
   given: McElory
 - family: Herbst
   given: Ben 
+- family: Marivate
+  given: Vukosi
+- family: Dvijotham
+  given: Krishnamurthy 
+- family: Forde
+  given: Jessica
+- family: Huszar
+  given: Ferenc
