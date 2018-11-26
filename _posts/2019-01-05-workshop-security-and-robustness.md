@@ -20,10 +20,11 @@ organizers:
   institute: Turing Institute
 
 room: "TBA"
-show_abstracts: true
+show_abstracts: false
 
 talks:
-- title: "TBD"
+### Session 1: Robustness of neural networks
+- title: "Why don't we have a provably robust ImageNet classifier yet?"
   author: 
   - family: Kolter
     given: Zico
@@ -49,7 +50,7 @@ talks:
     url: http://moustaphacisse.com/
     institute: Google Brain
   start: "11:20"
-  end: "12:00" 
+  end: "12:00"   
 - title: "Panel Discussion on Challenges and Opportunities in Secure ML"
   author:
   - given: Pushmeet
@@ -61,6 +62,7 @@ talks:
 - title: Lunch
   start: "1:00"
   end: "2:00"
+### Session 2: Robustness in autonomous systems and robotics
 - title: "Structured representations for robust behavior in robots"
   author:
   - given: Subramanian
@@ -80,6 +82,7 @@ talks:
 - title: Coffee
   start: "3:20"
   end: "3:50"  
+### Session 3: Privacy in machine learning
 - title: "Proofs, Algorithms, and Tools for Private Data Analysis"
   author:
   - given: Adria
