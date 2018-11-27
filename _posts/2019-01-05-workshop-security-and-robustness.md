@@ -91,7 +91,7 @@ talks:
     institute: Turing Institute
   start: "3:50"
   end: "4:30" 
-- title: "Proofs, Algorithms, and Tools for Private Data Analysis"
+- title: "Toward Practical Tools for Research in Privacy-Preserving Deep Learning"
   author:
   - given: Andrew
     family:  Trask
