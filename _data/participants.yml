@@ -1,3 +1,11 @@
+- family: Braun
+  given: Julia
+- family: Mackey
+  given: Lester
+- family: Listgarten
+  given: Jennifer
+- family: wa Maina
+  given: Ciira 
 - family: Hadsell
   given: Raia
 - family: Belgrave
@@ -50,12 +58,6 @@
   given: Krikamol
 - family: Gretton
   given: Arthur 
-- family: Mackey
-  given: Lester
-- family: Listgarten
-  given: Jennifer
-- family: wa Maina
-  given: Ciira 
 - family: Hoffmann
   given: McElory
 - family: Herbst
@@ -96,3 +98,23 @@
   given: Anima
 - family: Kapoor
   given: Ashish
+- family: Abernethy
+  given: Jacob
+- family: Sabato
+  given: Sivan
+- family: Bousquet
+  given: Olivier
+- family: Tolstikhin
+  given: Ilya 
+- family: Trask
+  given: Andrew
+- family: Muecke
+  given: Nicole
+- family: Recht
+  given: Benjamin
+- family: Gu
+  given: Shane
+- family: Agrawal
+  given: Pulkit
+- family: Calandra
+  given: Roberto
