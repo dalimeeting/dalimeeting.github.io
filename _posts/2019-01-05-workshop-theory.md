@@ -37,7 +37,7 @@ talks:
   youtube: 
   start: "08:45"
   end: "09:30"
-  abstract: "{% raw %} $x=1$ {% endraw %}"
+  abstract: "$x=1$"
 - title: "Principles of Active Learning"
   author:
   - given: Steve
@@ -128,6 +128,6 @@ In this talk, I will examine the relative merits of model-based and model-free m
   youtube: 
   start: "16:30" 
   end: "17:15"
-  abstract: "We study estimation of (semi-)inner products between two nonparametric probability distributions, given IID samples from each distribution. These products include relatively well-studied classical L^2 and Sobolev inner products, as well as those induced by translation-invariant reproducing kernels, for which we believe our results are the first. We first propose estimators for these quantities, and the induced (semi)norms and (pseudo)metrics. We then prove non-asymptotic upper bounds on their mean squared error, in terms of weights both of the inner product and of the two distributions, in the Fourier basis. Finally, we prove minimax lower bounds that imply rate-optimality of the proposed estimators over Fourier ellipsoids."
+  abstract: "We study estimation of (semi-)inner products between two nonparametric probability distributions, given IID samples from each distribution. These products include relatively well-studied classical $L^2$ and Sobolev inner products, as well as those induced by translation-invariant reproducing kernels, for which we believe our results are the first. We first propose estimators for these quantities, and the induced (semi)norms and (pseudo)metrics. We then prove non-asymptotic upper bounds on their mean squared error, in terms of weights both of the inner product and of the two distributions, in the Fourier basis. Finally, we prove minimax lower bounds that imply rate-optimality of the proposed estimators over Fourier ellipsoids."
 
 ---
