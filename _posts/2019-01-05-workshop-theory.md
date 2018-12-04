@@ -126,7 +126,7 @@ In this talk, I will examine the relative merits of model-based and model-free m
     url: http://personal.psu.edu/bks18/
     institute: Pennsylvania State University
   youtube: 
-  start: "16:30"
+  start: "16:30" 
   end: "17:15"
   abstract: "We study estimation of (semi-)inner products between two nonparametric probability distributions, given IID samples from each distribution. These products include relatively well-studied classical L^2 and Sobolev inner products, as well as those induced by translation-invariant reproducing kernels, for which we believe our results are the first. We first propose estimators for these quantities, and the induced (semi)norms and (pseudo)metrics. We then prove non-asymptotic upper bounds on their mean squared error, in terms of weights both of the inner product and of the two distributions, in the Fourier basis. Finally, we prove minimax lower bounds that imply rate-optimality of the proposed estimators over Fourier ellipsoids."
 ---
