@@ -19,13 +19,13 @@ room: "TBA"
 show_abstracts: true
 talks:
 - title: "Intro"
-  author: ""
-  - given: ""
-    family: ""
-    url: ""
-    institute: ""
+  author: 
+  - given: 
+    family: 
+    url: 
+    institute: 
   youtube: 
-  abstract: ""
+  abstract: 
   start: "08:30"
   end: "08:45" 
 - title: "Adaptivity for Regularized Kernel Methods by Lepskii’s Principle"
@@ -37,7 +37,7 @@ talks:
   youtube: 
   start: "08:45"
   end: "09:30"
-  abstract: "We address the problem of adaptivity in the framework of reproducing kernel Hilbert space (RKHS) regression. More precisely, we analyze estimators arising from a linear regularization scheme $\{g_{\lambda}\}_{\lambda}$. In practical applications, an important task is to choose the regularization parameter $\lambda$ appropriately, i.e. based only on the given data at hand and independently on unknown structural assumptions on the regression function. An attractive approach avoiding data-splitting is the Lepskii Principle (LP), also known as the Balancing Principle is this setting. We show that a modified parameter choice based on (LP) is minimax optimal adaptive, up to $\log\log(n)$. A convenient result is the fact that balancing in $L^2(\nu)$ norm, which is easiest, automatically gives optimal balancing in all stronger norms, interpolating between $L^2(\nu)$ and the RKHS. An analogous result is open for other classical approaches to data dependent choices of the regularization parameter, e.g. for Hold-Out."
+  abstract: ""
 - title: "Principles of Active Learning"
   author:
   - given: Steve
