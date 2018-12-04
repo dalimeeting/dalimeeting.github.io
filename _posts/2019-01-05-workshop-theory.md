@@ -37,7 +37,7 @@ talks:
   youtube: 
   start: "08:45"
   end: "09:30"
-  abstract: ""
+  abstract: "{% raw %} $x=1$ {% endraw %}"
 - title: "Principles of Active Learning"
   author:
   - given: Steve
