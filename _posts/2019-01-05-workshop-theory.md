@@ -2,7 +2,7 @@
 title:  "Machine Learning Theory"
 layout: multitrack
 abstract: "TBA" 
-organizer_url: 
+organizer_url:
 categories:
 - dali2019
 organizers:
@@ -19,13 +19,13 @@ room: "TBA"
 show_abstracts: true
 talks:
 - title: "Intro"
-  author:
-  - given: 
-    family: 
-    url:
-    institute: 
+  author: ""
+  - given: ""
+    family: ""
+    url: ""
+    institute: ""
   youtube: 
-  abstract: 
+  abstract: ""
   start: "08:30"
   end: "08:45" 
 - title: "Adaptivity for Regularized Kernel Methods by Lepskii’s Principle"
