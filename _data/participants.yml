@@ -104,8 +104,6 @@
   given: Sivan
 - family: Bousquet
   given: Olivier
-- family: Tolstikhin
-  given: Ilya 
 - family: Trask
   given: Andrew
 - family: Muecke
@@ -118,3 +116,9 @@
   given: Pulkit
 - family: Calandra
   given: Roberto
+- family: Schuld
+  given: Maria 
+- family: Rosaco
+  given: Lorenzo
+- family: Meier
+  given: Franziska
