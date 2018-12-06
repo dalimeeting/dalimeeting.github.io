@@ -1,5 +1,5 @@
 ---
-title:  "Fairness in Machine Learning"
+title:  "Fairness and Transparency in Machine Learning"
 layout: multitrack
 abstract: ""
 organizer_url:
@@ -9,11 +9,11 @@ organizers:
 - given: Moustapha 
   family: Cisse
   url: 
-  institute: 
+  institute: Google AI
 - given: Vukosi 
   family: Marivate
-  url: 
-  institute:  
+  url: http://www.vima.co.za
+  institute: University of Pretoria/CSIR
 room: "TBA"
 show_abstracts: false
 
