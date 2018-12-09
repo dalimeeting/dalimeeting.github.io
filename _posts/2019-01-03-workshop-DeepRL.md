@@ -59,10 +59,10 @@ talks:
   end: "12:00" 
 - title: ""
   author: 
-  - given: Roberto
-    family: Calandra
-    url: https://www.robertocalandra.com/about/ 
-    institute: Facebook
+  - given: Tuomas
+    family: Haarnoja
+    url: https://people.eecs.berkeley.edu/~haarnoja/ 
+    institute: UC Berkeley
   start: "12:00" 
   end: "12:30" 
 - title: "Discussion"
@@ -71,10 +71,10 @@ talks:
 - title: "Lunch Break"
 - title: ""
   author: 
-  - given: Wojciech 
-    family: Zaremba
-    url: http://wojzaremba.com/ 
-    institute: OpenAI
+  - given: Roberto
+    family: Calandra
+    url: https://www.robertocalandra.com/about/ 
+    institute: Facebook
   start: "17:00" 
   end: "17:30" 
 - title: "" 
