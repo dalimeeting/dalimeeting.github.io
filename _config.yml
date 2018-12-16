@@ -41,7 +41,7 @@ conference:
   assistants:
   - name: Diana Rebmann 
     url: "https://ei.is.tuebingen.mpg.de/person/drebmann"
-    institute: MPI for Intelligent Systems (Tübingen)
+    institute: DeepMind
   steering:
   - name: Zoubin Ghaharamani
     url: "http://mlg.eng.cam.ac.uk/zoubin/"
