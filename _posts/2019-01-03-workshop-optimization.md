@@ -24,16 +24,16 @@ talks:
   end: "10:00" 
 - title: "The Robustness of Training on the Test Set"
   author:
-  - given: Recht
-    family: Benjamin
+  - given: Benjamin
+    family: Recht
     url: https://people.eecs.berkeley.edu/~brecht/
     institute: UC Berkeley
   start: "10:00"
   end: "10:30" 
 - title: "SignSGD is communication efficient and byzantine tolerant"
   author:
-  - given: Anankumar
-    family:  Anima
+  - given: Anima
+    family: Anankumar
     url: http://tensorlab.cms.caltech.edu/users/anima/
     institute: Caltech
   start: "10:30"
@@ -44,16 +44,16 @@ talks:
 
 - title: "Function norms and regularization in deep networks"
   author:
-  - given: Blaschko
-    family: Matthew
+  - given: Matthew
+    family: Blaschko
     url: http://homes.esat.kuleuven.be/~mblaschk/
     institute: KU Leuven
   start: "11:30"
   end: "12:00" 
 - title: "Sufficient decrease is all you need"
   author:
-  - given: Pedregosa
-    family:  Fabian
+  - given: Fabian
+    family: Pedregosa 
     url: http://fa.bianp.net/
     institute: Google Brain Montreal
   start: "12:00"
