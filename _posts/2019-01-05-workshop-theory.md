@@ -15,7 +15,7 @@ organizers:
   url: http://tolstikhin.org
   institute: Google
 
-room: "TBA"
+room: "Grey & Knysna Suite"
 show_abstracts: true
 talks:
 - title: "Intro"
