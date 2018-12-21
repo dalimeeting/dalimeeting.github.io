@@ -19,7 +19,7 @@ organizers:
   url: http://mlg.eng.cam.ac.uk/adrian/
   institute: Turing Institute
 
-room: "TBA"
+room: "Kingfisher Suite"
 show_abstracts: false
 
 talks:
