@@ -14,7 +14,7 @@ organizers:
   family: Marivate
   url: http://www.vima.co.za
   institute: University of Pretoria/CSIR
-room: "TBA"
+room: "Kingfisher Suite"
 show_abstracts: false
 
 talks:
