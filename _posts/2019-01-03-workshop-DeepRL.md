@@ -21,7 +21,7 @@ organizers:
   family: Haarnoja
   url: https://people.eecs.berkeley.edu/~haarnoja/ 
   institute: UC Berkeley
-room: "TBA"
+room: "Owl & Eagle Suite"
 show_abstracts: false
 talks:
 - title: ""
