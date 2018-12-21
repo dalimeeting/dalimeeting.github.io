@@ -10,7 +10,7 @@ organizers:
   family:  Belgrave 
   url: https://www.microsoft.com/en-us/research/people/dabelgra/
   institute: Microsoft Research
-room: "TBA"
+room: "Owl & Eagle Suite"
 show_abstracts: true
 talks:
 - title: "Intro"
