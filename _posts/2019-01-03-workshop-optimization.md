@@ -10,7 +10,7 @@ organizers:
   family:  Lacoste-Julien
   url: http://www.iro.umontreal.ca/~slacoste/
   institute: U of Montreal
-room: "TBA"
+room: "Grey & Knysna Suite"
 show_abstracts: false
 
 talks:
