@@ -1,5 +1,7 @@
 - family: Braun
   given: Julia
+- family: de Wet
+  given: Lizette
 - family: Mackey
   given: Lester
 - family: Listgarten
@@ -44,8 +46,6 @@
   given: Guido
 - family: Tolstikhin
   given: Ilya 
-- family: Gorur
-  given: Dilan
 - family: Große-Wentrup
   given: Moritz
 - family: Thieme
@@ -102,8 +102,6 @@
   given: Jacob
 - family: Sabato
   given: Sivan
-- family: Bousquet
-  given: Olivier
 - family: Trask
   given: Andrew
 - family: Muecke
@@ -122,3 +120,17 @@
   given: Lorenzo
 - family: Meier
   given: Franziska
+- family: Cisse
+  given: Moustapha 
+- family: Saria
+  given: Suchi
+- family: Pedregosa
+  given: Fabian
+- family: Peters
+  given: Jan
+- family: Hanneke
+  given: Steve
+- family: Liang
+  given: Tengyuan
+- family: Kpotufe
+  given: Samory
