@@ -31,33 +31,33 @@ talks:
     url: http://zicokolter.com
     institute: CMU
   start: "09:30"
-  end: "10:10" 
+  end: "10:15" 
 - title: "Scalable Training and Verification of Robust Neural Networks"
   author:
   - given: Timon
     family:  Gehr
     url: https://eth-sri.github.io/people/timon
     institute: ETH
-  start: "10:10"
-  end: "10:50" 
+  start: "10:15"
+  end: "11:00" 
 - title: Coffee
   start: "10:50"
-  end: "11:20"
+  end: "11:30"
 - title: "TBD"
   author:
   - given: Moustapha
     family:  Cisse
     url: http://moustaphacisse.com/
     institute: Google Brain
-  start: "11:20"
-  end: "12:00"   
+  start: "11:30"
+  end: "12:10"   
 - title: "Panel Discussion on Challenges and Opportunities in Secure ML"
   author:
   - given: Pushmeet
     family:  Kohli
     url: https://sites.google.com/site/pushmeet/
     institute: DeepMind
-  start: "12:00"
+  start: "12:10"
   end: "1:00" 
 - title: Lunch
   start: "1:00"
@@ -79,9 +79,6 @@ talks:
     institute: Microsoft Research
   start: "2:40"
   end: "3:20" 
-- title: Coffee
-  start: "3:20"
-  end: "3:50"  
 ### Session 3: Privacy in machine learning
 - title: "Proofs, Algorithms, and Tools for Private Data Analysis"
   author:
@@ -89,15 +86,15 @@ talks:
     family: Gascon
     url: https://www.turing.ac.uk/people/researchers/adria-gascon
     institute: Turing Institute
-  start: "3:50"
-  end: "4:30" 
+  start: "3:20"
+  end: "4:00" 
 - title: "Toward Practical Tools for Research in Privacy-Preserving Deep Learning"
   author:
   - given: Andrew
     family:  Trask
     url: https://iamtrask.github.io/
     institute: University of Oxford, DeepMind
-  start: "4:30"
-  end: "5:10" 
+  start: "4:00"
+  end: "4:40" 
 speakers:
 ---
