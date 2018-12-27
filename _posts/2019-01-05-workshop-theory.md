@@ -60,12 +60,13 @@ to data dependent choices of the regularization parameter, e.g. for Hold-Out."
   abstract: "In many machine learning applications, the effort required to manually label the massive data sets necessary to train machine learning systems to a high accuracy presents a major hurdle. One promising approach to reducing the required training sample size is active learning, a technique in which the learning algorithm participates in interactively selecting examples to be labeled for training, in order to focus the human expert's efforts on labeling only informative and non-redundant examples. Active learning holds great potential for dramatically reducing the number of labeled training examples needed for learning. However, despite decades of research on the subject, the most popular active learning algorithms in the applications literature are known to be unreliable and sensitive to violations of modeling assumptions, which has held back the widespread applicability of active learning in practice. At the root of this problem, it seems we have lacked a complete understanding of the basic principles that should underlie the design of good active learning algorithms. Such a situation calls for a careful theoretical approach to the problem.\
 
 In this talk, I will articulate essential principles for the design of effective active learning algorithms, distilled from over a decade of research on the theory of active learning. Moreover, I will describe a general active learning strategy based on these principles, which is provably near-optimal, in the sense that the number of labeled training examples sufficient to achieve a given accuracy guarantee cannot be significantly reduced by any other active learning algorithm. In the process, I will discuss the fundamental trade-offs and general complexity measures intrinsic to the active learning setting, and present formulas expressing the minimum number of labeled examples sufficient and necessary for an optimal active learning algorithm to achieve a given accuracy guarantee."
-- title: "TBA"
+
+- title: "Learning with Regularization and Adaptive Projections"
   author:
-  - given: Olivier
-    family: Bousquet
-    url: https://ai.google/research/people/OlivierBousquet
-    institute: Google
+  - given: Lorenzo
+    family: Rosasco
+    url: https://web.mit.edu/lrosasco/www/
+    institute: University of Genova and MIT
   youtube: 
   start: "10:15"
   end: "11:00"
