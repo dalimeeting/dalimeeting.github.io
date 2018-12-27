@@ -23,6 +23,15 @@ room: "Kingfisher Suite"
 show_abstracts: false
 
 talks:
+- title: "Opening remarks"
+  author: 
+  - family: Kohli
+    given: Pushmeet
+    url: http://zicokolter.com
+    institute: DeepMind
+  start: "09:30"
+  end: "09:45" 
+
 ### Session 1: Robustness of neural networks
 - title: "Why don't we have a provably robust ImageNet classifier yet?"
   author: 
@@ -30,19 +39,20 @@ talks:
     given: Zico
     url: http://zicokolter.com
     institute: CMU
-  start: "09:30"
-  end: "10:15" 
+  start: "09:45"
+  end: "10:25" 
 - title: "Scalable Training and Verification of Robust Neural Networks"
   author:
   - given: Timon
     family:  Gehr
     url: https://eth-sri.github.io/people/timon
     institute: ETH
-  start: "10:15"
+  start: "10:25"
   end: "11:00" 
 - title: Coffee
-  start: "10:50"
+  start: "11:00"
   end: "11:30"
+### Session 2: Security & Privacy in machine learning
 - title: "TBD"
   author:
   - given: Moustapha
@@ -50,19 +60,31 @@ talks:
     url: http://moustaphacisse.com/
     institute: Google Brain
   start: "11:30"
-  end: "12:10"   
-- title: "Panel Discussion on Challenges and Opportunities in Secure ML"
+  end: "12:00"   
+
+- title: "Proofs, Algorithms, and Tools for Private Data Analysis"
   author:
-  - given: Pushmeet
-    family:  Kohli
-    url: https://sites.google.com/site/pushmeet/
-    institute: DeepMind
-  start: "12:10"
+  - given: Adria
+    family: Gascon
+    url: https://www.turing.ac.uk/people/researchers/adria-gascon
+    institute: Turing Institute
+  start: "12:00"
+  end: "12:30" 
+- title: "Toward Practical Tools for Research in Privacy-Preserving Deep Learning"
+  author:
+  - given: Andrew
+    family:  Trask
+    url: https://iamtrask.github.io/
+    institute: University of Oxford, DeepMind
+  start: "12:30"
   end: "1:00" 
+speakers:
+---
 - title: Lunch
   start: "1:00"
   end: "2:00"
-### Session 2: Robustness in autonomous systems and robotics
+  
+### Session 3: Robustness in autonomous systems and robotics
 - title: "Structured representations for robust behavior in robots"
   author:
   - given: Subramanian
@@ -79,22 +101,12 @@ talks:
     institute: Microsoft Research
   start: "2:40"
   end: "3:20" 
-### Session 3: Privacy in machine learning
-- title: "Proofs, Algorithms, and Tools for Private Data Analysis"
+  - title: "Panel Discussion on Challenges and Opportunities in Secure ML"
   author:
-  - given: Adria
-    family: Gascon
-    url: https://www.turing.ac.uk/people/researchers/adria-gascon
-    institute: Turing Institute
+  - given: Pushmeet
+    family:  Kohli
+    url: https://sites.google.com/site/pushmeet/
+    institute: DeepMind
   start: "3:20"
   end: "4:00" 
-- title: "Toward Practical Tools for Research in Privacy-Preserving Deep Learning"
-  author:
-  - given: Andrew
-    family:  Trask
-    url: https://iamtrask.github.io/
-    institute: University of Oxford, DeepMind
-  start: "4:00"
-  end: "4:40" 
-speakers:
----
+
