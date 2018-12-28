@@ -79,11 +79,9 @@ talks:
   start: "12:30"
   end: "1:00" 
 speakers:
----
 - title: Lunch
   start: "1:00"
   end: "2:00"
-  
 ### Session 3: Robustness in autonomous systems and robotics
 - title: "Structured representations for robust behavior in robots"
   author:
