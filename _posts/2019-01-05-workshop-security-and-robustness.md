@@ -78,7 +78,6 @@ talks:
     institute: University of Oxford, DeepMind
   start: "12:30"
   end: "1:00" 
-speakers:
 - title: Lunch
   start: "1:00"
   end: "2:00"
