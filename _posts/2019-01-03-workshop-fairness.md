@@ -37,7 +37,7 @@ talks:
 - title: Coffee
   start: "11:00"
   end: "11:30"
-- title: "The possibility of fair, accountable and transparent machine learning practices from a philosophical perspective"
+- title: "Responsible Belief as a Moral Obligation and the Quest for Fair and Transparent Machine Learning"
   author:
   - given: Emma
     family:  Ruttkamp-Bloem
