@@ -40,6 +40,7 @@ talks:
     institute: CMU
   start: "09:45"
   end: "10:25" 
+  
 - title: "Scalable Training and Verification of Robust Neural Networks"
   author:
   - given: Timon
@@ -69,6 +70,7 @@ talks:
     institute: Turing Institute
   start: "12:00"
   end: "12:30" 
+  
 - title: "Toward Practical Tools for Research in Privacy-Preserving Deep Learning"
   author:
   - given: Andrew
@@ -89,6 +91,7 @@ talks:
     institute: University of Edinburgh
   start: "2:00"
   end: "2:40" 
+  
 - title: "Role of Simulation in Safe Decision Making under Uncertainty"
   author:
   - given: Ashish
@@ -97,7 +100,8 @@ talks:
     institute: Microsoft Research
   start: "2:40"
   end: "3:20" 
-  - title: "Panel Discussion on Challenges and Opportunities in Secure ML"
+  
+- title: "Panel Discussion on Challenges and Opportunities in Secure ML"
   author:
   - given: Pushmeet
     family:  Kohli
