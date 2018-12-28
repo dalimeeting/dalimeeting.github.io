@@ -32,7 +32,6 @@ talks:
   start: "09:30"
   end: "09:45" 
 
-### Session 1: Robustness of neural networks
 - title: "Why don't we have a provably robust ImageNet classifier yet?"
   author: 
   - family: Kolter
@@ -52,7 +51,7 @@ talks:
 - title: Coffee
   start: "11:00"
   end: "11:30"
-### Session 2: Security & Privacy in machine learning
+
 - title: "TBD"
   author:
   - given: Moustapha
@@ -81,7 +80,7 @@ talks:
 - title: Lunch
   start: "1:00"
   end: "2:00"
-### Session 3: Robustness in autonomous systems and robotics
+
 - title: "Structured representations for robust behavior in robots"
   author:
   - given: Subramanian
