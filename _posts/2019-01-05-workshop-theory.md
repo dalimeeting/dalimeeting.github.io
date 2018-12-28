@@ -1,7 +1,7 @@
 ---
 title:  "Machine Learning Theory"
 layout: multitrack
-abstract: "TBA" 
+abstract: "This year, the workshop brings together researchers from diverse theoretical areas of data sciences, e.g., Machine Learning Theory, Mathematical Statistics, and related fields. We have an exciting list of scheduled talks with plenty of breaks in between for one on one discussions." 
 organizer_url:
 categories:
 - dali2019
