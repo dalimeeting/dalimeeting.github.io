@@ -69,9 +69,9 @@ talks:
   youtube: 
   start: "11:30"
   end: "12:00"
-- title: "Synthesizing fMRI using generative adversarial networks"
+- title: "Synthesizing medical images using generative adversarial networks"
   author:
-  - given: Samni
+  - given: Sanmi
     family: Koyejo
     url: http://sanmi.cs.illinois.edu/
     institute: University of Illinois
