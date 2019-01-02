@@ -24,32 +24,31 @@ organizers:
 room: "Owl & Eagle Suite"
 show_abstracts: false
 talks:
-- title: ""
+- title: "Opening Remarks"
   author: 
-  - given: Jan
-    family: Peters  
-    url: http://www.jan-peters.net/ 
-    institute: TU Darmstadt 
-  start: "9:30" 
-  end: "10:00" 
-- title: "" 
+  - given: Nicolas
+    family: Heess
+    institute: Google DeepMind
+  start: "9:30"
+  end: "10:00"
+- title: "Programmatically Structured Representations for Robust Autonomy in Robots" 
   author: 
   - given: Subramanian
     family: Ramamoorthy
     url: http://homepages.inf.ed.ac.uk/sramamoo/ 
     institute: University of Edinburgh 
-  start: "10:00" 
-  end: "10:30" 
-- title: ""
+  start: "10:00"
+  end: "10:30"
+- title: "Continuously Learning Robots"
   author: 
   - given: Franzi 
     family: Meier
     url: http://www-clmc.usc.edu/Main/FranziskaMeier 
     institute: Max-Planck Institute 
-  start: "10:30" 
-  end: "11:00" 
+  start: "10:30"
+  end: "11:00"
 - title: "Coffee Break"
-- title: ""
+- title: "Data-Efficient Reinforcement Learning"
   author: 
   - given: Marc 
     family: Deisenroth
@@ -57,7 +56,7 @@ talks:
     institute: Imperial College London  
   start: "11:30" 
   end: "12:00" 
-- title: ""
+- title: "Maximum Entropy Deep RL for Real-World Robots"
   author: 
   - given: Tuomas
     family: Haarnoja
@@ -77,7 +76,7 @@ talks:
     institute: Facebook
   start: "17:00" 
   end: "17:30" 
-- title: "" 
+- title: "Deep Reinforcement Learning Toward Learning on Real-world Robotics" 
   author: 
   - given: Shixiang
     family: Gu
@@ -85,15 +84,8 @@ talks:
     institute: Google 
   start: "17:30" 
   end: "18:00" 
-- title: "" 
-  author:   
-  - given: Nicolas 
-    family: Heess
-    institute: Google DeepMind
-  start: "18:00"
-  end: "18:30" 
 - title: "Discussion" 
-  start: "18:30"
+  start: "18:00"
   end: "19:00" 
 - title: "Debate"
   start: "19:00"
