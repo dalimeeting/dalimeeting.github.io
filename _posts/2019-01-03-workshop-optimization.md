@@ -44,7 +44,6 @@ talks:
 - title: Coffee
   start: "11:00"
   end: "11:30"
-
 - title: "Function norms and regularization in deep networks"
   author:
   - given: Matthew
