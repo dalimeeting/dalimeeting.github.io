@@ -1,5 +1,4 @@
 ---
-
 title:  "Optimization"
 layout: multitrack
 abstract: ""
@@ -99,5 +98,4 @@ talks:
   - title: Discussion
   start: "18:30"
   end: "19:00"
-  
 ---
