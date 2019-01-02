@@ -12,7 +12,7 @@ organizers:
   url: http://www.iro.umontreal.ca/~slacoste/
   institute: U of Montreal
 room: "Grey & Knysna Suite"
-show_abstracts: true
+show_abstracts: false
 
 talks:
 - title: "A SGD Safari"
