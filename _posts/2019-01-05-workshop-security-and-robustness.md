@@ -83,10 +83,10 @@ talks:
   start: "1:00"
   end: "2:00"
 
-- title: "Structured representations for robust behavior in robots"
+- title: "From uncertain perception to robust action: Achieving safety in robotics"
   author:
   - given: Subramanian
-    family:  Rammurthy
+    family:  Ramamoorthy
     url: http://homepages.inf.ed.ac.uk/sramamoo/
     institute: University of Edinburgh
   start: "2:00"
