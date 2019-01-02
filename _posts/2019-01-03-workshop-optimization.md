@@ -52,7 +52,7 @@ talks:
     institute: KU Leuven
   start: "11:30"
   end: "12:00" 
-  abstract: ""
+  abstract: "Deep neural networks (DNNs) have become increasingly important due to their excellent empirical performance on a wide range of problems. However, regularization is generally achieved by indirect means, largely due to the complex set of functions defined by a network and the difficulty in measuring function complexity. There exists no method in the literature for additive regularization based on a norm of the function, as is classically considered in statistical learning theory. In this work, we propose sampling-based approximations to weighted function norms as regularizers for deep neural networks. We provide, to the best of our knowledge, the first proof in the literature of the NP-hardness of computing function norms of DNNs, motivating the necessity of an approximate approach. We then derive a generalization bound for functions trained with weighted norms and prove that a natural stochastic optimization strategy minimizes the bound."
 - title: "Sufficient decrease is all you need"
   author:
   - given: Fabian
@@ -96,7 +96,7 @@ talks:
   start: "18:00"
   end: "18:30"  
   abstract: ""
-  - title: Discussion
+- title: Discussion
   start: "18:30"
   end: "19:00"
 ---
