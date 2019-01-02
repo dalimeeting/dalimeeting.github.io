@@ -76,7 +76,7 @@ talks:
     institute: MSR Cambridge, UK
   start: "17:00"
   end: "17:30" 
-  abstract: "In many cases the objective functions we use in machine learning are expectations over iid data. In other cases they are stochastic approximations that are biased. I will use the field of approximate inference as example of such quantities and highlight that at its heart, the field of approximate inference is about trade-offs between computation and estimation accuracy: when we approximate quantities such as the evidence or posterior expectations no randomness is left and given limitless computation budget all quantities can be evaluated exactly. But given finite computation, how do we select inference methods such that they provide accurate estimates of quantities of interest? In this talk I will argue for a more explicit consideration of bias-variance tradeoffs of common inference methods. In particular, I highlight that current inference methods such as variational inference and Markov Chain Monte Carlo make a particular bias-variance tradeoffs which may be suboptimal for our inferential question at hand. What can we do about this? There is a rich portfolio of methods to change bias-variance tradeoffs in the form of debiasing methods; I will provide a brief overview and demonstrate a number of recent successful applications of these methods to variational inference and stochastic gradient MCMC."
+  abstract: ""
 - title: "Extragradient and Negative Momentum to Optimize GANs"
   author:
   - given: Simon 
@@ -85,7 +85,7 @@ talks:
     institute: U of Montreal
   start: "17:30"
   end: "18:00" 
-  abstract: ""
+  abstract: "Generative Adversarial Networks (GANs) are a popular generative modeling approach known for producing appealing samples, but for which training is known to be difficult. GANs were originially formulated as a smooth game optimization problem between two players, with different properties than standard minimization. Fortunately, these problems have been studied for a long time in the mathematical programming literature. In the first part of the talk, I will survey the variational inequality framework which contains most formulations of GANs introduced so far, and present theoretical and empirical results on adapting the standard methods (such as the extragradient method) from this literature to the training of GANs. In the second part, I will present a different novel technique, the use of negative momentum, to stabilize the dynamics of two player games, and provide a complete characterization of its behavior for bilinear games."
 - title: "On the Duality of Sampling and Newton's Method in Constrained Optimization."
   author:
   - given: Jacob
