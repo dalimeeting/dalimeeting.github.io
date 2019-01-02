@@ -61,7 +61,7 @@ talks:
     institute: Google Brain Montreal
   start: "12:00"
   end: "12:30"
-  abstract: "Most first-order optimization methods admit a step-size parameter that controls the magnitude of the update. Correctly tuning this parameter is crucial for the practical success of these methods: a step-size that is too small will result in unnecessarily slow convergence, while one that is too large might result in divergence. For some methods like gradient descent, classical techniques exist to set it, such as the Wolfe or sufficient decrease conditions. In this talk I revisit these classical techniques and propose two novel extensions for structured saddle-point problems and the Frank-Wolfe algorithm. I will finish by reviewing recent extensions to stochastic optimization."
+  abstract: ""
 - title: Discussion
   start: "12:30"
   end: "13:00"
@@ -76,7 +76,8 @@ talks:
     institute: MSR Cambridge, UK
   start: "17:00"
   end: "17:30" 
-  abstract: ""
+  abstract: "In many cases the objective functions we use in machine learning are expectations over iid data. In other cases they are stochastic approximations that are biased. I will use the field of approximate inference as example of such quantities and highlight that at its heart, the field of approximate inference is about trade-offs between computation and estimation accuracy: when we approximate quantities such as the evidence or posterior expectations no randomness is left and given limitless computation budget all quantities can be evaluated exactly. But given finite computation, how do we select inference methods such that they provide accurate estimates of quantities of interest? In this talk I will argue for a more explicit consideration of bias-variance tradeoffs of common inference methods. In particular, I highlight that current inference methods such as variational inference and Markov Chain Monte Carlo make a particular bias-variance tradeoffs which may be suboptimal for our inferential question at hand. What can we do about this? There is a rich portfolio of methods to change bias-variance tradeoffs in the form of debiasing methods; I will provide a brief overview and demonstrate a number of recent successful applications of these methods to variational inference and stochastic gradient MCMC."
+  
 - title: "Extragradient and Negative Momentum to Optimize GANs"
   author:
   - given: Simon 
