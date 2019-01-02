@@ -87,7 +87,7 @@ talks:
   start: "17:30"
   end: "18:00" 
   abstract: "Generative Adversarial Networks (GANs) are a popular generative modeling approach known for producing appealing samples, but for which training is known to be difficult. GANs were originially formulated as a smooth game optimization problem between two players, with different properties than standard minimization. Fortunately, these problems have been studied for a long time in the mathematical programming literature. In the first part of the talk, I will survey the variational inequality framework which contains most formulations of GANs introduced so far, and present theoretical and empirical results on adapting the standard methods (such as the extragradient method) from this literature to the training of GANs. In the second part, I will present a different novel technique, the use of negative momentum, to stabilize the dynamics of two player games, and provide a complete characterization of its behavior for bilinear games."
-- title: "On the Duality of Sampling and Newton’s Method in Constrained Optimization."
+- title: "On the Duality of Sampling and Newton's Method in Constrained Optimization."
   author:
   - given: Jacob
     family:  Abernethy
