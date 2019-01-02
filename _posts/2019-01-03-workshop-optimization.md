@@ -52,7 +52,7 @@ talks:
     institute: KU Leuven
   start: "11:30"
   end: "12:00" 
-  abstract: "Deep neural networks (DNNs) have become increasingly important due to their excellent empirical performance on a wide range of problems. However, regularization is generally achieved by indirect means, largely due to the complex set of functions defined by a network and the difficulty in measuring function complexity. There exists no method in the literature for additive regularization based on a norm of the function, as is classically considered in statistical learning theory. In this work, we propose sampling-based approximations to weighted function norms as regularizers for deep neural networks. We provide, to the best of our knowledge, the first proof in the literature of the NP-hardness of computing function norms of DNNs, motivating the necessity of an approximate approach. We then derive a generalization bound for functions trained with weighted norms and prove that a natural stochastic optimization strategy minimizes the bound."
+  abstract: ""
 - title: "Sufficient decrease is all you need"
   author:
   - given: Fabian
@@ -61,7 +61,7 @@ talks:
     institute: Google Brain Montreal
   start: "12:00"
   end: "12:30"
-  abstract: ""
+  abstract: "Most first-order optimization methods admit a step-size parameter that controls the magnitude of the update. Correctly tuning this parameter is crucial for the practical success of these methods: a step-size that is too small will result in unnecessarily slow convergence, while one that is too large might result in divergence. For some methods like gradient descent, classical techniques exist to set it, such as the Wolfe or sufficient decrease conditions. In this talk I revisit these classical techniques and propose two novel extensions for structured saddle-point problems and the Frank-Wolfe algorithm. I will finish by reviewing recent extensions to stochastic optimization."
 - title: Discussion
   start: "12:30"
   end: "13:00"
