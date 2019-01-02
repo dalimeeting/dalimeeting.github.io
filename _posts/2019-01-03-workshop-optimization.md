@@ -101,6 +101,4 @@ extragradient method) from this literature to the training of GANs. In the secon
   start: "18:30"
   end: "19:00"
 speakers:
-
 ---
-
