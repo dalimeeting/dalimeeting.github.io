@@ -28,8 +28,8 @@ talks:
   end: "10:15" 
 - title: "Interpreting machine learning using examples."
   author:
-  - given: Koyejo
-    family: Samni
+  - given: Samni
+    family: Koyejo
     url: http://sanmi.cs.illinois.edu/
     institute: University of Illinois at Urbana-Champaign
   start: "10:15"
