@@ -32,7 +32,7 @@ talks:
   start: "10:00"
   end: "10:30" 
   abstract: ""
-- title: "SignSGD is communication efficient and byzantine tolerant"
+- title: "Some success stories in bridging theory and practice in optimization"
   author:
   - given: Anima
     family: Anankumar
@@ -40,7 +40,7 @@ talks:
     institute: Caltech
   start: "10:30"
   end: "11:00"   
-  abstract: ""
+  abstract: "With advent of deep learning, there are many gaps between theory and practice. Understanding optimization landscape of non-convex deep-learning loss functions is challenging. We present a few success stories that present both theoretical analyses and empirical results. We analyze signSGD: a gradient compression algorithm that only transmits the sign of the stochastic gradients during distributed training. This algorithm uses 32 times less communication per iteration than distributed SGD. We show that signSGD has nearly no loss in accuracy while yielding significant speedups. I will present a work that applies deep-learning in a control problem that guarantees stable landing of a drone. This approach blends together a nominal dynamics model coupled with a neural network that learns the unknown ground effect model. We show that spectral normalization of neural network guarantees stability and shows performance improvement in practice. "
 - title: Coffee
   start: "11:00"
   end: "11:30"
