@@ -58,6 +58,7 @@ to data dependent choices of the regularization parameter, e.g. for Hold-Out."
   start: "09:30"
   end: "10:15"
   abstract: "In many machine learning applications, the effort required to manually label the massive data sets necessary to train machine learning systems to a high accuracy presents a major hurdle. One promising approach to reducing the required training sample size is active learning, a technique in which the learning algorithm participates in interactively selecting examples to be labeled for training, in order to focus the human expert's efforts on labeling only informative and non-redundant examples. Active learning holds great potential for dramatically reducing the number of labeled training examples needed for learning. However, despite decades of research on the subject, the most popular active learning algorithms in the applications literature are known to be unreliable and sensitive to violations of modeling assumptions, which has held back the widespread applicability of active learning in practice. At the root of this problem, it seems we have lacked a complete understanding of the basic principles that should underlie the design of good active learning algorithms. Such a situation calls for a careful theoretical approach to the problem.\
+  
 In this talk, I will articulate essential principles for the design of effective active learning algorithms, distilled from over a decade of research on the theory of active learning. Moreover, I will describe a general active learning strategy based on these principles, which is provably near-optimal, in the sense that the number of labeled training examples sufficient to achieve a given accuracy guarantee cannot be significantly reduced by any other active learning algorithm. In the process, I will discuss the fundamental trade-offs and general complexity measures intrinsic to the active learning setting, and present formulas expressing the minimum number of labeled examples sufficient and necessary for an optimal active learning algorithm to achieve a given accuracy guarantee."
 
 - title: "Learning with Regularization and Adaptive Projections"
@@ -98,9 +99,7 @@ In this talk, I will articulate essential principles for the design of effective
   youtube:
   start: "12:15"
   end: "13:00"
-  abstract: "Classical control theory and machine learning have similar goals: acquire data about the environment, perform a prediction, and use that prediction to positively impact the world. However, the approaches they use are frequently at odds. Controls is the theory of designing complex actions from well-specified models, while machine learning makes intricate, model-free predictions from data alone.  For contemporary autonomous systems, some sort of hybrid may be essential in order to fuse and process the vast amounts of sensor data recorded into timely, agile, and safe decisions.\
-
-In this talk, I will examine the relative merits of model-based and model-free methods in data-driven control problems. I will discuss quantitative estimates on the number of measurements required to achieve a high quality control performance and statistical techniques that can distinguish the relative power of different methods. In particular, I will show that model-free methods are considerably less sample efficient than their model-based counterparts. I will further also describe how notions of robustness, safety, constraint satisfaction, and exploration can be transparently incorporated in model-based methods. I will conclude with a discussion of possible positive roles for model-free methods in contemporary autonomous systems that may mitigate their high sample complexity and lack of reliability and versatility."
+  abstract: ""
 - title: Lunch
   author:
   - given:
