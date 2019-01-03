@@ -22,8 +22,8 @@ talks:
     institute: MIT
   start: "09:30"
   end: "10:00" 
-  abstract: ""
 - title: "Training on the Test Set and Other Heresies"
+  abstract: "While stochastic gradient descent (SGD) is a workhorse in machine learning, the learning (test error) properties of many practically used variants are hardly known. In this presentation, we consider least squares learning and describe  steps to fill this gap focusing on the effect and interplay of  multiple passes, step-size choice and mini-batching. Our results show how these different flavors of SGD can be combined to achieve optimal learning errors, hence providing practical insights."
   author:
   - given: Benjamin
     family: Recht
