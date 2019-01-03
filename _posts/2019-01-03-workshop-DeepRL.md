@@ -76,7 +76,7 @@ talks:
     institute: Facebook
   start: "17:00" 
   end: "17:30" 
-- title: "Deep Reinforcement Learning Toward Learning on Real-world Robotics" 
+- title: "Toward Deep Reinforcement Learning in the Wild with Goal-Conditioned Value Functions"
   author: 
   - given: Shixiang
     family: Gu
