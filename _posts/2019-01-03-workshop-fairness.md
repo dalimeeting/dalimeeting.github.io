@@ -1,7 +1,7 @@
 ---
 title:  "Fairness and Transparency in Machine Learning"
 layout: multitrack
-abstract: "TBA"
+abstract: 
 organizer_url:
 categories:
 - dali2019
