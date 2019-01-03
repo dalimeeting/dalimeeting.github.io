@@ -100,7 +100,7 @@ talks:
     family:  Kohli
     url: https://sites.google.com/site/pushmeet/
     institute: DeepMind
-  start: "3:20"
-  end: "4:00" 
+  start: "15:20"
+  end: "16:00" 
   
 ---
