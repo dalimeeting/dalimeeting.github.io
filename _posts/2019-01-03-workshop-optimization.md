@@ -23,7 +23,7 @@ talks:
   start: "09:30"
   end: "10:00" 
   abstract: ""
-- title: "The Robustness of Training on the Test Set"
+- title: "Training on the Test Set and Other Heresies"
   author:
   - given: Benjamin
     family: Recht
@@ -31,7 +31,7 @@ talks:
     institute: UC Berkeley
   start: "10:00"
   end: "10:30" 
-  abstract: ""
+  abstract: "Conventional wisdom in machine learning taboos practices that are overwhelmingly common. For example, training on the test set, interpolating the training data, and optimizing to high precision are all considered bad methodology. This talk surveys empirical evidence demonstrating that conventional wisdom is wrong. I will show several examples where large, high-capacity models achieve state-of-the-art performance on many machine learning benchmarks. I will also show that models with low test error tend to have the best performance on new test data sets of unseen examples. However, I will also show that slightly shifting how the data is generated results in large drops in accuracy and increasing model size incurs significant diminishing returns. "
 - title: "Some success stories in bridging theory and practice in optimization"
   author:
   - given: Anima
