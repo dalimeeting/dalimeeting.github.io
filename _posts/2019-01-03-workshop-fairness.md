@@ -61,7 +61,7 @@ talks:
   end: "17:45" 
 - title: "Panel Discussion on Fairness and Transparency"
   start: "17:45"
-  end: "19:45" 
+  end: "19:00" 
 speakers:
 
 ---
