@@ -53,53 +53,46 @@ talks:
   start: "11:00"
   end: "11:30"
 
-- title: "TBD"
-  author:
-  - given: Moustapha
-    family:  Cisse
-    url: http://moustaphacisse.com/
-    institute: Google Brain
-  start: "11:30"
-  end: "12:00"   
-
-- title: "Proofs, Algorithms, and Tools for Private Data Analysis"
-  author:
-  - given: Adria
-    family: Gascon
-    url: https://www.turing.ac.uk/people/researchers/adria-gascon
-    institute: Turing Institute
-  start: "12:00"
-  end: "12:30" 
-  
-- title: "Toward Practical Tools for Research in Privacy-Preserving Deep Learning"
-  author:
-  - given: Andrew
-    family:  Trask
-    url: https://iamtrask.github.io/
-    institute: University of Oxford, DeepMind
-  start: "12:30"
-  end: "1:00" 
-- title: Lunch
-  start: "1:00"
-  end: "2:00"
-
-- title: "From uncertain perception to robust action: Achieving safety in robotics"
-  author:
-  - given: Subramanian
-    family:  Ramamoorthy
-    url: http://homepages.inf.ed.ac.uk/sramamoo/
-    institute: University of Edinburgh
-  start: "2:00"
-  end: "2:40" 
-  
 - title: "Role of Simulation in Safe Decision Making under Uncertainty"
   author:
   - given: Ashish
     family:  Kapoor
     url: https://www.microsoft.com/en-us/research/people/akapoor/
     institute: Microsoft Research
-  start: "2:40"
-  end: "3:20" 
+  start: "11:30"
+  end: "12:15" 
+
+
+- title: "Structured representations for robust behavior in robots"
+  author:
+  - given: Subramanian
+    family:  Ramamoorthy
+    url: http://homepages.inf.ed.ac.uk/sramamoo/
+    institute: University of Edinburgh
+  start: "12:15"
+  end: "13:00" 
+
+- title: Lunch
+  start: "1:00"
+  end: "2:00"
+
+- title: "Toward Practical Tools for Research in Privacy-Preserving Deep Learning"
+  author:
+  - given: Andrew
+    family:  Trask
+    url: https://iamtrask.github.io/
+    institute: University of Oxford, DeepMind
+  start: "14:00"
+  end: "14:40" 
+  
+- title: "Proofs, Algorithms, and Tools for Private Data Analysis"
+  author:
+  - given: Adria
+    family: Gascon
+    url: https://www.turing.ac.uk/people/researchers/adria-gascon
+    institute: Turing Institute
+  start: "14:40"
+  end: "15:20" 
   
 - title: "Panel Discussion on Challenges and Opportunities in Secure ML"
   author:
