@@ -120,7 +120,7 @@ In this talk, I will examine the relative merits of model-based and model-free m
   youtube: 
   start: "15:00"
   end: "15:45"
-- title: "On How Well Generative Adversarial Networks Learn Densities: Nonparametric/Parametric Results, and Pair Regularization"
+- title: "Some New Insights on Regularization and Interpolation Motivated from Neural Networks"
   author:
   - given: Tengyuan
     family: Liang
@@ -129,7 +129,9 @@ In this talk, I will examine the relative merits of model-based and model-free m
   youtube: 
   start: "15:45"
   end: "16:30"
-  abstract: "We study in this paper the rate of convergence for learning distributions with the Generative Adversarial Networks (GAN) framework, which subsumes Wasserstein, Sobolev and MMD GANs as special cases. We study a wide range of parametric and nonparametric target distributions, under a collection of objective evaluation metrics. On the nonparametric end, we investigate the minimax optimal rates and fundamental difficulty of the density estimation under the adversarial framework. On the parametric end, we establish theory for neural network classes, that characterizes the interplay between the choice of generator and discriminator. We investigate how to improve the GAN framework with better theoretical guarantee through the lens of regularization. We discover and isolate a new notion of regularization, called the extit{generator/discriminator pair regularization}, that sheds light on the advantage of GAN compared to classic parametric and nonparametric approaches for density estimation."
+  abstract: "We first study the rate of convergence for learning distributions with the Generative Adversarial Networks (GAN) framework, which subsumes Wasserstein, Sobolev and MMD GANs as special cases. We study a wide range of parametric and nonparametric target distributions, under a collection of objective evaluation metrics. On the nonparametric end, we investigate the minimax optimal rates and fundamental difficulty of the density estimation under the adversarial framework. On the parametric end, we establish theory for neural network classes, that characterizes the interplay between the choice of generator and discriminator. We investigate how to improve the GAN framework with better theoretical guarantee through the lens of regularization. We discover and isolate a new notion of regularization, called the extit{generator/discriminator pair regularization}, that sheds light on the advantage of GAN compared to classic parametric and nonparametric approaches for density estimation.
+
+Later, we discuss on interpolation. In the absence of explicit regularization, Kernel "Ridgeless" Regression with nonlinear kernels has the potential to fit the training data perfectly. It has been observed empirically, however, that such interpolated solutions can still generalize well on test data. We isolate a phenomenon of implicit regularization for minimum-norm interpolated solutions which is due to a combination of high dimensionality of the input data, curvature of the kernel function, and favorable geometric properties of the data such as an eigenvalue decay of the empirical covariance and kernel matrices. In addition to deriving a data-dependent upper bound on the out-of-sample error, we present experimental evidence suggesting that the phenomenon occurs in the MNIST dataset. Time permitting, we will discuss interpolation and approximation benefits of two layers ReLU networks."
 - title: "Minimax Estimation of Quadratic Fourier Functionals"
   author:
   - given: Bharath K
