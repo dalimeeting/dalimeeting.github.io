@@ -18,13 +18,13 @@ room: "Kingfisher Suite"
 show_abstracts: false
 
 talks:
-- title: "Reliable Decision Support?"
+- title: "Opening Remarks"
   author: 
-  - family: Saria
-    given: Suchi
-    url: https://suchisaria.jhu.edu/
-    institute: JHU
-  start: "09:30"
+  - family: Marivate
+    given: Vukosi
+    url: http://www.vima.co.za
+    institute: University of Pretoria
+  start: "10:00"
   end: "10:15" 
 - title: "Interpreting machine learning using examples."
   author:
@@ -45,7 +45,12 @@ talks:
     institute: University of Pretoria
   start: "11:30"
   end: "12:15"   
-- title: "Discussion"
+- title: "Reliable Decision Support?"
+  author: 
+  - family: Saria
+    given: Suchi
+    url: https://suchisaria.jhu.edu/
+    institute: JHU
   start: "12:15"
   end: "13:00" 
 - title: Lunch
