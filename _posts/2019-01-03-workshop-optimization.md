@@ -95,7 +95,7 @@ talks:
     institute: Georgia Tech
   start: "18:00"
   end: "18:30"  
-  abstract: ""
+  abstract: "A well-studied deterministic algorithmic technique for convex optimization is the class of so-called Interior Point Methods of Nesterov and Nemirovski, which involve taking a sequence of Newton steps along the "central path" towards the optimum. An alternative randomized method, known as simulated annealing, involves performing a random walk around the set while "cooling" the stationary distribution towards the optimum. We will show that these two methods are, in a certain sense, fully equivalent: both techniques can be viewed as different types of path following. This equivalence allows us to get an improved state-of-the-art rate for simulated annealing, and provides a new understanding of random walk methods using barrier functions."
 - title: Discussion
   start: "18:30"
   end: "19:00"
