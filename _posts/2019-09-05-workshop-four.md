@@ -4,7 +4,7 @@ layout: multitrack
 abstract: "Health presents one of the most challenging and under-investigated domains of machine learning research. This offers an exciting opportunity for machine learning techniques to impact healthcare in a meaningful way. In this workshop, we will investigate and discuss different perspectives that are essential for successful research and deployment of machine learning for a positive impact in health." 
 organizer_url: 
 categories:
-- dali2019
+- dali2019b
 organizers:
 - given: Danielle  
   family:  Belgrave 
