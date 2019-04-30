@@ -4,31 +4,20 @@ layout: multitrack
 abstract: "TBA"
 organizer_url: 
 categories:
-- dali2019
+- dali2019b
 organizers:
-- given: Raia   
-  family: Hadsell
-  url: http://raiahadsell.com/index.html
-  institute: Google DeepMind
-- given: Nicolas
-  family: Heess
-  institute: Google DeepMind
-- given: Pulkit
-  family: Agrawal
-  url: http://people.eecs.berkeley.edu/~pulkitag/ 
-  institute: UC Berkeley 
-- given: Tuomas 
-  family: Haarnoja
-  url: https://people.eecs.berkeley.edu/~haarnoja/ 
-  institute: UC Berkeley
-room: "Owl & Eagle Suite"
+- given: Jane   
+  family: Surname
+  url: http://url.com
+  institute: Institute
+room: ""
 show_abstracts: false
 talks:
 - title: "Opening Remarks"
   author: 
-  - given: Nicolas
-    family: Heess
-    institute: Google DeepMind
+  - given: First
+    family: Surname
+    institute: Institute
   start: "9:30"
   end: "10:00"
 - title: "Programmatically Structured Representations for Robust Autonomy in Robots" 
