@@ -1,72 +1,92 @@
 ---
-title:  "Fairness and Transparency in Machine Learning"
+title:  "Workshop Two Title"
 layout: multitrack
-abstract: 
-organizer_url:
+abstract: "TBA"
+organizer_url: http://url3.com
 categories:
 - dali2019b
 organizers:
-- given: Moustapha 
-  family: Cisse
-  url: http://moustaphacisse.com/
-  institute: Google AI
-- given: Vukosi 
-  family: Marivate
-  url: http://www.vima.co.za
-  institute: University of Pretoria/CSIR
-room: "Kingfisher Suite"
+- given: Jane   
+  family: Surname
+  url: http://url.com
+  institute: Organizer 1 Institute
+- given: Zhi
+  family: Other-Surname
+  url: http://url2.com
+  institute: Organizer 2 Institute
+room: ""
 show_abstracts: false
-
 talks:
 - title: "Opening Remarks"
   author: 
-  - family: Marivate
-    given: Vukosi
-    url: http://www.vima.co.za
-    institute: University of Pretoria
-  start: "10:00"
-  end: "10:15" 
-- title: "Interpreting machine learning using examples."
-  author:
-  - given: Samni
-    family: Koyejo
-    url: http://sanmi.cs.illinois.edu/
-    institute: University of Illinois at Urbana-Champaign
-  start: "10:15"
-  end: "11:00" 
-- title: Coffee
-  start: "11:00"
-  end: "11:30"
-- title: "Responsible Belief as a Moral Obligation and the Quest for Fair and Transparent Machine Learning"
-  author:
-  - given: Emma
-    family:  Ruttkamp-Bloem
-    url: https://www.up.ac.za/en/philosophy/article/2542714/emma-ruttkamp-bloem
-    institute: University of Pretoria
-  start: "11:30"
-  end: "12:15"   
-- title: "Reliable Decision Support?"
+  - given: First
+    family: Surname
+    institute: Institute
+  abstract: My abstract here
+  start: "9:30"
+  end: "10:00"
+- title: "" 
   author: 
-  - family: Saria
-    given: Suchi
-    url: https://suchisaria.jhu.edu/
-    institute: JHU
-  start: "12:15"
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "10:00"
+  end: "10:30"
+- title: "" 
+  author: 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  start: "10:30"
+  end: "11:00"
+- title: "Coffee Break"
+- title: "" 
+  author: 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "11:30" 
+  end: "12:00" 
+- title: "Maximum Entropy Deep RL for Real-World Robots"
+- title: "" 
+  author: 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "12:00" 
+  end: "12:30" 
+- title: "Discussion"
+  start: "12:30" 
   end: "13:00" 
-- title: Lunch
-  start: "13:00"
-  end: "14:00"
-- title: "The wrong tools for the wrong job—damage control in a world awash with premature ML"
-  author:
-  - given: Zack
-    family:  Lipton
-    url: http://zacklipton.com/
-    institute: CMU
-  start: "17:00"
-  end: "17:45" 
-- title: "Panel Discussion on Fairness and Transparency"
-  start: "17:45"
+- title: "Lunch Break"
+- title: ""
+  author: 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "17:00" 
+  end: "17:30" 
+- title: "Toward Deep Reinforcement Learning in the Wild with Goal-Conditioned Value Functions"
+  author: 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "17:30" 
+  end: "18:00" 
+- title: "Discussion" 
+  start: "18:00"
   end: "19:00" 
-speakers:
-
+- title: "Debate"
+  start: "19:00"
 ---

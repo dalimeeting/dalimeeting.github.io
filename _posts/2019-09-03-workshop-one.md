@@ -1,15 +1,19 @@
 ---
-title:  "Deep Reinforcement Learning and Robotics"
+title:  "Workshop One Title"
 layout: multitrack
 abstract: "TBA"
-organizer_url: 
+organizer_url: http://url3.com
 categories:
 - dali2019b
 organizers:
 - given: Jane   
   family: Surname
   url: http://url.com
-  institute: Institute
+  institute: Organizer 1 Institute
+- given: Zhi
+  family: Other-Surname
+  url: http://url2.com
+  institute: Organizer 2 Institute
 room: ""
 show_abstracts: false
 talks:
@@ -18,39 +22,44 @@ talks:
   - given: First
     family: Surname
     institute: Institute
+  abstract: My abstract here
   start: "9:30"
   end: "10:00"
-- title: "Programmatically Structured Representations for Robust Autonomy in Robots" 
+- title: "" 
   author: 
-  - given: Subramanian
-    family: Ramamoorthy
-    url: http://homepages.inf.ed.ac.uk/sramamoo/ 
-    institute: University of Edinburgh 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
   start: "10:00"
   end: "10:30"
-- title: "Continuously Learning Robots"
+- title: "" 
   author: 
-  - given: Franzi 
-    family: Meier
-    url: http://www-clmc.usc.edu/Main/FranziskaMeier 
-    institute: Max-Planck Institute 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
   start: "10:30"
   end: "11:00"
 - title: "Coffee Break"
-- title: "Data-Efficient Reinforcement Learning"
+- title: "" 
   author: 
-  - given: Marc 
-    family: Deisenroth
-    url: https://sites.google.com/view/marcdeisenroth 
-    institute: Imperial College London  
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
   start: "11:30" 
   end: "12:00" 
 - title: "Maximum Entropy Deep RL for Real-World Robots"
+- title: "" 
   author: 
-  - given: Tuomas
-    family: Haarnoja
-    url: https://people.eecs.berkeley.edu/~haarnoja/ 
-    institute: UC Berkeley
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
   start: "12:00" 
   end: "12:30" 
 - title: "Discussion"
@@ -59,18 +68,20 @@ talks:
 - title: "Lunch Break"
 - title: ""
   author: 
-  - given: Roberto
-    family: Calandra
-    url: https://www.robertocalandra.com/about/ 
-    institute: Facebook
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
   start: "17:00" 
   end: "17:30" 
 - title: "Toward Deep Reinforcement Learning in the Wild with Goal-Conditioned Value Functions"
   author: 
-  - given: Shixiang
-    family: Gu
-    url: https://sites.google.com/view/gugurus
-    institute: Google 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
   start: "17:30" 
   end: "18:00" 
 - title: "Discussion" 

@@ -1,106 +1,92 @@
 ---
-title:  "Security and Robustness"
+title:  "Workshop Five Title"
 layout: multitrack
-abstract: "In recent years, there has been a proliferation of ML algorithms in several safety-critical applications, including (amongst others), face detection, data centers, biometric identification and self driving cars. Even outside of safety critical systems, ML algorithms can lead to severely undesirable outcomes, including data leakage and racist/biased predictions. This calls for the need to have stronger checks on ML algorithms and the ability to train ML models not just to fit training data well, but also to satisfy auxiliary properties necessary for safe deployment. This workshop will discuss challenges and opportunties around developing secure ML systems, bringing together perspectives from formal verification, robust learning, robotics and autonomous systems and privacy." 
-organizer_url: 
+abstract: "TBA"
+organizer_url: http://url3.com
 categories:
 - dali2019b
 organizers:
-- given: Pushmeet
-  family: Kohli
-  url: https://sites.google.com/site/pushmeet/
-  institute: DeepMind 
-- given: Krishnamurthy
-  family: Dvijotham
-  url: https://dvij.github.io
-  institute: DeepMind 
-- given: Adrian
-  family: Weller
-  url: http://mlg.eng.cam.ac.uk/adrian/
-  institute: Turing Institute
-
-room: "Kingfisher Suite"
+- given: Jane   
+  family: Surname
+  url: http://url.com
+  institute: Organizer 1 Institute
+- given: Zhi
+  family: Other-Surname
+  url: http://url2.com
+  institute: Organizer 2 Institute
+room: ""
 show_abstracts: false
-
 talks:
-- title: "Opening remarks"
+- title: "Opening Remarks"
   author: 
-  - family: Kohli
-    given: Pushmeet
-    url: http://zicokolter.com
-    institute: DeepMind
-  start: "09:30"
-  end: "09:45" 
-
-- title: "Why don't we have a provably robust ImageNet classifier yet?"
+  - given: First
+    family: Surname
+    institute: Institute
+  abstract: My abstract here
+  start: "9:30"
+  end: "10:00"
+- title: "" 
   author: 
-  - family: Kolter
-    given: Zico
-    url: http://zicokolter.com
-    institute: CMU
-  start: "09:45"
-  end: "10:25" 
-  
-- title: "Scalable Training and Verification of Robust Neural Networks"
-  author:
-  - given: Timon
-    family:  Gehr
-    url: https://eth-sri.github.io/people/timon
-    institute: ETH
-  start: "10:25"
-  end: "11:00" 
-- title: Coffee
-  start: "11:00"
-  end: "11:30"
-
-- title: "Role of Simulation in Safe Decision Making under Uncertainty"
-  author:
-  - given: Ashish
-    family:  Kapoor
-    url: https://www.microsoft.com/en-us/research/people/akapoor/
-    institute: Microsoft Research
-  start: "11:30"
-  end: "12:15" 
-
-
-- title: "Structured representations for robust behavior in robots"
-  author:
-  - given: Subramanian
-    family:  Ramamoorthy
-    url: http://homepages.inf.ed.ac.uk/sramamoo/
-    institute: University of Edinburgh
-  start: "12:15"
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "10:00"
+  end: "10:30"
+- title: "" 
+  author: 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  start: "10:30"
+  end: "11:00"
+- title: "Coffee Break"
+- title: "" 
+  author: 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "11:30" 
+  end: "12:00" 
+- title: "Maximum Entropy Deep RL for Real-World Robots"
+- title: "" 
+  author: 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "12:00" 
+  end: "12:30" 
+- title: "Discussion"
+  start: "12:30" 
   end: "13:00" 
-
-- title: Lunch
-  start: "1:00"
-  end: "2:00"
-
-- title: "Toward Practical Tools for Research in Privacy-Preserving Deep Learning"
-  author:
-  - given: Andrew
-    family:  Trask
-    url: https://iamtrask.github.io/
-    institute: University of Oxford, DeepMind
-  start: "14:00"
-  end: "14:40" 
-  
-- title: "Proofs, Algorithms, and Tools for Private Data Analysis"
-  author:
-  - given: Adria
-    family: Gascon
-    url: https://www.turing.ac.uk/people/researchers/adria-gascon
-    institute: Turing Institute
-  start: "14:40"
-  end: "15:20" 
-  
-- title: "Panel Discussion on Challenges and Opportunities in Secure ML"
-  author:
-  - given: Pushmeet
-    family:  Kohli
-    url: https://sites.google.com/site/pushmeet/
-    institute: DeepMind
-  start: "15:20"
-  end: "16:00" 
-  
+- title: "Lunch Break"
+- title: ""
+  author: 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "17:00" 
+  end: "17:30" 
+- title: "Toward Deep Reinforcement Learning in the Wild with Goal-Conditioned Value Functions"
+  author: 
+  - given: An
+    family: Author
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "17:30" 
+  end: "18:00" 
+- title: "Discussion" 
+  start: "18:00"
+  end: "19:00" 
+- title: "Debate"
+  start: "19:00"
 ---
