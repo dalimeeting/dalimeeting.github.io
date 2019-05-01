@@ -58,19 +58,19 @@ conference:
   name: DALI 2019 - Data Learning and Inference
   shortname: DALI
   venue: Fancourt
-  location: George, South Africa
+  location: San Sebastian, Spain
   year: 2019
-  month: April
+  month: September
   dates:
-  - 2019-01-03
-  - 2019-01-04
-  - 2019-01-05
+  - 2019-09-03
+  - 2019-09-04
+  - 2019-09-05
   sponsors:
   - name: Max-Planck-ETH Center for Learning Systems
     url: "http://learning-systems.org/"
 previous_meeting:
-  name: DALI 2018
-  url: "http://dalimeeting.org/dali2018/"
+  name: DALI 2019
+  url: "http://dalimeeting.org/dali2019/"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dalimeeting.org" # the base hostname & protocol for your site
 youtube:

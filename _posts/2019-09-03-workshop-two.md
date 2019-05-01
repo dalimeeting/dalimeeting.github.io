@@ -4,7 +4,7 @@ layout: multitrack
 abstract: 
 organizer_url:
 categories:
-- dali2019
+- dali2019b
 organizers:
 - given: Moustapha 
   family: Cisse

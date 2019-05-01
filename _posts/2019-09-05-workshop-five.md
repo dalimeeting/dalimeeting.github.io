@@ -4,7 +4,7 @@ layout: multitrack
 abstract: "In recent years, there has been a proliferation of ML algorithms in several safety-critical applications, including (amongst others), face detection, data centers, biometric identification and self driving cars. Even outside of safety critical systems, ML algorithms can lead to severely undesirable outcomes, including data leakage and racist/biased predictions. This calls for the need to have stronger checks on ML algorithms and the ability to train ML models not just to fit training data well, but also to satisfy auxiliary properties necessary for safe deployment. This workshop will discuss challenges and opportunties around developing secure ML systems, bringing together perspectives from formal verification, robust learning, robotics and autonomous systems and privacy." 
 organizer_url: 
 categories:
-- dali2019
+- dali2019b
 organizers:
 - given: Pushmeet
   family: Kohli
