@@ -2,7 +2,8 @@
 title: DALI 2019 - Data, Learning and Inference
 permalink: "/:categories/:title.html"
 # Include image banner file name below
-banner: george-fancourt.png
+banner: banner.jpg
+banner_source: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_sebastien_2006_05.jpg/1024px-Saint_sebastien_2006_05.jpg
 
 # Registration fees and URL go here.
 registration:
@@ -13,51 +14,57 @@ registration:
 
 # Hotel booking URL goes here
 booking:
-  url:
+  url: 
   
 conference:
   draft: true
   hide_tentative: true
   hosts:
   general:
-  - name: Neil Lawrence
+  - given: Neil
+    family: Lawrence
     url: "http://inverseprobability.com"
     institute: Amazon and University of Sheffield
-  - name: Bernhard Schölkopf
+  - given: Bernhard
+    family: Schölkopf
     url: "http://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI for Intelligent Systems (Tübingen) and Amazon
   chair:
-  - given: Arthur
-    family: Gretton
-    institute: "Gatsby Unit, University College London"
-    url: "http://www.gatsby.ucl.ac.uk/~gretton/"
-  - given: Shakir 
-    family: Mohamed
-    url: "https://shakirm.com/"
-    institute: "Google DeepMind"
-  - name: Krikamol Muandet
-    url: "http://krikamol.org"
-    institute: "MPI for Intelligent Systems (Tübingen)"  
+  scientific_coordinators:
+  - given: Matthias
+    family: Hohmann
+    url: https://ei.is.tuebingen.mpg.de/person/mhohmann
+    institute: MPI for Intelligent Systems (Tübingen)
   assistants:
-  - name: Diana Rebmann 
-    url: "https://ei.is.tuebingen.mpg.de/person/drebmann"
-    institute: DeepMind
+  - given: Julia
+    family: Braun
+    url: "https://www.is.mpg.de/person/jbraun"
+    institute: MPI for Intelligent Systems (Tübingen)
+  - given: Maria
+    family: Püschel
+    url: "https://www.is.mpg.de/person/jbraun"
+    institute: MPI for Intelligent Systems (Tübingen)
   steering:
-  - name: Zoubin Ghaharamani
+  - given: Zoubin
+    family: Ghaharamani
     url: "http://mlg.eng.cam.ac.uk/zoubin/"
     institute: University of Cambridge and Uber
-  - name: Thomas Hofmann
+  - given: Thomas
+    family: Hofmann
     url: "http://www.da.inf.ethz.ch/people/ThomasHofmann/"
     institute: ETH Zurich
-  - name: Neil Lawrence
+  - given: Neil
+    family: Lawrence
     url: "http://inverseprobability.com"
     institute: Amazon and University of Sheffield
-  - name: Bernhard Schölkopf (chair)
+  - given: Bernhard
+    family: Schölkopf
     url: "http://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI for Intelligent Systems (Tübingen)
   name: DALI 2019 - Data Learning and Inference
   shortname: DALI
-  venue: Fancourt
+  venue: Kursaal
+  venue_url: https://www.kursaal.eus/en/
   location: San Sebastian, Spain
   year: 2019
   month: September
@@ -69,7 +76,7 @@ conference:
   - name: Max-Planck-ETH Center for Learning Systems
     url: "http://learning-systems.org/"
 previous_meeting:
-  name: DALI 2019
+  name: DALI 2019, George, South Africa
   url: "http://dalimeeting.org/dali2019/"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dalimeeting.org" # the base hostname & protocol for your site
