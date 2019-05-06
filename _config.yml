@@ -3,7 +3,7 @@ title: DALI 2019 - Data, Learning and Inference
 permalink: "/:categories/:title.html"
 # Include image banner file name below
 banner: banner.jpg
-banner_source: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_sebastien_2006_05.jpg/1024px-Saint_sebastien_2006_05.jpg
+banner_title: cc BY-SA 3.0
 
 # Registration fees and URL go here.
 registration:
