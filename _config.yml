@@ -21,7 +21,7 @@ conference:
   hide_tentative: true
   hosts:
   general:
-  - given: Neil
+  - given: Neil D.
     family: Lawrence
     url: "http://inverseprobability.com"
     institute: Amazon and University of Sheffield
@@ -42,8 +42,6 @@ conference:
     institute: MPI for Intelligent Systems (Tübingen)
   - given: Maria
     family: Püschel
-    url: "https://www.is.mpg.de/person/jbraun"
-    institute: MPI for Intelligent Systems (Tübingen)
   steering:
   - given: Zoubin
     family: Ghaharamani
@@ -53,7 +51,7 @@ conference:
     family: Hofmann
     url: "http://www.da.inf.ethz.ch/people/ThomasHofmann/"
     institute: ETH Zurich
-  - given: Neil
+  - given: Neil D.
     family: Lawrence
     url: "http://inverseprobability.com"
     institute: Amazon and University of Sheffield
