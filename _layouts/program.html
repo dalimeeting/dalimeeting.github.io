@@ -7,13 +7,13 @@ title: Program
 <article>
 
   {% if site.conference.draft %}
-  <h2>Draft Version</h2>
+  <h2>Draft Version: All workshops and dates tentative</h2>
   {% endif %}
  
   {{ content }}
-  
+
   <h3>Workshops</h3>
-  <ul>	  
+  <ul>
     {% for post in site.posts reversed %}
     {% if post.layout == "multitrack"%}
     {% include listmulti.html %}
@@ -33,9 +33,5 @@ title: Program
 
   </ul>
 
-  
+
 </article>
-
-
-	
-	
