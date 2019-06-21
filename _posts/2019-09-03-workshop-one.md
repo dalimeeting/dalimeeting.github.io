@@ -8,16 +8,16 @@ categories:
 organizers:
 - given: Gunnar
   family: Rätsch
-  <!-- url: http://url.com
-  institute: Organizer 1 Institute -->
+  #url: http://url.com
+  #institute: Organizer 1 Institute
 - given: Mihaela
   family: van der Schaar
-  <!-- url: http://url2.com
-  institute: Organizer 2 Institute -->
+  #url: http://url2.com
+  #institute: Organizer 2 Institute
 - given: Oliver
   family: Stegle
-  <!-- url: http://url2.com
-  institute: Organizer 2 Institute -->
+  #url: http://url2.com
+  #institute: Organizer 2 Institute
 room: ""
 show_abstracts: false
 talks:
