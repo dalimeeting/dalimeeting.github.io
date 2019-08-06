@@ -32,6 +32,10 @@ conference:
   chair:
   scientific_coordinators:
   - given: Matthias
+    family: Bauer
+    url: https://ei.is.tuebingen.mpg.de/person/bauer
+    institute: MPI for Intelligent Systems (Tübingen)
+  - given: Matthias
     family: Hohmann
     url: https://ei.is.tuebingen.mpg.de/person/mhohmann
     institute: MPI for Intelligent Systems (Tübingen)
