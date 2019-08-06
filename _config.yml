@@ -40,6 +40,10 @@ conference:
     url: https://ei.is.tuebingen.mpg.de/person/mhohmann
     institute: MPI for Intelligent Systems (Tübingen)
   assistants:
+  - given: Matthias
+    family: Bauer
+    url: https://ei.is.tuebingen.mpg.de/person/bauer
+    institute: MPI for Intelligent Systems (Tübingen)
   - given: Julia
     family: Braun
     url: "https://www.is.mpg.de/person/jbraun"
@@ -47,6 +51,9 @@ conference:
   - given: Maria
     family: Püschel
     institute: MPI for Intelligent Systems (Tübingen)
+  - given: Diana
+    family: Rebmann
+    institute: DeepMind (Montreal)
   steering:
   - given: Zoubin
     family: Ghaharamani
