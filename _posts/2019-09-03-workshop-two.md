@@ -27,37 +27,37 @@ talks:
   abstract: My abstract here
   start: "9:30"
   end: "10:00"
-- title: ""
+- title: "Fairness - Technical Talk"
   author:
-  - given: An
-    family: Author
+  - given: Krishna
+    family: Gummadi
     url: http://a.url
-    institute: Institute
+    institute: MPI-SWS
   abstract: My abstract here
   start: "10:00"
   end: "10:30"
-- title: ""
+- title: "Fairness - Legal Talk"
   author:
-  - given: An
-    family: Author
+  - given: Christopher 
+    family: Markou
     url: http://a.url
     institute: Institute
   start: "10:30"
   end: "11:00"
 - title: "Coffee Break"
-- title: ""
+- title: "Transparency and interpretability - Technical Talk"
   author:
-  - given: An
-    family: Author
+  - given: Sergio 
+    family: Escalera
     url: http://a.url
     institute: Institute
   abstract: My abstract here
   start: "11:30"
   end: "12:00"
-- title: "Maximum Entropy Deep RL for Real-World Robots"
+- title: "Transparency and interpretability - Legal Talk"
 - title: ""
   author:
-  - given: An
+  - given: Lilian
     family: Author
     url: http://a.url
     institute: Institute
@@ -68,23 +68,41 @@ talks:
   start: "12:30"
   end: "13:00"
 - title: "Lunch Break"
-- title: ""
+- title: "Human-centric - Technical Talk"
   author:
-  - given: An
-    family: Author
+  - given: Thomas 
+    family: Hoffman
     url: http://a.url
     institute: Institute
   abstract: My abstract here
   start: "17:00"
-  end: "17:30"
-- title: "Toward Deep Reinforcement Learning in the Wild with Goal-Conditioned Value Functions"
+  end: "17:15"
+- title: "Human-centric - Technical Talk"
   author:
-  - given: An
-    family: Author
+  - given: John 
+    family: Shaw-Taylor
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "17:15"
+  end: "17:30"
+- title: "Human-centric - Technical Talk"
+  author:
+  - given: Bruno  
+    family: Lepri
     url: http://a.url
     institute: Institute
   abstract: My abstract here
   start: "17:30"
+  end: "17:45"
+- title: "Human-centric - Discussion"
+  author:
+  - given:   
+    family: 
+    url: http://a.url
+    institute: Institute
+  abstract: My abstract here
+  start: "17:45"
   end: "18:00"
 - title: "Discussion"
   start: "18:00"
