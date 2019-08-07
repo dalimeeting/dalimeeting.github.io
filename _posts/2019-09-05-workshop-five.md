@@ -6,7 +6,7 @@ organizer_url: http://url3.com
 categories:
 - dali2019b
 organizers:
-- given: Francis   
+- given: Francis
   family: Bach
 #  url: http://url.com
 #  institute: Organizer 1 Institute
@@ -19,31 +19,39 @@ organizers:
 room: ""
 show_abstracts: false
 talks:
-- title: "Opening Remarks"
+- title: "Introduction"
   author:
-  - given: First
-    family: Surname
-    institute: Institute
+  - given: Francis
+    family: Bach
+    institute:
   abstract: My abstract here
   start: "9:30"
-  end: "10:00"
-- title: ""
+  end: "9:40"
+- title: "Talk"
   author:
-  - given: An
-    family: Author
+  - given: Ingo
+    family: Steinwart
     url: http://a.url
-    institute: Institute
+    institute:
   abstract: My abstract here
-  start: "10:00"
-  end: "10:30"
-- title: ""
+  start: "9:40"
+  end: "10:00"
+- title: "Talk"
   author:
-  - given: An
-    family: Author
+  - given: Tamara
+    family: Broderick
     url: http://a.url
-    institute: Institute
-  start: "10:30"
-  end: "11:00"
+    institute:
+  start: "10:00"
+  end: "10:20"
+- title: "Talk"
+  author:
+  - given: Marco
+    family: Cuturi
+    url: http://a.url
+    institute:
+  start: "10:20"
+  end: "10:40"
 - title: "Coffee Break"
 - title: ""
   author:
