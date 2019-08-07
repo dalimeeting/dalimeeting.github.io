@@ -8,11 +8,11 @@ categories:
 organizers:
 - given: Nicolo
   family: Cesa-Bianchi
-  url: mailto:cesa.bianchi@gmail.com
+  url: http://cesa-bianchi.di.unimi.it/
   #institute: Organizer 1 Institute
 - given: Andreas
   family: Krause
-  url: mailto:krausea@ethz.ch
+  url: https://las.inf.ethz.ch/krause://las.inf.ethz.ch/krausea
   #institute: Organizer 2 Institute
 - given: Bernhard
   family: Schölkopf
