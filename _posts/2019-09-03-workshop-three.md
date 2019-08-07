@@ -56,13 +56,12 @@ talks:
   abstract: My abstract here
   start: "11:30"
   end: "12:00"
-- title: "Maximum Entropy Deep RL for Real-World Robots"
-- title: ""
+- title: "A framework for online meta-learning"
   author:
-  - given: An
-    family: Author
+  - given: Massimiliano
+    family: Pontil
     url: http://a.url
-    institute: Institute
+    institute: IIT (Italy)
   abstract: My abstract here
   start: "12:00"
   end: "12:30"
@@ -70,19 +69,19 @@ talks:
   start: "12:30"
   end: "13:00"
 - title: "Lunch Break"
-- title: ""
+- title: "TBA"
   author:
-  - given: An
-    family: Author
+  - given: Nicolas
+    family: Heess
     url: http://a.url
-    institute: Institute
+    institute: DeepMind (UK)
   abstract: My abstract here
   start: "17:00"
   end: "17:30"
-- title: "Toward Deep Reinforcement Learning in the Wild with Goal-Conditioned Value Functions"
+- title: ""
   author:
-  - given: An
-    family: Author
+  - given:
+    family:
     url: http://a.url
     institute: Institute
   abstract: My abstract here
@@ -91,6 +90,4 @@ talks:
 - title: "Discussion"
   start: "18:00"
   end: "19:00"
-- title: "Debate"
-  start: "19:00"
 ---
