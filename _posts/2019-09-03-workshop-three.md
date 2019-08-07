@@ -23,9 +23,9 @@ show_abstracts: false
 talks:
 - title: "Opening Remarks"
   author:
-  - given: First
-    family: Surname
-    institute: Institute
+  - given:
+    family:
+    institute:
   abstract: My abstract here
   start: "9:30"
   end: "10:00"
@@ -78,12 +78,12 @@ talks:
   abstract: My abstract here
   start: "17:00"
   end: "17:30"
-- title: ""
+- title: "TBA"
   author:
   - given:
     family:
     url: http://a.url
-    institute: Institute
+    institute:
   abstract: My abstract here
   start: "17:30"
   end: "18:00"
