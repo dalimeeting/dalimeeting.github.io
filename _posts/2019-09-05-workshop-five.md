@@ -80,27 +80,64 @@ talks:
   start: "12:15"
   end: "13:00"
 - title: "Lunch Break"
-- title: ""
+- title: "Talk"
   author:
-  - given: An
-    family: Author
+  - given: Gergely
+    family: Neu
     url: http://a.url
-    institute: Institute
+    institute:
+  abstract: My abstract here
+  start: "16:00"
+  end: "16:30"
+- title: "Talk"
+  author:
+  - given: Alessandro
+    family: Rudi
+    url: http://a.url
+    institute:
+  abstract: My abstract here
+  start: "16:30"
+  end: "17:00"
+- title: "Talk"
+  author:
+  - given: Quentin
+    family: Berthet
+    url: http://a.url
+    institute:
   abstract: My abstract here
   start: "17:00"
   end: "17:30"
-- title: "Toward Deep Reinforcement Learning in the Wild with Goal-Conditioned Value Functions"
+- title: "Coffee Break"
+- title: "Talk"
   author:
-  - given: An
-    family: Author
+  - given: Patrick
+    family: Rebeschini
     url: http://a.url
-    institute: Institute
+    institute:
   abstract: My abstract here
-  start: "17:30"
-  end: "18:00"
-- title: "Discussion"
   start: "18:00"
+  end: "18:30"
+- title: "Talk"
+  author:
+  - given: Vianney
+    family: Perchet
+    url: http://a.url
+    institute:
+  abstract: My abstract here
+  start: "18:30"
   end: "19:00"
-- title: "Debate"
+- title: "Talk"
+  author:
+  - given: Jean-Philippe
+    family: Vert
+    url: http://a.url
+    institute:
+  abstract: My abstract here
   start: "19:00"
+  end: "19:30"
+- title: "ELLIS assembly"
+  start: "19:45"
+  end: "20:30"
+- title: "Banquet"
+  start: "21:00"
 ---
