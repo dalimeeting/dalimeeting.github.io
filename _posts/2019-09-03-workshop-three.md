@@ -40,19 +40,19 @@ talks:
   end: "10:30"
 - title: ""
   author:
-  - given: An
-    family: Author
+  - given: Chris
+    family: Watkins
     url: http://a.url
-    institute: Institute
+    institute: Royal Holloway University of London (UK)
   start: "10:30"
   end: "11:00"
 - title: "Coffee Break"
-- title: ""
+- title: "Reinforcement Learning with Langevin Dynamics"
   author:
-  - given: An
-    family: Author
+  - given: Volkan
+    family: Cevher
     url: http://a.url
-    institute: Institute
+    institute: EPFL (Switzerland)
   abstract: My abstract here
   start: "11:30"
   end: "12:00"
