@@ -6,18 +6,18 @@ organizer_url: http://url3.com
 categories:
 - dali2019b
 organizers:
-- given: Nicolo  
+- given: Nicolo
   family: Cesa-Bianchi
-  #url: http://url.com
+  url: mailto:cesa.bianchi@gmail.com
   #institute: Organizer 1 Institute
 - given: Andreas
   family: Krause
-  #url: http://url2.com
+  url: mailto:krausea@ethz.ch
   #institute: Organizer 2 Institute
 - given: Bernhard
   family: Schölkopf
-  #url: http://url2.com
-  #institute: Organizer 2 Institute
+  url: https://ei.is.tue.mpg.de/~bs
+  institute: MPI for Intelligent Systems (Tübingen)
 room: ""
 show_abstracts: false
 talks:
@@ -29,12 +29,12 @@ talks:
   abstract: My abstract here
   start: "9:30"
   end: "10:00"
-- title: ""
+- title: "Multi-Agent Learning and Artificial Intelligence"
   author:
-  - given: An
-    family: Author
+  - given: Thore
+    family: Graepel
     url: http://a.url
-    institute: Institute
+    institute: DeepMind (UK)
   abstract: My abstract here
   start: "10:00"
   end: "10:30"
