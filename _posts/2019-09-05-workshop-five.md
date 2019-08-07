@@ -53,27 +53,31 @@ talks:
   start: "10:20"
   end: "10:40"
 - title: "Coffee Break"
-- title: ""
+- title: "Discussion"
   author:
-  - given: An
-    family: Author
+  - given: M.
+    family: Figueireido
     url: http://a.url
-    institute: Institute
+    institute:
+  - given: J.
+    family: Mairal
+    url: http://a.url
+    institute:
   abstract: My abstract here
   start: "11:30"
-  end: "12:00"
-- title: "Maximum Entropy Deep RL for Real-World Robots"
-- title: ""
-  author:
-  - given: An
-    family: Author
-    url: http://a.url
-    institute: Institute
-  abstract: My abstract here
-  start: "12:00"
-  end: "12:30"
+  end: "12:15"
 - title: "Discussion"
-  start: "12:30"
+  author:
+  - given: T.
+    family: Schön
+    url: http://a.url
+    institute:
+  - given: P.
+    family: Hennig
+    url: http://a.url
+    institute:
+  abstract: My abstract here
+  start: "12:15"
   end: "13:00"
 - title: "Lunch Break"
 - title: ""
