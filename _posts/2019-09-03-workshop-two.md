@@ -8,72 +8,108 @@ categories:
 organizers:
 - given: Nuria   
   family: Oliver
-  #url: http://url.com
-  #institute: Organizer 1 Institute
+  #url: http://www.nuriaoliver.com/
+  institute: Vodafone Institute and DataPop Alliance
 - given: Plamen
   family: Angelov
-#  url: http://url2.com
-#  institute: Organizer 2 Institute
+  url: https://www.lancaster.ac.uk/people-profiles/plamen-angelov
+  institute: Lancaster University
 - given: Adrian
   family: Weller
+  url: http://mlg.eng.cam.ac.uk/adrian/
+  institute:  University of Cambridge, Alan Turing Institute and Leverhulme Centre for the Future of Intelligence
 room: ""
 show_abstracts: false
 talks:
-- title: "Opening Remarks"
+- title: "Introduction "
   author:
-  - given: First
-    family: Surname
-    institute: Institute
-  abstract: My abstract here
+  - given: Adrian, Palmen and Nuria
+    family: 
+    institute: Program Directors
+  abstract: 
   start: "9:30"
   end: "10:00"
 - title: "Fairness - Technical Talk"
   author:
   - given: Krishna
     family: Gummadi
-    url: http://a.url
+    url: https://www.mpi-sws.org/people/gummadi/
     institute: MPI-SWS
   abstract: My abstract here
   start: "10:00"
+  end: "10:15"
+- title: "Fairness - Technical Talk"
+  author:
+  - given: Manuel
+    family: Gomez-Rodriguez
+    url: https://people.mpi-sws.org/~manuelgr/
+    institute: MPI-SWS
+  abstract: My abstract here
+  start: "10:15"
   end: "10:30"
 - title: "Fairness - Legal Talk"
   author:
   - given: Christopher 
     family: Markou
-    url: http://a.url
-    institute: Institute
+    url: https://www.law.cam.ac.uk/people/cp-markou/6574
+    institute: Leverhulme Institute
   start: "10:30"
+  end: "10:45"
+- title: "Fairness - Discussion"
+  author:
+  - given:  
+    family: 
+    institute: 
+  start: "10:45"
   end: "11:00"
 - title: "Coffee Break"
 - title: "Transparency and interpretability - Technical Talk"
   author:
   - given: Sergio 
     family: Escalera
-    url: http://a.url
-    institute: Institute
+    url: http://sergioescalera.com/
+    institute: University of Barcelona
   abstract: My abstract here
   start: "11:30"
-  end: "12:00"
+  end: "11:48"
+- title: "Transparency and interpretability - Technical Talk"
+  author:
+  - given: Christian  
+    family: Theobalt
+    url: http://gvv.mpi-inf.mpg.de/
+    institute: MPI for Informatiks
+  abstract: My abstract here
+  start: "11:48"
+  end: "12:06"
+- title: "Transparency and interpretability - Technical Talk"
+  author:
+  - given: Christian  
+    family: Theobalt
+    url: http://gvv.mpi-inf.mpg.de/
+    institute: MPI for Informatiks
+  abstract: My abstract here
+  start: "12:06"
+  end: "12:24"
 - title: "Transparency and interpretability - Legal Talk"
 - title: ""
   author:
   - given: Lilian
-    family: Author
-    url: http://a.url
-    institute: Institute
+    family: Edwards
+    url: https://www.ncl.ac.uk/nuls/staff/profile/lilianedwards.html#background
+    institute: Newcastle Law School
   abstract: My abstract here
-  start: "12:00"
-  end: "12:30"
+  start: "12:24"
+  end: "12:42"
 - title: "Discussion"
-  start: "12:30"
+  start: "12:42"
   end: "13:00"
 - title: "Lunch Break"
 - title: "Human-centric - Technical Talk"
   author:
   - given: Thomas 
     family: Hoffman
-    url: http://a.url
-    institute: Institute
+    url: http://www.da.inf.ethz.ch/people/ThomasHofmann/
+    institute: ETH Zurich
   abstract: My abstract here
   start: "17:00"
   end: "17:15"
@@ -81,8 +117,8 @@ talks:
   author:
   - given: John 
     family: Shaw-Taylor
-    url: http://a.url
-    institute: Institute
+    url: http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/
+    institute: UCL
   abstract: My abstract here
   start: "17:15"
   end: "17:30"
@@ -90,7 +126,7 @@ talks:
   author:
   - given: Bruno  
     family: Lepri
-    url: http://a.url
+    url: https://scholar.google.com/citations?user=zN5RTZcAAAAJ&hl=en
     institute: Institute
   abstract: My abstract here
   start: "17:30"
@@ -104,9 +140,7 @@ talks:
   abstract: My abstract here
   start: "17:45"
   end: "18:00"
-- title: "Discussion"
+- title: "Panel"
   start: "18:00"
-  end: "19:00"
-- title: "Debate"
-  start: "19:00"
+  end: "19:30"
 ---
