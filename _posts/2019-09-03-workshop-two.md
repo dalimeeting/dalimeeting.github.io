@@ -23,12 +23,12 @@ show_abstracts: false
 talks:
 - title: "Introduction "
   author:
-  - given: Adrian, Palmen and Nuria
+  - given: Adrian, Plamen and Nuria
     family: 
     institute: Program Directors
   abstract: 
   start: "9:30"
-  end: "10:00"
+  end: "09:45"
 - title: "Fairness - Technical Talk"
   author:
   - given: Krishna
@@ -36,8 +36,8 @@ talks:
     url: https://www.mpi-sws.org/people/gummadi/
     institute: MPI-SWS
   abstract: My abstract here
-  start: "10:00"
-  end: "10:15"
+  start: "09:45"
+  end: "10:00"
 - title: "Fairness - Technical Talk"
   author:
   - given: Manuel
@@ -45,22 +45,22 @@ talks:
     url: https://people.mpi-sws.org/~manuelgr/
     institute: MPI-SWS
   abstract: My abstract here
-  start: "10:15"
-  end: "10:30"
+  start: "10:00"
+  end: "10:15"
 - title: "Fairness - Legal Talk"
   author:
   - given: Christopher 
     family: Markou
     url: https://www.law.cam.ac.uk/people/cp-markou/6574
     institute: Leverhulme Institute
-  start: "10:30"
-  end: "10:45"
+  start: "10:15"
+  end: "10:30"
 - title: "Fairness - Discussion"
   author:
   - given:  
     family: 
     institute: 
-  start: "10:45"
+  start: "10:30"
   end: "11:00"
 - title: "Coffee Break"
 - title: "Transparency and interpretability - Technical Talk"
@@ -83,10 +83,10 @@ talks:
   end: "12:06"
 - title: "Transparency and interpretability - Technical Talk"
   author:
-  - given: Christian  
-    family: Theobalt
-    url: http://gvv.mpi-inf.mpg.de/
-    institute: MPI for Informatiks
+  - given: Chris 
+    family: Russell
+    url: https://www.surrey.ac.uk/people/chris-russell
+    institute: University of Surrey
   abstract: My abstract here
   start: "12:06"
   end: "12:24"
@@ -139,8 +139,8 @@ talks:
     institute: Institute
   abstract: My abstract here
   start: "17:45"
-  end: "18:00"
+  end: "18:15"
 - title: "Panel"
-  start: "18:00"
+  start: "18:15"
   end: "19:30"
 ---
