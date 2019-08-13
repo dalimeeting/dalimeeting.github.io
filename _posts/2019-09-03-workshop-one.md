@@ -15,7 +15,6 @@ organizers:
 room: ""
 show_abstracts: false
 talks:
-
 - title: "Opening remarks: Welcome and introduction to ELLIS Health"
   author:
   - given: Gunnar
@@ -39,7 +38,7 @@ talks:
   author:
   - given: Jem
     family: Rashbass
-    institute: National Director of Disease Registration and Cancer Analysis, UK
+    institute: "National Director of Disease Registration and Cancer Analysis, UK"
   start: "11:30"
   end: "12:15"
 - title: "2x Short talks by guests or ELLIS Health fellows"
@@ -52,7 +51,7 @@ talks:
   author:
     - given: Jennifer
       family: Listgarten
-      institute: Professor at the University of Berkeley, USA
+      institute: "Professor at the University of Berkeley, USA"
   start: "16:00"
   end: "17:00"
 - title: "6x Short talks by guests or ELLIS Health fellows"
