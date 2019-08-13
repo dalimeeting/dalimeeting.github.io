@@ -33,5 +33,5 @@ talks:
   end: "11:00"
 - title: "Coffe Break"
   start: "11:00"
-  end: "11"30"
+  end: "11:30"
 ---
