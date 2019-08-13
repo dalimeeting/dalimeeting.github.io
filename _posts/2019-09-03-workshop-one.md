@@ -34,4 +34,31 @@ talks:
 - title: "Coffe Break"
   start: "11:00"
   end: "11:30"
+- title: "Keynote"
+  author:
+  - given: Jem
+    family: Rashbass
+    institute: "National Director of Disease Registration and Cancer Analysis, UK"
+  start: "11:30"
+  end: "12:15"
+- title: "2x Short talks by guests or ELLIS Health fellows"
+  start: "12:15"
+  end: "13:00"
+- title: "Lunch"
+  start: "13:00"
+  end: "15:00"
+- title: "Keynote"
+  author:
+    - given: Jennifer
+      family: Listgarten
+      institute: "Professor at the University of Berkeley, USA"
+  start: "16:00"
+  end: "17:00"
+- title: "6x Short talks by guests or ELLIS Health fellows"
+  start: "17:00"
+  end: "18:30"
+- title: "Discussion/Closing"
+  start: "18:30"
+  end: "19:00"
+---
 ---
