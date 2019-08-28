@@ -30,7 +30,8 @@ conference:
     url: "http://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI for Intelligent Systems (Tübingen) and Amazon
   chair:
-  scientific_coordinators:
+
+  assistants:
   - given: Matthias
     family: Bauer
     url: https://ei.is.tuebingen.mpg.de/person/bauer
@@ -38,11 +39,6 @@ conference:
   - given: Matthias
     family: Hohmann
     url: https://ei.is.tuebingen.mpg.de/person/mhohmann
-    institute: MPI for Intelligent Systems (Tübingen)
-  assistants:
-  - given: Matthias
-    family: Bauer
-    url: https://ei.is.tuebingen.mpg.de/person/bauer
     institute: MPI for Intelligent Systems (Tübingen)
   - given: Maria
     family: Püschel
