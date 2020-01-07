@@ -1,28 +1,48 @@
 ---
-layout: venue
-title: Venue
 weight: 2
+title: Venue
+layout: page
 ---
 
-<h1>Details</h1>
-
 <p>
-    For more information about the conference venue, please visit
-    <a href="https://www.kursaal.eus/en/">https://www.kursaal.eus/en/</a>.
-</p>
-
-<p>
-    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.9834828376770022%2C43.32046332510289%2C-1.9747388362884524%2C43.328814664058385&amp;layer=mapnik&amp;marker=43.32463613057807%2C-1.9791162571982568" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=43.32464&amp;mlon=-1.97912#map=17/43.32464/-1.97911">Show bigger map</a></small>
+  {{ site.conference.shortname }} {{ site.conference.year }} will take place in the {%if site.conference.venue_url %}<a href="{{site.conference.venue_url}}">{%endif%}{{site.conference.venue }}{%if site.conference.venue_url %}</a>{%endif%}, {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A, %B %-d" }} to {{ site.conference.dates.last | date: "%A, %B %-d, %Y" }}.
 </p>
 
 
-<h2>How to get there</h2>
+<h3>Details</h3>
+
+<div class="infobox-venue">
+  <div class="tiny-text">
+    <i class="fas fa-map-marker-alt"></i> <b>Carrer Punta Negra 12, 
+    07181 Costa d'en Blanes,
+    Illes Balears</b>
+  </div>
+  <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=2.5469505786895756%2C39.524641972216905%2C2.558001279830933%2C39.53015336825218&amp;layer=mapnik&amp;marker=39.52740047259695%2C2.552479491569102" title="Map"></iframe>
+  <hr/>
+  <img src="{{ 'hotel-photo-1.jpg' | prepend: '/assets/images/' | prepend: site.baseurl | prepend: site.url }}" alt="Hotel Pool" title="Hotel Pool"/>
+  <br/>
+  <img src="{{ 'hotel-photo-2.jpg' | prepend: '/assets/images/' | prepend: site.baseurl | prepend: site.url }}"  alt="Hotel Room" title="Hotel Room"/>
+  <br/>
+  <img src="{{ 'hotel-photo-3.jpg' | prepend: '/assets/images/' | prepend: site.baseurl | prepend: site.url }}"  alt="Meeting Room" title="Meeting Room"/>
+</div>
 
 <p>
-    The closest airport is
-    <a href="http://www.aena.es/en/san-sebastian-airport/index.html">San Sebastián</a>,
-    another option is
-    <a href="http://www.aena.es/en/bilbao-airport/index.html">Bilbao</a>.
+  The H10 Punta Negra is a lovely boutique hotel located on a small peninsular on the Costa d'en Blanes in the south of Mallorca.
+  It is situated in one of the island's most beautiful areas, and offers a fantastic view of the ocean and the nearby marina.
+  The hotel's large landscaped gardens give it a very special character that will allow you to enjoy the peaceful surroundings.
+  Furthermore, guests can also easily visit the island's capital, Palma de Mallorca, which is only 12&thinsp;km away and was named <a href="https://www.thetimes.co.uk/article/best-places-to-live-in-the-world-the-winner-n9bl8vlpl38">»the best place to live in the world«</a> by <em>The Times</em> in 2015.
+  Finally, the hotel also has five meeting rooms with natural light and unique coastal surroundings, equipped with everything you need to hold a successful conference.
+</p>
+<p>
+  For more information, please visit the website of the <a href="{{ site.conference.venue_url }}">{{ site.conference.venue }}</a>.
 </p>
 
 
+<h3>How to get there</h3>
+<p>
+  The closest airport is <a href="http://www.aena.es/en/palma-mallorca-airport/index.html">Palma de Mallorca</a>, which is the only commercial airport on the island of Mallorca.
+  Alternatively, there are also a number of ferries, starting, for example, from Barcelona and Valencia.
+</p>
+<p>
+  From the airport, you can take a taxi (ca. 25&nbsp;minutes), or use the <a href="https://www.tib.org/en/web/ctm/autobus/linia/a11">autobus line A11</a>, which directly goes from the airport to Costa d'en Blanes (stop "H. Punta Negra").
+</p>
