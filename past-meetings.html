@@ -1,0 +1,16 @@
+---
+weight: 7
+title: Past Meetings
+layout: page
+---
+
+{% if site.github.public_repositories %}
+{% assign sorted = site.github.public_repositories | sort: 'name' %}
+  
+<ul>
+  {% for repository in sorted reversed %}{% if repository.has_pages %}{% unless repository.name contains 'github.io' %}{% if repository.name contains 'dali' %}<li>
+    <a href="{{ repository.name | prepend: site.baseurl | prepend: site.url }}"><strong>DALI {{ repository.name | remove_first: "dali" }}</strong></a> — {{ repository.description }} 
+  </li>{% endif %}{% endunless %}{% endif %}{% endfor %}    
+</ul>
+
+{% endif %}
