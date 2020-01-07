@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<article>
+
+<header>
+  <h1>Workshop: {{ page.title }}</h1>
+</header>
+
+<div class="workshop-header">
+
+  <div class="workshop-header-key">Date & Time:</div>
+  <div class="workshop-header-value">
+    <time datetime="{{ page.date }} {{ page.starttime }}">{{ page.date | date: "%A, %B %-d, %Y" }}, {{ page.starttime | date: "%H:%M" }}&thinsp;–&thinsp;{{ page.endtime | date: "%H:%M" }}</time>
+  </div>
+
+  <div class="workshop-header-separator"></div>
+
+  <div class="workshop-header-key">Room:</div>
+  <div class="workshop-header-value">
+    {% if page.room %} {{ page.room }} {% else %} TBA {% endif %}
+  </div>
+
+  <div class="workshop-header-separator"></div>
+
+  <div class="workshop-header-key">Organizers:</div>
+  <div class="workshop-header-value">
+    {% for organizer in page.organizers %}
+      <p class="small-margin">{{ organizer.given }} {{ organizer.family}}, <em>{{ organizer.affiliation }}</em></p>
+    {% endfor %}
+  </div>
+
+</div>
+
+{{ content }}
+
+</article>
