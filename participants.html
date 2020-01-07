@@ -1,5 +1,15 @@
 ---
-layout: participants
-title: Participants
 weight: 3
+title: Participants
+layout: page
 ---
+
+{% if site.data.participants %}
+    <ul>
+    {% for person in site.data.participants %}
+        <li>{{ person.given }} {{ person.family }}, <em>{{ person.affiliation }}</em></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <em>No confirmed participants yet.</em>
+{% endif %}
