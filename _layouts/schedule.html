@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article>
+
+  <header>
+    <h1>Schedule Day {{ page.day }} ({{ page.date | date: "%A, %B %-d, %Y" }})</h1>
+    <h2>{{ page.description }}</h2>
+  </header>
+  
+  <table class="list-day-table">
+    {% for event in page.events %}
+      <tr>
+        {% if event.hide_time %}
+          <td colspan="3" class="centered-td">
+            {{ event.title }}
+          </td>
+        {% else %}
+          <td class="time-td">{{ event.starttime }}{% if event.endtime %}&thinsp;–&thinsp;{{ event.endtime }}{% endif %}</td>
+          <td class="separator-td">—</td>
+          <td class="title-td">{{ event.title }}</td>
+        {% endif %}
+      </tr>
+    {% endfor %}
+  </table>
+  
+</article>
