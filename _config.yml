@@ -1,54 +1,90 @@
-# Site settings
-title: DALI 2019 - Data, Learning and Inference
+
+# Global site settings
+title: DALI 2020
+subtitle: Data, Learning and Inference
 permalink: "/:categories/:title.html"
+baseurl: ""
+url: "dalimeeting.org"
+
+
+# Also generate pages with dates in the future
+future: true
+
+
+# Additional build settings
+markdown: kramdown
+
+
+# Minify HTML
+compress_html:
+  clippings: all
+  comments: all
+  blanklines: true
+
+
 # Include image banner file name below
 banner: banner.jpg
-banner_title: Image cc BY-SA 3.0
+banner_title: 
+
 
 # Registration fees and URL go here.
 registration:
   fee:
-    academic: 450 euros
-    industry: 600 euros
+    academic: 450&thinsp;€
+    industry: 600&thinsp;€
   url:
+
 
 # Hotel booking URL goes here
 booking:
   url:
 
+
+# Conference information
 conference:
+
   draft: false
   hide_tentative: true
-  hosts:
+
+  name: DALI 2020 — Data, Learning and Inference
+  shortname: DALI
+  venue: H10 Punta Negra Hotel
+  venue_url: https://www.h10hotels.com/en/mallorca-hotels/h10-punta-negra 
+  location: Costa d'en Blanes, Balearic Islands, Spain
+  year: 2020
+  month: April
+  dates:
+  - 2020-04-13
+  - 2020-04-14
+  - 2020-04-15
+  - 2020-04-16
+
+  sponsors:
+  - name: Max Planck ETH Center for Learning Systems
+    url: "https://learning-systems.org/"
+
   general:
   - given: Neil D.
     family: Lawrence
     url: "http://inverseprobability.com"
-    institute: Amazon and University of Sheffield
+    institute: University of Cambridge
   - given: Bernhard
     family: Schölkopf
-    url: "http://ei.is.tuebingen.mpg.de/person/bs"
+    url: "https://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI for Intelligent Systems (Tübingen) and Amazon
-  chair:
 
   assistants:
-  - given: Matthias
-    family: Bauer
-    url: https://ei.is.tuebingen.mpg.de/person/bauer
-    institute: MPI for Intelligent Systems (Tübingen)
-  - given: Matthias
-    family: Hohmann
-    url: https://ei.is.tuebingen.mpg.de/person/mhohmann
-    institute: MPI for Intelligent Systems (Tübingen)
-  - given: Maria
-    family: Püschel
-    institute: MPI for Intelligent Systems (Tübingen)
   - given: Diana
     family: Rebmann
-    institute: DeepMind (Montreal)
+    institute: DeepMind (Montréal)
+  - given: Timothy
+    family: Gebhard
+    url: "https://timothygebhard.de"
+    institute: MPI for Intelligent Systems (Tübingen) and ETH Zurich
+
   steering:
   - given: Zoubin
-    family: Ghaharamani
+    family: Ghahramani
     url: "http://mlg.eng.cam.ac.uk/zoubin/"
     institute: University of Cambridge and Uber
   - given: Thomas
@@ -58,37 +94,23 @@ conference:
   - given: Neil D.
     family: Lawrence
     url: "http://inverseprobability.com"
-    institute: Amazon and University of Sheffield
+    institute: University of Cambridge
   - given: Bernhard
     family: Schölkopf
-    url: "http://ei.is.tuebingen.mpg.de/person/bs"
-    institute: MPI for Intelligent Systems (Tübingen)
-  name: DALI 2019 - Data Learning and Inference
-  shortname: DALI
-  venue: Kursaal
-  venue_url: https://www.kursaal.eus/en/
-  location: San Sebastian, Spain
-  year: 2019
-  month: September
-  dates:
-  - 2019-09-03
-  - 2019-09-04
-  - 2019-09-05
-  - 2019-09-06
-  sponsors:
-  - name: Max-Planck-ETH Center for Learning Systems
-    url: "http://learning-systems.org/"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://dalimeeting.org" # the base hostname & protocol for your site
-youtube:
-  height: 315
-  width: 560
-twitter_username:
-github_username:  dalimeeting
-github:
-  edit: true
-  repository: dalimeeting.github.io
-future: true
+    url: "https://ei.is.tuebingen.mpg.de/person/bs"
+    institute: MPI for Intelligent Systems (Tübingen) and Amazon
 
-# Build settings
-markdown: kramdown
+
+# Set up collections (for workshops and schedule)
+collections:
+  workshops:
+    output: true
+    permalink: /workshops/:name
+  schedule:
+    output: true
+    permalink: /schedule/:name
+
+# Social media settings
+contact_email: drebmann@google.com
+github_username: dalimeeting
+twitter_username:
