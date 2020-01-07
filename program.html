@@ -1,6 +1,28 @@
 ---
-layout: program
-title: Program
 weight: 4
+title: Program
+layout: page
 ---
 
+<h2>Workshops</h2>
+{% if site.workshops %}
+  <ul>
+  {% for workshop in site.workshops %}
+    {% include list_workshop.html %}
+  {% endfor %}
+  </ul>
+{% else %}
+  <p><em>No confirmed workshops yet.</em></p>
+{% endif %}
+
+
+<h2>Preliminary Schedule</h2>
+{% if site.schedule %}
+  <ul>
+  {% for day in site.schedule %}
+    {% include list_day.html %}
+  {% endfor %}
+  </ul>
+{% else %}
+  <p><em>No confirmed events yet.</em></p>
+{% endif %}
