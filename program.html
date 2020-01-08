@@ -5,7 +5,7 @@ layout: page
 ---
 
 <h2>Workshops</h2>
-{% if site.workshops %}
+{% if site.workshops.size != 0 %}
   <ul>
   {% for workshop in site.workshops %}
     {% include list_workshop.html %}
@@ -15,9 +15,10 @@ layout: page
   <p><em>No confirmed workshops yet.</em></p>
 {% endif %}
 
+<br/>
 
 <h2>Preliminary Schedule</h2>
-{% if site.schedule %}
+{% if site.schedule.size != 0 %}
   <ul>
   {% for day in site.schedule %}
     {% include list_day.html %}
