@@ -4,7 +4,7 @@ title: DALI 2020
 subtitle: Data, Learning and Inference
 permalink: "/:categories/:title.html"
 baseurl: ""
-url: "dalimeeting.org"
+url: ""
 
 
 # Also generate pages with dates in the future
