@@ -220,7 +220,7 @@
   vertical-align: top;
   border-collapse: collapse;
 
-  tr:nth-child(even) {background: lighten($grey-color, 40%);}
+  tr:nth-child(odd) {background: lighten($grey-color, 40%);}
 
   tr { 
     width: 100%; 
