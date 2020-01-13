@@ -2,10 +2,12 @@
   <h3>
     <a href="{{ workshop.url | prepend: site.baseurl | prepend: site.url }}">{{ workshop.title }}</a>
   </h3>
-  <strong>Date & Room:</strong> {{ workshop.date | date: "%A, %B %-d" }} @ {{ workshop.room }}<br/>
+  <strong>Date & Room:</strong> 
+    {% if workshop.date %} {{ workshop.date | date: "%A, %B %-d" }} {% else %} TBA {% endif %} @ 
+    {% if workshop.room %} {{ workshop.room }} {% else %} TBA {% endif %}<br/>
   <strong>Organizers:</strong>
-  {% assign lastone = workshop.organizers | last %}
-  {% for organizer in workshop.organizers %}
-    {{ organizer.given }} {{ organizer.family}}{% unless organizer == lastone %}, {% endunless %}
-  {% endfor %}
+    {% assign lastone = workshop.organizers | last %}
+    {% for organizer in workshop.organizers %}
+      {{ organizer.given }} {{ organizer.family}}{% unless organizer == lastone %}, {% endunless %}
+    {% endfor %}
 </li>
