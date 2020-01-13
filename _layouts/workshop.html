@@ -12,14 +12,24 @@ layout: default
 
   <div class="workshop-header-key">Date & Time:</div>
   <div class="workshop-header-value">
-    <time datetime="{{ page.date }} {{ page.starttime }}">{{ page.date | date: "%A, %B %-d, %Y" }}, {{ page.starttime | date: "%H:%M" }}&thinsp;–&thinsp;{{ page.endtime | date: "%H:%M" }}</time>
+    {% if page.date and page.starttime %}
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A, %B %-d, %Y" }}, {{ page.starttime | date: "%H:%M" }}&thinsp;–&thinsp;{{ page.endtime | date: "%H:%M" }}</time>
+    {% elsif page.date %}
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%A, %B %-d, %Y" }}, time TBA</time>
+    {% else %}
+      TBA
+    {% endif %}
   </div>
 
   <div class="workshop-header-separator"></div>
 
   <div class="workshop-header-key">Room:</div>
   <div class="workshop-header-value">
-    {% if page.room %} {{ page.room }} {% else %} TBA {% endif %}
+    {% if page.room %} 
+      {{ page.room }} 
+    {% else %} 
+      TBA 
+    {% endif %}
   </div>
 
   <div class="workshop-header-separator"></div>
@@ -33,6 +43,11 @@ layout: default
 
 </div>
 
-{{ content }}
+{% assign content = page.content | strip_newlines %}
+{% if content == '' %}
+  <em>This workshop does not yet have a description.</em>
+{% else %}
+  {{ content }}
+{% endif %}
 
 </article>
