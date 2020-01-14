@@ -24,20 +24,6 @@ compress_html:
 
 # Include image banner file name below
 banner: banner.jpg
-banner_title: 
-
-
-# Registration fees and URL go here.
-registration:
-  fee:
-    academic: 450&thinsp;€
-    industry: 600&thinsp;€
-  url:
-
-
-# Hotel booking URL goes here
-booking:
-  url:
 
 
 # Conference information
