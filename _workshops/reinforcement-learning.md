@@ -8,8 +8,8 @@ endtime:
 organizers:
   - given: Alessandro
     family: Lazaric
-    affiliation: FAIR Paris
+    affiliation: FAIR (Paris)
   - given: Ian 
     family: Osband
-    affiliation: DeepMind London
+    affiliation: DeepMind (London)
 ---
