@@ -59,6 +59,24 @@ conference:
     url: "https://ei.is.tuebingen.mpg.de/person/bs"
     institute: MPI for Intelligent Systems (Tübingen) and Amazon
 
+  organizers:
+  - given: Gergely
+    family: Neu
+    url: http://cs.bme.hu/~gergo/
+    institute: Universitat Pompeu Fabra
+
+  local:
+  - given: Vicenç 
+    family: Gómez
+    url: https://www.upf.edu/web/vgomez
+    institute: Universitat Pompeu Fabra
+
+  workshop:
+  - given: Lorenzo 
+    family: Rosasco
+    url: http://web.mit.edu/lrosasco/www/
+    institute: Universita' di Genova and Massachusetts Institute of Technology
+
   assistants:
   - given: Diana
     family: Rebmann

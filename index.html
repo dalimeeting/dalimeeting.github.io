@@ -31,11 +31,11 @@ We might add an additional ELLIS day on Friday, April 17th.</strong></p>
 
 <h3>Organization</h3>
 
-{% if site.conference.organizers %}
-<h4>Organizers</h4>
-{% assign lastone = site.conference.organizers | last %}
+{% if site.conference.general %}
+<h4>General Chairs</h4>
+{% assign lastone = site.conference.general | last %}
 <ul>
-{% for person in site.conference.organizers %}
+{% for person in site.conference.general %}
   <li>{% include listperson.html %}</li>
 {% endfor %}
 </ul>
@@ -51,21 +51,21 @@ We might add an additional ELLIS day on Friday, April 17th.</strong></p>
 </ul>
 {% endif %}
 
-{% if site.conference.general %}
-<h4>General Chairs</h4>
-{% assign lastone = site.conference.general | last %}
-<ul>
-{% for person in site.conference.general %}
-  <li>{% include listperson.html %}</li>
-{% endfor %}
-</ul>
-{% endif %}
-
 {% if site.conference.chair %}
 <h4>Chairs</h4>
 {% assign lastone = site.conference.chair | last %}
 <ul>
 {% for person in site.conference.chair %}
+  <li>{% include listperson.html %}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+{% if site.conference.organizers %}
+<h4>Organizers</h4>
+{% assign lastone = site.conference.organizers | last %}
+<ul>
+{% for person in site.conference.organizers %}
   <li>{% include listperson.html %}</li>
 {% endfor %}
 </ul>
