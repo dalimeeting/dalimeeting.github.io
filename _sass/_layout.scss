@@ -116,6 +116,15 @@
   padding-bottom: $spacing-unit;
 }
 
+.infobox-special-offer {
+  box-sizing: border-box;
+  width: 100%;
+  padding: $spacing-unit / 2.5;
+  background: lighten($brand-color, 50%);
+  margin-top: $spacing-unit / 2;  
+  margin-bottom: $spacing-unit / 2;  
+}
+
 .infobox-venue {
   box-sizing: border-box;
   float: right;
