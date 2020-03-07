@@ -7,7 +7,7 @@
 
   <!-- Title, description and favicon -->
   <title>{{ site.title }} — {{ site.subtitle }}</title>
-  <meta name="description" content="{{ site.title }} — {{ site.subtitle }}" />
+  <meta name="description" content="{{ site.conference.shortname }} {{ site.conference.year }} will take place in the {{site.conference.venue }}, {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A, %B %-d" }} to {{ site.conference.dates.last | date: "%A, %B %-d, %Y" }}." />
   <link rel="icon" href="{{ 'favicon.ico' | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}" type="image/x-icon" />
 
   <!-- Canonical link and RSS feed -->
