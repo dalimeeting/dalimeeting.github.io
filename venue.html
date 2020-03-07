@@ -5,27 +5,20 @@ layout: page
 ---
 
 <p>
-  {{ site.conference.shortname }} {{ site.conference.year }} will take place in the {%if site.conference.venue_url %}<a href="{{site.conference.venue_url}}">{%endif%}{{site.conference.venue }}{%if site.conference.venue_url %}</a>{%endif%}, {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A, %B %-d" }} to {{ site.conference.dates.last | date: "%A, %B %-d, %Y" }}.
+  {{ site.conference.shortname }} {{ site.conference.year }} will take place in the {%if site.conference.venue_url %}<a href="{{site.conference.venue_url}}">{%endif%}{{site.conference.venue }}{%if site.conference.venue_url %}</a>{%endif%}, {{ site.conference.location }} from <del>Monday, April 13 to Thursday, April 16, 2020</del> {{ site.conference.dates[0] | date: "%A, %B %-d" }} to {{ site.conference.dates.last | date: "%A, %B %-d, %Y" }}.
 </p>
 
 <h3>Accommodation</h3>
 
 <p>
   We recommend that participants and their families stay directy at the conference venue (see below for more details).
-  You can book a room at the {{site.conference.venue }} either when <a href="/registration">registering for the conference</a>, or directly by <a href="https://www.eventosycongresosweb.com/pub/1900011/q2/cgi.hrb?idexp=L0YUZ&main=alojamiento&codhot=00005&idsubexp=">following this link</a>.
+  You will be able to book a room at the {{site.conference.venue}} when <a href="{{ '/registration' | prepend: site.baseurl }}">registering for the conference</a>.
 </p>
 <p>
   <em>Note:</em> In case you book your accommodation before you register for the conference, you will later only have to fill in the personal area in order to select the registration fee.
   It is not necessary to fill out the registration form again (that way your profile would be duplicated).
 </p>
-<p>
-  In any case, we kindly ask you to <strong>please make your reservation before the end of February</strong>, as by that time, we will have to confirm to the hotel the number of rooms to avoid any cancellation costs.
-</p>
 
-<div class="infobox-special-offer">
-  We currently still have a <strong>limited number of superior rooms</strong> available (at a slightly higher cost).
-  If you are interested in booking a superior room, please <strong>contact <a href="mailto:sevillacongresos2@viajeseci.es">Daniela Strube</a> directly</strong>. 
-</div>
 
 <h3>Details</h3>
 
