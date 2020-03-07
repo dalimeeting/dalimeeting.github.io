@@ -125,6 +125,16 @@
   margin-bottom: $spacing-unit / 2;  
 }
 
+.infobox-red{
+  box-sizing: border-box;
+  width: 100%;
+  padding: $spacing-unit / 2;
+  border: 3px solid red;
+  background: lighten(red, 45%);
+  margin-top: $spacing-unit / 2;  
+  margin-bottom: $spacing-unit / 2;  
+}
+
 .infobox-venue {
   box-sizing: border-box;
   float: right;
