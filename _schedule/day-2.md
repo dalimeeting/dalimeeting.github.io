@@ -1,7 +1,7 @@
 ---
 layout: schedule
 day: 2
-date: 2020-04-14
+date: 2020-10-26
 description: Workshop Day
 events:
   - title: Activities for family members (time TBA)

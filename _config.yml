@@ -38,12 +38,12 @@ conference:
   venue_url: https://www.h10hotels.com/en/mallorca-hotels/h10-punta-negra 
   location: Costa d'en Blanes, Balearic Islands, Spain
   year: 2020
-  month: April
+  month: October
   dates:
-  - 2020-04-13
-  - 2020-04-14
-  - 2020-04-15
-  - 2020-04-16
+  - 2020-10-25
+  - 2020-10-26
+  - 2020-10-27
+  - 2020-10-28
 
   sponsors:
   - name: Max Planck ETH Center for Learning Systems

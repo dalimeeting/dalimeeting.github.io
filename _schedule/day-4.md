@@ -1,7 +1,7 @@
 ---
 layout: schedule
 day: 4
-date: 2020-04-16
+date: 2020-10-28
 description: Workshop Day
 events:
   - title: Morning Session 1

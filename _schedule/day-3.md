@@ -1,7 +1,7 @@
 ---
 layout: schedule
 day: 3
-date: 2020-04-15
+date: 2020-10-27
 description: Single-track Symposium
 events:
   - title: Keynote 1

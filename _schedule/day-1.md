@@ -1,6 +1,6 @@
 ---
 layout: schedule
-date: 2020-04-13
+date: 2020-10-25
 day: 1
 description: Registration and Arrival
 events:
