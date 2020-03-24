@@ -45,9 +45,11 @@ conference:
   - 2020-10-27
   - 2020-10-28
 
-  sponsors:
+  support:
   - name: Max Planck ETH Center for Learning Systems
-    url: "https://learning-systems.org/"
+    url: "https://learning-systems.org"
+  - name: European Laboratory for Learning and Intelligent Systems (ELLIS)
+    url: https://ellis.eu
 
   general:
   - given: Neil D.
