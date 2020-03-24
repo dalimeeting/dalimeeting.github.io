@@ -149,3 +149,14 @@ Participation is by invitation only.</p>
 {% endfor %}
 </ul>
 {% endif %}
+
+
+{% if site.conference.support %}
+<h3>Support</h3>
+<p class="small-margin">This event is supported by:</p>
+<ul>
+  {% for sponsor in site.conference.support %}
+    <li>{% include listsponsor.html %}</li>
+  {% endfor %}
+</ul>
+{% endif %}
