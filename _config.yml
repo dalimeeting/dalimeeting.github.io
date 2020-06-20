@@ -1,6 +1,6 @@
 
 # Global site settings
-title: DALI 2020
+title: DALI 2021
 subtitle: Data, Learning and Inference
 permalink: "/:categories/:title.html"
 baseurl: ""
@@ -32,7 +32,7 @@ conference:
   draft: false
   hide_tentative: true
 
-  name: DALI 2020 — Data, Learning and Inference
+  name: DALI 2021 — Data, Learning and Inference
   shortname: DALI
   venue: H10 Punta Negra Hotel
   venue_url: https://www.h10hotels.com/en/mallorca-hotels/h10-punta-negra 
@@ -40,10 +40,10 @@ conference:
   year: 2020
   month: October
   dates:
-  - 2020-10-28
-  - 2020-10-29
-  - 2020-10-30
-  - 2020-10-31
+  - 2021-10-28
+  - 2021-10-29
+  - 2021-10-30
+  - 2021-10-31
 
   support:
   - name: Max Planck ETH Center for Learning Systems
