@@ -12,6 +12,9 @@ plugins:
 remote_theme: lawrennd/proceedings
 style: dali
 
+ghub:
+  edit: true
+  repository: dalimeeting.github.io
 # Also generate pages with dates in the future
 future: true
 
@@ -33,12 +36,13 @@ banner: banner.jpg
 
 # Conference information
 conference:
-
   draft: false
-  hide_tentative: true
-
-  name: DALI 2021 — Data, Learning and Inference
-  shortname: DALI
+  hide_tentative: false
+  instance: 7th
+  styling: Workshop on
+  name: Data, Learning and Inference
+  short_name: DALI
+  full_name: Data, Learning and Inference
   venue: H10 Punta Negra Hotel
   venue_url: https://www.h10hotels.com/en/mallorca-hotels/h10-punta-negra 
   location: "Costa d'en Blanes, Balearic Islands, Spain"
