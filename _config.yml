@@ -5,7 +5,12 @@ subtitle: Data, Learning and Inference
 permalink: "/:categories/:title.html"
 baseurl: ""
 url: ""
-
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: dali
 
 # Also generate pages with dates in the future
 future: true

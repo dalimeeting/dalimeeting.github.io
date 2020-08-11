@@ -23,7 +23,8 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Width of the content area
 $content-width:    800px;
 $on-mobile:        480px;
-
+$on-laptop:        800px;
+$on-palm:          480px;
 
 // Define custom media queries to distinguish between "regular" and "small"
 // screens (i.e., mobile phones). This macro can now be used as follows:
@@ -39,5 +40,6 @@ $on-mobile:        480px;
 @import
   "base",
   "layout",
-  "syntax-highlighting"
-;
+  "syntax-highlighting",
+  "dali";
+
