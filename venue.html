@@ -4,8 +4,10 @@ title: Venue
 layout: page
 ---
 
+{% include cancellation.html %}
+
 <p>
-  {{ site.conference.shortname }} {{ site.conference.year }} will take place in the {%if site.conference.venue_url %}<a href="{{site.conference.venue_url}}">{%endif%}{{site.conference.venue }}{%if site.conference.venue_url %}</a>{%endif%}, {{ site.conference.location }} from <del>Monday, April 13 to Thursday, April 16, 2020</del> {{ site.conference.dates[0] | date: "%A, %B %-d" }} to {{ site.conference.dates.last | date: "%A, %B %-d, %Y" }}.
+  {{ site.conference.short_name }} {{ site.conference.year }} will take place in the {%if site.conference.venue_url %}<a href="{{site.conference.venue_url}}">{%endif%}{{site.conference.venue }}{%if site.conference.venue_url %}</a>{%endif%}, {{ site.conference.location }} from {{ site.conference.dates[0] | date: "%A, %B %-d" }} to {{ site.conference.dates.last | date: "%A, %B %-d, %Y" }}.
 </p>
 
 <h3>Accommodation</h3>
