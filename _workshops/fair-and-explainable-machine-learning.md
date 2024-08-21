@@ -8,5 +8,5 @@ endtime:
 organizers:
   - given: Silvia
     family: Chiappa
-    affiliation: DeepMind (London)
+    institute: DeepMind (London)
 ---

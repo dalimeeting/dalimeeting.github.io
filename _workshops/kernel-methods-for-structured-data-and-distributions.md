@@ -8,8 +8,8 @@ endtime:
 organizers:
   - given: Zoltan  
     family: Szabo
-    affiliation: École Polytechnique (Paris)
+    institute: École Polytechnique (Paris)
   - given: Alessandro 
     family: Rudi
-    affiliation: INRIA (Paris)
+    institute: INRIA (Paris)
 ---

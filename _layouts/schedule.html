@@ -7,22 +7,22 @@ layout: default
   <header>
     <h1>Schedule Day {{ page.day }} ({{ page.date | date: "%A, %B %-d, %Y" }})</h1>
     <h2>{{ page.description }}</h2>
+    {% include edit_link.html %}
   </header>
-  
-  <table class="list-day-table">
-    {% for event in page.events %}
-      <tr>
-        {% if event.hide_time %}
-          <td colspan="3" class="centered-td">
-            {{ event.title }}
-          </td>
-        {% else %}
-          <td class="time-td">{{ event.starttime }}{% if event.endtime %}&thinsp;–&thinsp;{{ event.endtime }}{% endif %}</td>
-          <td class="separator-td">—</td>
-          <td class="title-td">{{ event.title }}</td>
-        {% endif %}
-      </tr>
+    {% if site.conference.draft %}
+    <h2>Draft Schedule</h2>
+    {% endif %}
+
+    {% for workshop in site.workshops reversed %}
+    {% if workshop.date == page.date %}
+    <p><a href="{{ site.url }}/{{ site.baseurl }}/{{ workshop.url }}">{{ workshop.title }}</a></p>
+    {% endif %}
     {% endfor %}
-  </table>
+
+    <table class="list-day-table">
+      {% for talk in page.events %}
+      {% include listtalk.html separator="table"%}
+      {% endfor %}
+    </table>
   
 </article>

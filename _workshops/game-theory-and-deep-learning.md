@@ -8,8 +8,8 @@ endtime:
 organizers:
   - given: Simon
     family: Lacoste-Julien
-    affiliation: MILA and University of Montréal
+    institute: MILA and University of Montréal
   - given: Ioannis 
     family: Mitliagkas
-    affiliation: MILA and University of Montréal
+    institute: MILA and University of Montréal
 ---

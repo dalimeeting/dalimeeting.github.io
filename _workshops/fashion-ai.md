@@ -8,5 +8,5 @@ endtime:
 organizers:
   - given: Ralf
     family: Herbrich
-    affiliation: Zalando
+    institute: Zalando
 ---
