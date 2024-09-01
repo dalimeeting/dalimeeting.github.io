@@ -1,8 +1,7 @@
-
 # Global site settings
 title: The DALI Meetings
 author:
-  name DALI Meeting
+  name: DALI Meeting
   email: info@dalimeeting.org
 description: >
   Data, Learning, Inference
