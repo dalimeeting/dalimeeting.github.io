@@ -9,6 +9,8 @@ baseurl: "/"
 twitter_username:
 github_username: dalimeeting
 
+banner: sorrento.png
+
 comments: false
 plugins:
 - jekyll-feed
