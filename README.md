@@ -24,7 +24,7 @@ git clone --bare https://github.com/dalimeeting/dalimeeting.github.io.git
 mv dalimeeting.github.io.git daliXXXX
 cd daliXXXX
 git branch -m gh-pages
-git push --mirror https://github.com/dalimeeting/daliXXXX.git
+git push --mirror git@github.com:dalimeeting/daliXXXX.git
 ```
 6. Edit the `_config.yml` file in the new repo to set `baseurl` to `daliXXXX` and set `permalink` to  `"/:title.html"`.
 
